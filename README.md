@@ -1,0 +1,102 @@
+# litmap
+
+A small, zero-build engine for **literary-geography maps** — plot the places,
+routes and characters of a text on an interactive OpenStreetMap, driven
+entirely by a `config.json` and GeoJSON data. No framework, no build step:
+plain HTML/CSS/JS + [Leaflet](https://leafletjs.com/).
+
+This repository is a **GitHub template**. Click **“Use this template”** to start
+a new project; it ships with a tiny working demo you then replace.
+
+## The idea
+
+```
+engine/        the reusable machine (no project names in the code)
+config.json    your project: works, groups, colours, strings, view, basemap
+data/          your places & routes as GeoJSON
+```
+
+> A new project = edit `config.json` + add `data/`. You should never need to
+> touch `engine/`. See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) and the
+> diagram [`docs/engine-vs-project.svg`](docs/engine-vs-project.svg).
+
+## Quick start
+
+```bash
+python3 -m http.server 8000     # from the repo root
+# open http://localhost:8000/   → the bundled "Demoville" demo
+```
+
+Then make it yours:
+
+1. Edit **`config.json`** — site title, basemap, opening view + `regionBBox`,
+   and your `works` (each with `groups`: label + colour).
+2. Replace **`data/*.geojson`** with your features. Each feature carries
+   `story` (= a group key), `name`, `kind` (`place`/`route`), and optional
+   `character`, `time`, `gloss`, `quote`, `ref`.
+3. (Optional) Use **`pipeline/`** to build the GeoJSON from a hand-curated
+   source (geocoding + routing) and to round-trip edits through uMap — see
+   [`pipeline/README.md`](pipeline/README.md).
+4. Push and enable GitHub Pages.
+
+## Features (all shown by the demo)
+
+- Multiple **works** with switchable tabs; optional **experimental** badge.
+- Colour-coded, toggleable **groups** in an accordion sidebar; optional
+  numbering, a group **prefix** (e.g. “Stop 1 · …”), per-group **badges**
+  (e.g. clock times) and **hidden-by-default** thematic layers.
+- **Points and routes**; **character** attribution and **time** chips.
+- Scrollable **popups** (gloss / quote / reference), kept clear of the header;
+  optional deep links into a public-domain **source text**, **further-reading**
+  essays, **Wikidata** authority links and a **fictional-place** marker.
+- A **region bounding box** for the opening view; far-off places stay reachable.
+- **Mobile layout**: full-height map with the sidebar as a bottom sheet.
+
+Shown by the real projects (not the demo):
+
+- **Location-certainty halos** (`confidence`: high / medium / low) with a legend.
+- A **persons register** (prosopography) — characters as stable ids, resolved
+  to names, with their own collapsible sidebar section.
+- One place in **several chapters** (`stories`), an **annotation overlay**
+  edited with the bundled local tool, and a **consolidation** step.
+- i18n is *prepared, not active*: strings are keyed by language, but the UI
+  language is fixed to `site.defaultLang` (see `docs/ARCHITECTURE.md`).
+
+## Reference examples
+
+Three real projects use this engine by copy (kept in sync with
+`sync-engine.sh`, drift checked by `pipeline/check.py --mirror`):
+
+- **Mapping Joyce** — the project the engine was extracted from (Joyce's
+  *Dubliners* / *Ulysses* / *A Portrait …*; three works, an annotation overlay
+  on a derived base layer, plus the text-processing / NER pipeline).
+  Live: <https://hermesj.github.io/mappingJoyce/> ·
+  Source: <https://github.com/hermesj/hermesj.github.io/tree/main/mappingJoyce>
+- **Mapping Perutz** — Leo Perutz, *Zwischen neun und neun* (Vienna, one day);
+  German-only UI, certainty halos, persons register, multi-chapter places,
+  thematic hidden layers. Live: <https://hermesj.github.io/mappingPerutz/> ·
+  Source: <https://github.com/hermesj/mappingPerutz>
+- **Mapping Woolf** — Virginia Woolf, *Mrs Dalloway* (London, one day).
+
+Mapping Joyce additionally demonstrates **one** way to *find and verify*
+places — a spaCy NER pass over the public-domain text.
+
+## Bringing your own data
+
+That annotation step is **deliberately not part of litmap.** The engine only
+cares that your `data/` matches the schema (see `docs/ARCHITECTURE.md`); how you
+compile it — close reading, an existing gazetteer, NER in any toolkit, QGIS, a
+script of your own — is entirely up to you and your text's language. litmap
+ships the rendering engine and a generic geocoding/routing/round-trip pipeline;
+the *Mapping Joyce* example shows the NER route for those who want it.
+
+## Licensing
+
+- **Code** (`engine/`, `pipeline/`) — MIT, see [`LICENSE`](LICENSE).
+- **Demo data** (`data/`) — fictional, CC0.
+- Your own data and texts: see [`NOTICE.md`](NOTICE.md) for the per-layer
+  rights model to adopt (geodata licence per project; source texts public
+  domain only).
+
+Basemap tiles © OpenStreetMap contributors © CARTO; geocoding/routing derive
+from OpenStreetMap (ODbL).
