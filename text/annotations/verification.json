@@ -1,0 +1,505 @@
+{
+ "summary": {
+  "items": 46,
+  "quotes_bad": 0,
+  "srcText_bad": 0,
+  "names_not_in_chapter": 0
+ },
+ "items": [
+  {
+   "kind": "place",
+   "id": "loc-wohnung-lohse-moabit",
+   "name": "Wohnung der Familie Lohse, Moabit",
+   "chapter": 1,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Familie": 2,
+    "Moabit": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-villa-efrussi",
+   "name": "Villa des Juweliers Efrussi",
+   "chapter": 1,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Juweliers": 5,
+    "Efrussi": 8
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-brandenburger-tor",
+   "name": "Brandenburger Tor",
+   "chapter": 2,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Brandenburger": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-haus-prinz-heinrich",
+   "name": "Haus des Prinzen Heinrich",
+   "chapter": 2,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Prinzen": 13,
+    "Heinrich": 6
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-tiergarten",
+   "name": "Tiergarten",
+   "chapter": 2,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Tiergarten": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-dresdner-bank",
+   "name": "Dresdner Bank",
+   "chapter": 3,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Dresdner": 0,
+    "Bank": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-wohnung-trebitsch",
+   "name": "Büro und Wohnung des Dr. Trebitsch",
+   "chapter": 3,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Trebitsch": 6
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-photograph-unter-den-linden",
+   "name": "Photographenatelier Unter den Linden",
+   "chapter": 4,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Photographenatelier": 1,
+    "Unter": 2,
+    "Linden": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-potsdamer-platz",
+   "name": "Potsdamer Platz",
+   "chapter": 4,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Potsdamer": 1,
+    "Platz": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-siegessaeule-koenigsplatz",
+   "name": "Siegessäule (Standort bis 1939, Königsplatz)",
+   "chapter": 5,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Siegessäule": 3,
+    "Königsplatz": 0
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-koenigsberg-bootstaufe",
+   "name": "Bootstaufe in Königsberg",
+   "chapter": 6,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Bootstaufe": 2,
+    "Königsberg": 2
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-weissensee-wald",
+   "name": "Wald bei Weißensee",
+   "chapter": 7,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Wald": 7,
+    "Weißensee": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-muenchen-stelle-s",
+   "name": "München, Sitz der Stelle S II",
+   "chapter": 8,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "München": 2,
+    "Sitz": 1,
+    "Stelle": 5
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-leipzig-gefangenenbefreiung",
+   "name": "Leipzig, geplante Gefangenenbefreiung",
+   "chapter": 9,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Leipzig": 1,
+    "Gefangenenbefreiung": 0
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-gut-lukscha",
+   "name": "Gut Lukscha in Pommern",
+   "chapter": 10,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Lukscha": 1,
+    "Pommern": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-hotel-kaiserhof",
+   "name": "Hotel Kaiserhof",
+   "chapter": 11,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Kaiserhof": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-kaserne-potsdam",
+   "name": "Kaserne in Potsdam",
+   "chapter": 12,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Potsdam": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-exerzierplatz-potsdam",
+   "name": "Paradeplatz mit Gedenktafel, Potsdam",
+   "chapter": 13,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Paradeplatz": 0,
+    "Gedenktafel": 2,
+    "Potsdam": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-lodz-barbierstube",
+   "name": "Barbierstube des alten Lenz in Lodz",
+   "chapter": 15,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Barbierstube": 1,
+    "Lenz": 9,
+    "Lodz": 3
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-cafe-potsdamer-platz",
+   "name": "Café am Potsdamer Platz",
+   "chapter": 16,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Potsdamer": 2,
+    "Platz": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-bahnhof-potsdam",
+   "name": "Weg zum Bahnhof Potsdam",
+   "chapter": 16,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Potsdam": 3
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-hamburger-hafen",
+   "name": "Hamburger Hafen, Abfahrt der »Deutschland«",
+   "chapter": 20,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Hamburger": 1,
+    "Hafen": 1,
+    "Abfahrt": 0,
+    "Deutschland": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-universitaet",
+   "name": "Universität Unter den Linden",
+   "chapter": 22,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Universität": 1,
+    "Unter": 4,
+    "Linden": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-demonstration-unter-den-linden",
+   "name": "Arbeiterdemonstration Unter den Linden",
+   "chapter": 22,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Arbeiterdemonstration": 0,
+    "Unter": 4,
+    "Linden": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-charlottenburg-jugendgruppen",
+   "name": "Sammelpunkt der nationalen Jugendgruppen, Charlottenburg",
+   "chapter": 22,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Sammelpunkt": 0,
+    "Jugendgruppen": 1,
+    "Charlottenburg": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-alexanderplatz",
+   "name": "Alexanderplatz",
+   "chapter": 22,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Alexanderplatz": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-rotes-rathaus",
+   "name": "Rathaus",
+   "chapter": 22,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Rathaus": 2
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-polizeipraesidium",
+   "name": "Polizeipräsidium am Alexanderplatz",
+   "chapter": 22,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Polizeipräsidium": 0,
+    "Alexanderplatz": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-scheunenviertel",
+   "name": "„Judenviertel“ (Scheunenviertel)",
+   "chapter": 22,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Judenviertel": 1,
+    "Scheunenviertel": 0
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-barackenlager-flugplatz",
+   "name": "Barackenlager auf dem Flugzeugplatz",
+   "chapter": 23,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Barackenlager": 0,
+    "Flugzeugplatz": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-kirche-hochzeit-potsdam",
+   "name": "Kirche der Hochzeit, Potsdam",
+   "chapter": 25,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Kirche": 3,
+    "Hochzeit": 4,
+    "Potsdam": 2
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-gastwirte-moabit",
+   "name": "Gastwirtskeller in Moabit",
+   "chapter": 27,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Gastwirtskeller": 0,
+    "Moabit": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-bahnhof-zug-paris",
+   "name": "Bahnsteig, Zug nach Paris",
+   "chapter": 30,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Bahnsteig": 2,
+    "Paris": 1
+   }
+  },
+  {
+   "kind": "place",
+   "id": "loc-gedaechtniskirche",
+   "name": "Kaiser-Wilhelm-Gedächtniskirche",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "place",
+   "id": "loc-reichstag",
+   "name": "Reichstag",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "place",
+   "id": "loc-schuckert-werke",
+   "name": "Schuckert-Werke",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "place",
+   "id": "loc-amiens",
+   "name": "Schloss von Amiens",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "place",
+   "id": "loc-posen",
+   "name": "Posen",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "place",
+   "id": "loc-triest",
+   "name": "Triest",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "place",
+   "id": "loc-budapest",
+   "name": "Budapest",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "place",
+   "id": "loc-koblenz",
+   "name": "Koblenz",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "place",
+   "id": "loc-breslau",
+   "name": "Breslau",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "place",
+   "id": "loc-kattowitz",
+   "name": "Kattowitz",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "place",
+   "id": "loc-new-york",
+   "name": "New York",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "place",
+   "id": "loc-sofia",
+   "name": "Sofia",
+   "chapter": null,
+   "note": "no chapter group — not text-checked"
+  },
+  {
+   "kind": "route",
+   "id": "rte-2-november-rathaus-judenviertel",
+   "name": "Weg: Vom Kampf am Rathaus ins „Judenviertel“",
+   "chapter": 22,
+   "quote_ok": true,
+   "srcText_ok": true,
+   "name_hits": {
+    "Kampf": 1,
+    "Rathaus": 2,
+    "Judenviertel": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,1210 @@
+{
+ "model": "de_core_news_lg",
+ "place_labels": [
+  "LOC"
+ ],
+ "min_count": 1,
+ "candidates": [
+  {
+   "text": "München",
+   "count": 23,
+   "chapters": [
+    3,
+    4,
+    6,
+    8,
+    9,
+    10,
+    12,
+    14,
+    17,
+    19,
+    20,
+    23,
+    26
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Berlin",
+   "count": 16,
+   "chapters": [
+    1,
+    4,
+    6,
+    10,
+    11,
+    14,
+    19,
+    21,
+    26
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Europa",
+   "count": 10,
+   "chapters": [
+    15,
+    17,
+    18,
+    20,
+    23,
+    30
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Deutschland",
+   "count": 8,
+   "chapters": [
+    6,
+    10,
+    15,
+    16,
+    20,
+    28,
+    29
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Potsdam",
+   "count": 8,
+   "chapters": [
+    12,
+    13,
+    14,
+    16,
+    19,
+    23,
+    24
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Lodz",
+   "count": 6,
+   "chapters": [
+    15,
+    25,
+    30
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Stadt",
+   "count": 6,
+   "chapters": [
+    6,
+    19,
+    22,
+    29
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Beilpicke",
+   "count": 5,
+   "chapters": [
+    7
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Siegessäule",
+   "count": 4,
+   "chapters": [
+    5,
+    26
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Kaiser-Wilhelm-Diele",
+   "count": 3,
+   "chapters": [
+    9,
+    11,
+    19
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Leipzig",
+   "count": 3,
+   "chapters": [
+    9,
+    12,
+    17
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Pommern",
+   "count": 3,
+   "chapters": [
+    9,
+    10,
+    26
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Potsdamer",
+   "count": 3,
+   "chapters": [
+    16,
+    17,
+    25
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Tiergarten",
+   "count": 3,
+   "chapters": [
+    2,
+    5,
+    13
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Trebitschs",
+   "count": 3,
+   "chapters": [
+    4,
+    8,
+    21
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Bahnhof",
+   "count": 2,
+   "chapters": [
+    11,
+    27
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Berlins",
+   "count": 2,
+   "chapters": [
+    10,
+    26
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Efrussis",
+   "count": 2,
+   "chapters": [
+    1,
+    8
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Erde",
+   "count": 2,
+   "chapters": [
+    11,
+    27
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Europäer",
+   "count": 2,
+   "chapters": [
+    18,
+    25
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Geheimbefehle",
+   "count": 2,
+   "chapters": [
+    14,
+    19
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Gipfeln",
+   "count": 2,
+   "chapters": [
+    9
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Hauslehrers",
+   "count": 2,
+   "chapters": [
+    1,
+    4
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Judenbrut",
+   "count": 2,
+   "chapters": [
+    6,
+    10
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Königsberg",
+   "count": 2,
+   "chapters": [
+    6
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Las",
+   "count": 2,
+   "chapters": [
+    6,
+    15
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Lukscha",
+   "count": 2,
+   "chapters": [
+    9,
+    10
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Moabit",
+   "count": 2,
+   "chapters": [
+    1,
+    27
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "New York",
+   "count": 2,
+   "chapters": [
+    20
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Potsdamer Platz",
+   "count": 2,
+   "chapters": [
+    4,
+    16
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Republik",
+   "count": 2,
+   "chapters": [
+    1,
+    23
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Rügen",
+   "count": 2,
+   "chapters": [
+    9,
+    12
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Saale",
+   "count": 2,
+   "chapters": [
+    9,
+    28
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Stadtbahn",
+   "count": 2,
+   "chapters": [
+    13,
+    26
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Trewith",
+   "count": 2,
+   "chapters": [
+    20
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Triest",
+   "count": 2,
+   "chapters": [
+    8,
+    17
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Ach!",
+   "count": 1,
+   "chapters": [
+    7
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Alexanderplatz",
+   "count": 1,
+   "chapters": [
+    22
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Alte Kleider",
+   "count": 1,
+   "chapters": [
+    20
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Amerika",
+   "count": 1,
+   "chapters": [
+    20
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Amerikaner",
+   "count": 1,
+   "chapters": [
+    20
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Amiens",
+   "count": 1,
+   "chapters": [
+    1
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Amt",
+   "count": 1,
+   "chapters": [
+    29
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Amt für Landesverteidigung",
+   "count": 1,
+   "chapters": [
+    20
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Assentkommission",
+   "count": 1,
+   "chapters": [
+    20
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Barackenbewohnern",
+   "count": 1,
+   "chapters": [
+    27
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Bayern",
+   "count": 1,
+   "chapters": [
+    8
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Blutbach",
+   "count": 1,
+   "chapters": [
+    22
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Blutflecke",
+   "count": 1,
+   "chapters": [
+    13
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Bootstaufen",
+   "count": 1,
+   "chapters": [
+    6
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Brandenburger Tor",
+   "count": 1,
+   "chapters": [
+    2
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Breslau",
+   "count": 1,
+   "chapters": [
+    17
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Budapest",
+   "count": 1,
+   "chapters": [
+    8
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Charlottenburg",
+   "count": 1,
+   "chapters": [
+    22
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Deutschlands",
+   "count": 1,
+   "chapters": [
+    23
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Ekrasit",
+   "count": 1,
+   "chapters": [
+    5
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Elsässer",
+   "count": 1,
+   "chapters": [
+    8
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "England",
+   "count": 1,
+   "chapters": [
+    27
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Etappenkommandos",
+   "count": 1,
+   "chapters": [
+    1
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Europas",
+   "count": 1,
+   "chapters": [
+    18
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Flammender",
+   "count": 1,
+   "chapters": [
+    14
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Flandern",
+   "count": 1,
+   "chapters": [
+    1
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Flugzeugplatz",
+   "count": 1,
+   "chapters": [
+    23
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Frankfurt an der Oder",
+   "count": 1,
+   "chapters": [
+    8
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Frankreich",
+   "count": 1,
+   "chapters": [
+    28
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Freiherrn",
+   "count": 1,
+   "chapters": [
+    11
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Fritsche",
+   "count": 1,
+   "chapters": [
+    17
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Furchtsamkeit",
+   "count": 1,
+   "chapters": [
+    1
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Geheimnissen",
+   "count": 1,
+   "chapters": [
+    16
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Goldscheiders",
+   "count": 1,
+   "chapters": [
+    14
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Gu'n Morjen",
+   "count": 1,
+   "chapters": [
+    2
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Haarknotens",
+   "count": 1,
+   "chapters": [
+    25
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Halle",
+   "count": 1,
+   "chapters": [
+    30
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Hamburg",
+   "count": 1,
+   "chapters": [
+    5
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Hausfluren",
+   "count": 1,
+   "chapters": [
+    22
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Hosentaschen",
+   "count": 1,
+   "chapters": [
+    5
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Händen",
+   "count": 1,
+   "chapters": [
+    1
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Hörsaal",
+   "count": 1,
+   "chapters": [
+    1
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Invalider",
+   "count": 1,
+   "chapters": [
+    8
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Irrenhäusern",
+   "count": 1,
+   "chapters": [
+    5
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Judenviertel",
+   "count": 1,
+   "chapters": [
+    22
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Kaiser-Wilhelm-Gedächtniskirche",
+   "count": 1,
+   "chapters": [
+    5
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Kasernenhof",
+   "count": 1,
+   "chapters": [
+    4
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Kattowitz",
+   "count": 1,
+   "chapters": [
+    25
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Kerzenglanz",
+   "count": 1,
+   "chapters": [
+    3
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Kinderkinn",
+   "count": 1,
+   "chapters": [
+    10
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Klaftens",
+   "count": 1,
+   "chapters": [
+    5
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Koblenz",
+   "count": 1,
+   "chapters": [
+    8
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Lastautomobilen",
+   "count": 1,
+   "chapters": [
+    22
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Lastautos",
+   "count": 1,
+   "chapters": [
+    23
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Leer",
+   "count": 1,
+   "chapters": [
+    30
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Lippen",
+   "count": 1,
+   "chapters": [
+    16
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Majorswitwe Strubbe",
+   "count": 1,
+   "chapters": [
+    25
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Maschinengewehrkompanie",
+   "count": 1,
+   "chapters": [
+    13
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Mündern",
+   "count": 1,
+   "chapters": [
+    12
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Nachbarstaaten",
+   "count": 1,
+   "chapters": [
+    29
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Nieder",
+   "count": 1,
+   "chapters": [
+    29
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Niederfallen",
+   "count": 1,
+   "chapters": [
+    7
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Palästina",
+   "count": 1,
+   "chapters": [
+    28
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Papiermesser",
+   "count": 1,
+   "chapters": [
+    8
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Paradeuniformen",
+   "count": 1,
+   "chapters": [
+    25
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Paris",
+   "count": 1,
+   "chapters": [
+    30
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Polizeiwachtmeister Glawacki",
+   "count": 1,
+   "chapters": [
+    17
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Posen",
+   "count": 1,
+   "chapters": [
+    1
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Preußen",
+   "count": 1,
+   "chapters": [
+    8
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Rasengrün",
+   "count": 1,
+   "chapters": [
+    13
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Rassenforscher Mannheim",
+   "count": 1,
+   "chapters": [
+    1
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Reiches",
+   "count": 1,
+   "chapters": [
+    29
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Rheinstädten",
+   "count": 1,
+   "chapters": [
+    8
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Rocktaschen",
+   "count": 1,
+   "chapters": [
+    17
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Russen",
+   "count": 1,
+   "chapters": [
+    6
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Rußland",
+   "count": 1,
+   "chapters": [
+    28
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Sachsen",
+   "count": 1,
+   "chapters": [
+    14
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Schleswig-Holstein",
+   "count": 1,
+   "chapters": [
+    17
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Schnapsbuden",
+   "count": 1,
+   "chapters": [
+    4
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Schnellzugs",
+   "count": 1,
+   "chapters": [
+    19
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Seitenwegen",
+   "count": 1,
+   "chapters": [
+    29
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Sicherheitswesens",
+   "count": 1,
+   "chapters": [
+    27
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Sofia",
+   "count": 1,
+   "chapters": [
+    23
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Spielklubs",
+   "count": 1,
+   "chapters": [
+    19
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Stirnrand",
+   "count": 1,
+   "chapters": [
+    15
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Straßenbahnen",
+   "count": 1,
+   "chapters": [
+    4
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Straßenbettler",
+   "count": 1,
+   "chapters": [
+    8
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Sturm",
+   "count": 1,
+   "chapters": [
+    22
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Sturmtrupps",
+   "count": 1,
+   "chapters": [
+    18
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Talkesseln",
+   "count": 1,
+   "chapters": [
+    15
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Tanzpalast",
+   "count": 1,
+   "chapters": [
+    19
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Theodors",
+   "count": 1,
+   "chapters": [
+    29
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Trebitsch",
+   "count": 1,
+   "chapters": [
+    5
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Unterirdische Wühler",
+   "count": 1,
+   "chapters": [
+    27
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Verhaften",
+   "count": 1,
+   "chapters": [
+    27
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Weißensee",
+   "count": 1,
+   "chapters": [
+    7
+   ],
+   "already_mapped": true
+  },
+  {
+   "text": "Zimmerkommandanten",
+   "count": 1,
+   "chapters": [
+    4
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "bereitgehaltenem Auto",
+   "count": 1,
+   "chapters": [
+    19
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "breiten Landstraße",
+   "count": 1,
+   "chapters": [
+    11
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "grellgelbem Rot",
+   "count": 1,
+   "chapters": [
+    7
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "sterbebangen",
+   "count": 1,
+   "chapters": [
+    11
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "tiefschattenden",
+   "count": 1,
+   "chapters": [
+    5
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "unentrinnbarer",
+   "count": 1,
+   "chapters": [
+    1
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "weiterschleppen",
+   "count": 1,
+   "chapters": [
+    18
+   ],
+   "already_mapped": false
+  },
+  {
+   "text": "Österreich",
+   "count": 1,
+   "chapters": [
+    20
+   ],
+   "already_mapped": false
+  }
+ ],
+ "unmapped_count": 104
+}

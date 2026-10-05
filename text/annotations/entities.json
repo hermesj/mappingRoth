@@ -1,0 +1,10273 @@
+{
+ "model": "de_core_news_lg",
+ "entity_count": 1700,
+ "label_counts": {
+  "PER": 1086,
+  "MISC": 256,
+  "LOC": 254,
+  "ORG": 104
+ },
+ "note": "Offsets are character positions into the matching chapter text in chapters.json. Auto-generated NER over the public-domain text (Projekt Gutenberg-DE); German models tag LOC/PER/ORG/MISC and confuse capitalised nouns with names — a suggestion layer, not ground truth.",
+ "by_chapter": {
+  "1": [
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 0,
+    "end": 7
+   },
+   {
+    "label": "PER",
+    "text": "Wilhelm Lohse",
+    "start": 93,
+    "end": 106
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 119,
+    "end": 126
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 377,
+    "end": 382
+   },
+   {
+    "label": "PER",
+    "text": "Sohnes",
+    "start": 408,
+    "end": 414
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 473,
+    "end": 480
+   },
+   {
+    "label": "MISC",
+    "text": "großen Krieges",
+    "start": 605,
+    "end": 619
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 723,
+    "end": 736
+   },
+   {
+    "label": "MISC",
+    "text": "Ein Jahr später",
+    "start": 754,
+    "end": 769
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 774,
+    "end": 781
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 857,
+    "end": 864
+   },
+   {
+    "label": "ORG",
+    "text": "Technischen Nothilfe",
+    "start": 1050,
+    "end": 1070
+   },
+   {
+    "label": "ORG",
+    "text": "Reserveoffiziere",
+    "start": 1203,
+    "end": 1219
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1226,
+    "end": 1233
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1516,
+    "end": 1523
+   },
+   {
+    "label": "PER",
+    "text": "Sohn",
+    "start": 1662,
+    "end": 1666
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1798,
+    "end": 1805
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 2249,
+    "end": 2254
+   },
+   {
+    "label": "LOC",
+    "text": "Furchtsamkeit",
+    "start": 3244,
+    "end": 3257
+   },
+   {
+    "label": "PER",
+    "text": "Primus",
+    "start": 3513,
+    "end": 3519
+   },
+   {
+    "label": "MISC",
+    "text": "Jude",
+    "start": 3528,
+    "end": 3532
+   },
+   {
+    "label": "MISC",
+    "text": "lateinischen",
+    "start": 3666,
+    "end": 3678
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Mühe",
+    "start": 3873,
+    "end": 3885
+   },
+   {
+    "label": "PER",
+    "text": "Sohn",
+    "start": 3901,
+    "end": 3905
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3943,
+    "end": 3950
+   },
+   {
+    "label": "PER",
+    "text": "zurechtwies",
+    "start": 4043,
+    "end": 4054
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 4089,
+    "end": 4096
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4154,
+    "end": 4161
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4290,
+    "end": 4297
+   },
+   {
+    "label": "ORG",
+    "text": "Armee",
+    "start": 4372,
+    "end": 4377
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4486,
+    "end": 4493
+   },
+   {
+    "label": "ORG",
+    "text": "Armee",
+    "start": 4528,
+    "end": 4533
+   },
+   {
+    "label": "MISC",
+    "text": "Ungewisses",
+    "start": 4695,
+    "end": 4705
+   },
+   {
+    "label": "LOC",
+    "text": "Hörsaal",
+    "start": 5015,
+    "end": 5022
+   },
+   {
+    "label": "ORG",
+    "text": "Primus",
+    "start": 5140,
+    "end": 5146
+   },
+   {
+    "label": "PER",
+    "text": "Sohn",
+    "start": 5176,
+    "end": 5180
+   },
+   {
+    "label": "ORG",
+    "text": "Armee",
+    "start": 5215,
+    "end": 5220
+   },
+   {
+    "label": "PER",
+    "text": "Grünbaum",
+    "start": 5450,
+    "end": 5458
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 5489,
+    "end": 5496
+   },
+   {
+    "label": "PER",
+    "text": "Erschwindelt",
+    "start": 5518,
+    "end": 5530
+   },
+   {
+    "label": "LOC",
+    "text": "Republik",
+    "start": 5597,
+    "end": 5605
+   },
+   {
+    "label": "MISC",
+    "text": "jüdisches",
+    "start": 5610,
+    "end": 5619
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5630,
+    "end": 5637
+   },
+   {
+    "label": "PER",
+    "text": "Kluge Köpfe",
+    "start": 5716,
+    "end": 5727
+   },
+   {
+    "label": "PER",
+    "text": "Wilhelm Tiedemann",
+    "start": 5733,
+    "end": 5750
+   },
+   {
+    "label": "PER",
+    "text": "Koethe",
+    "start": 5762,
+    "end": 5768
+   },
+   {
+    "label": "PER",
+    "text": "Bastelmann",
+    "start": 5781,
+    "end": 5791
+   },
+   {
+    "label": "PER",
+    "text": "Lorranz",
+    "start": 5806,
+    "end": 5813
+   },
+   {
+    "label": "LOC",
+    "text": "Rassenforscher Mannheim",
+    "start": 5819,
+    "end": 5842
+   },
+   {
+    "label": "MISC",
+    "text": "jüdischen",
+    "start": 5891,
+    "end": 5900
+   },
+   {
+    "label": "MISC",
+    "text": "deutscher",
+    "start": 5943,
+    "end": 5952
+   },
+   {
+    "label": "MISC",
+    "text": "Germania",
+    "start": 6013,
+    "end": 6021
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 6062,
+    "end": 6067
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 6109,
+    "end": 6114
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 6204,
+    "end": 6209
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 6261,
+    "end": 6266
+   },
+   {
+    "label": "LOC",
+    "text": "Posen",
+    "start": 6271,
+    "end": 6276
+   },
+   {
+    "label": "MISC",
+    "text": "Kriege",
+    "start": 6335,
+    "end": 6341
+   },
+   {
+    "label": "MISC",
+    "text": "Kriegsdienst",
+    "start": 6371,
+    "end": 6383
+   },
+   {
+    "label": "LOC",
+    "text": "Etappenkommandos",
+    "start": 6457,
+    "end": 6473
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6576,
+    "end": 6583
+   },
+   {
+    "label": "ORG",
+    "text": "Armee",
+    "start": 6704,
+    "end": 6709
+   },
+   {
+    "label": "MISC",
+    "text": "Weisen von Zion",
+    "start": 6851,
+    "end": 6866
+   },
+   {
+    "label": "ORG",
+    "text": "Reserveoffiziersverbandes",
+    "start": 6907,
+    "end": 6932
+   },
+   {
+    "label": "LOC",
+    "text": "Händen",
+    "start": 7034,
+    "end": 7040
+   },
+   {
+    "label": "LOC",
+    "text": "Efrussis",
+    "start": 7304,
+    "end": 7312
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Familie",
+    "start": 7733,
+    "end": 7749
+   },
+   {
+    "label": "LOC",
+    "text": "Moabit",
+    "start": 7774,
+    "end": 7780
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 7914,
+    "end": 7921
+   },
+   {
+    "label": "LOC",
+    "text": "Amiens",
+    "start": 7943,
+    "end": 7949
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8108,
+    "end": 8115
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 8554,
+    "end": 8561
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8653,
+    "end": 8660
+   },
+   {
+    "label": "LOC",
+    "text": "Hauslehrers",
+    "start": 8819,
+    "end": 8830
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 8888,
+    "end": 8894
+   },
+   {
+    "label": "LOC",
+    "text": "Flandern",
+    "start": 8994,
+    "end": 9002
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 9129,
+    "end": 9137
+   },
+   {
+    "label": "ORG",
+    "text": "Damen!",
+    "start": 9180,
+    "end": 9186
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 9770,
+    "end": 9777
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 9948,
+    "end": 9953
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 10042,
+    "end": 10049
+   },
+   {
+    "label": "MISC",
+    "text": "Zeit",
+    "start": 10827,
+    "end": 10831
+   },
+   {
+    "label": "LOC",
+    "text": "unentrinnbarer",
+    "start": 11085,
+    "end": 11099
+   },
+   {
+    "label": "PER",
+    "text": "Glühend",
+    "start": 11243,
+    "end": 11250
+   },
+   {
+    "label": "MISC",
+    "text": "Oh",
+    "start": 11888,
+    "end": 11890
+   },
+   {
+    "label": "MISC",
+    "text": "Zeit",
+    "start": 12070,
+    "end": 12074
+   }
+  ],
+  "2": [
+   {
+    "label": "PER",
+    "text": "Sooft",
+    "start": 400,
+    "end": 405
+   },
+   {
+    "label": "LOC",
+    "text": "Brandenburger Tor",
+    "start": 419,
+    "end": 436
+   },
+   {
+    "label": "MISC",
+    "text": "Tausenden Frauen",
+    "start": 587,
+    "end": 603
+   },
+   {
+    "label": "MISC",
+    "text": "Krieges",
+    "start": 858,
+    "end": 865
+   },
+   {
+    "label": "MISC",
+    "text": "Der Traum",
+    "start": 1162,
+    "end": 1171
+   },
+   {
+    "label": "PER",
+    "text": "entrinne",
+    "start": 1356,
+    "end": 1364
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1423,
+    "end": 1430
+   },
+   {
+    "label": "PER",
+    "text": "Doktor Trebitsch",
+    "start": 1739,
+    "end": 1755
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 1903,
+    "end": 1911
+   },
+   {
+    "label": "PER",
+    "text": "Leise",
+    "start": 1983,
+    "end": 1988
+   },
+   {
+    "label": "PER",
+    "text": "Blondbärtigen",
+    "start": 2016,
+    "end": 2029
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2072,
+    "end": 2079
+   },
+   {
+    "label": "PER",
+    "text": "Heinrich",
+    "start": 2270,
+    "end": 2278
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2454,
+    "end": 2461
+   },
+   {
+    "label": "PER",
+    "text": "Heinrich!",
+    "start": 2520,
+    "end": 2529
+   },
+   {
+    "label": "MISC",
+    "text": "Der Prinz",
+    "start": 2532,
+    "end": 2541
+   },
+   {
+    "label": "PER",
+    "text": "Doktor Trebitsch",
+    "start": 2572,
+    "end": 2588
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Brustkorb",
+    "start": 2695,
+    "end": 2713
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2788,
+    "end": 2795
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 2853,
+    "end": 2860
+   },
+   {
+    "label": "PER",
+    "text": "Paletot",
+    "start": 3003,
+    "end": 3010
+   },
+   {
+    "label": "ORG",
+    "text": "Rock",
+    "start": 3012,
+    "end": 3016
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3199,
+    "end": 3206
+   },
+   {
+    "label": "PER",
+    "text": "Straubwitz",
+    "start": 3424,
+    "end": 3434
+   },
+   {
+    "label": "MISC",
+    "text": "Kriege",
+    "start": 3545,
+    "end": 3551
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3553,
+    "end": 3560
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3828,
+    "end": 3835
+   },
+   {
+    "label": "MISC",
+    "text": "jüdischen",
+    "start": 3982,
+    "end": 3991
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 4133,
+    "end": 4141
+   },
+   {
+    "label": "MISC",
+    "text": "Schlacht bei Stojanowics",
+    "start": 4441,
+    "end": 4465
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4532,
+    "end": 4539
+   },
+   {
+    "label": "PER",
+    "text": "Heidt",
+    "start": 4866,
+    "end": 4871
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4918,
+    "end": 4925
+   },
+   {
+    "label": "PER",
+    "text": "Doktor Trebitsch",
+    "start": 5009,
+    "end": 5025
+   },
+   {
+    "label": "PER",
+    "text": "Heidt",
+    "start": 5069,
+    "end": 5074
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5109,
+    "end": 5116
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5196,
+    "end": 5203
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 5227,
+    "end": 5234
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5531,
+    "end": 5538
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 5880,
+    "end": 5888
+   },
+   {
+    "label": "PER",
+    "text": "Theodor nackt",
+    "start": 5930,
+    "end": 5943
+   },
+   {
+    "label": "PER",
+    "text": "Prinz Heinrich",
+    "start": 5952,
+    "end": 5966
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6079,
+    "end": 6086
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6409,
+    "end": 6416
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6675,
+    "end": 6682
+   },
+   {
+    "label": "PER",
+    "text": "Prinz Heinrich",
+    "start": 6765,
+    "end": 6779
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Fleisch",
+    "start": 6800,
+    "end": 6816
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6901,
+    "end": 6908
+   },
+   {
+    "label": "MISC",
+    "text": "griechisches",
+    "start": 7270,
+    "end": 7282
+   },
+   {
+    "label": "PER",
+    "text": "entgegengestrebt",
+    "start": 8005,
+    "end": 8021
+   },
+   {
+    "label": "PER",
+    "text": "Heinrich",
+    "start": 8165,
+    "end": 8173
+   },
+   {
+    "label": "PER",
+    "text": "Gu'n Morjen",
+    "start": 8258,
+    "end": 8269
+   },
+   {
+    "label": "PER",
+    "text": "Theo!",
+    "start": 8271,
+    "end": 8276
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8303,
+    "end": 8310
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8347,
+    "end": 8354
+   },
+   {
+    "label": "MISC",
+    "text": "Der Prinz",
+    "start": 8379,
+    "end": 8388
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Eier",
+    "start": 8567,
+    "end": 8579
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8623,
+    "end": 8630
+   },
+   {
+    "label": "MISC",
+    "text": "Und plötzlich",
+    "start": 8703,
+    "end": 8716
+   },
+   {
+    "label": "PER",
+    "text": "Heinrich",
+    "start": 8862,
+    "end": 8870
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 8956,
+    "end": 8965
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 9005,
+    "end": 9012
+   },
+   {
+    "label": "LOC",
+    "text": "Gu'n Morjen",
+    "start": 9024,
+    "end": 9035
+   },
+   {
+    "label": "PER",
+    "text": "Und Theodor",
+    "start": 9038,
+    "end": 9049
+   },
+   {
+    "label": "LOC",
+    "text": "Tiergarten",
+    "start": 9099,
+    "end": 9109
+   }
+  ],
+  "3": [
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 0,
+    "end": 9
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 59,
+    "end": 66
+   },
+   {
+    "label": "MISC",
+    "text": "Detektiv Klitsche",
+    "start": 245,
+    "end": 262
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 401,
+    "end": 409
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 444,
+    "end": 451
+   },
+   {
+    "label": "MISC",
+    "text": "römische",
+    "start": 569,
+    "end": 577
+   },
+   {
+    "label": "MISC",
+    "text": "Buchstaben S",
+    "start": 588,
+    "end": 600
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 664,
+    "end": 671
+   },
+   {
+    "label": "ORG",
+    "text": "Klitsche",
+    "start": 698,
+    "end": 706
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 895,
+    "end": 902
+   },
+   {
+    "label": "MISC",
+    "text": "Neuem",
+    "start": 1010,
+    "end": 1015
+   },
+   {
+    "label": "LOC",
+    "text": "Kerzenglanz",
+    "start": 1072,
+    "end": 1083
+   },
+   {
+    "label": "PER",
+    "text": "Schwurs",
+    "start": 1112,
+    "end": 1119
+   },
+   {
+    "label": "PER",
+    "text": "Gewordener",
+    "start": 1209,
+    "end": 1219
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 2199,
+    "end": 2212
+   },
+   {
+    "label": "PER",
+    "text": "trabendem Roß",
+    "start": 2301,
+    "end": 2314
+   },
+   {
+    "label": "ORG",
+    "text": "Wagende",
+    "start": 2410,
+    "end": 2417
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 2472,
+    "end": 2479
+   },
+   {
+    "label": "PER",
+    "text": "Heinrich Meyer",
+    "start": 2522,
+    "end": 2536
+   },
+   {
+    "label": "ORG",
+    "text": "Dresdener Bank",
+    "start": 2606,
+    "end": 2620
+   },
+   {
+    "label": "PER",
+    "text": "Niemals",
+    "start": 2633,
+    "end": 2640
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2662,
+    "end": 2669
+   },
+   {
+    "label": "ORG",
+    "text": "Zwitschernde",
+    "start": 2901,
+    "end": 2913
+   },
+   {
+    "label": "ORG",
+    "text": "Pferdekot",
+    "start": 2946,
+    "end": 2955
+   },
+   {
+    "label": "MISC",
+    "text": "blonde und braune",
+    "start": 3199,
+    "end": 3216
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 3308,
+    "end": 3316
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 3566,
+    "end": 3573
+   },
+   {
+    "label": "MISC",
+    "text": "Tag für Tag",
+    "start": 3631,
+    "end": 3642
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 3677,
+    "end": 3684
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 4024,
+    "end": 4031
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 4104,
+    "end": 4111
+   },
+   {
+    "label": "MISC",
+    "text": "Deutscher",
+    "start": 4131,
+    "end": 4140
+   },
+   {
+    "label": "MISC",
+    "text": "Jude",
+    "start": 4158,
+    "end": 4162
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 4190,
+    "end": 4195
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4217,
+    "end": 4224
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 4267,
+    "end": 4274
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4355,
+    "end": 4362
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 4412,
+    "end": 4419
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 4437,
+    "end": 4444
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 4545,
+    "end": 4552
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4600,
+    "end": 4607
+   },
+   {
+    "label": "PER",
+    "text": "Herr Trebitsch",
+    "start": 4626,
+    "end": 4640
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 4654,
+    "end": 4661
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 4688,
+    "end": 4693
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 4709,
+    "end": 4718
+   },
+   {
+    "label": "PER",
+    "text": "Sohn",
+    "start": 4837,
+    "end": 4841
+   },
+   {
+    "label": "PER",
+    "text": "Doktor Trebitsch",
+    "start": 4921,
+    "end": 4937
+   },
+   {
+    "label": "PER",
+    "text": "Heinrich",
+    "start": 5063,
+    "end": 5071
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 5085,
+    "end": 5092
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5395,
+    "end": 5402
+   },
+   {
+    "label": "MISC",
+    "text": "Jude",
+    "start": 5465,
+    "end": 5469
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 5497,
+    "end": 5504
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 5521,
+    "end": 5530
+   },
+   {
+    "label": "MISC",
+    "text": "Jude",
+    "start": 5535,
+    "end": 5539
+   },
+   {
+    "label": "PER",
+    "text": "Sohn",
+    "start": 5742,
+    "end": 5746
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5869,
+    "end": 5876
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 6094,
+    "end": 6101
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 6240,
+    "end": 6247
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6283,
+    "end": 6290
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 6387,
+    "end": 6394
+   }
+  ],
+  "4": [
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 29,
+    "end": 36
+   },
+   {
+    "label": "MISC",
+    "text": "Mädchen von der Straße",
+    "start": 130,
+    "end": 152
+   },
+   {
+    "label": "ORG",
+    "text": "Gesellschaft seiner Kameraden",
+    "start": 532,
+    "end": 561
+   },
+   {
+    "label": "MISC",
+    "text": "Berauschtheit",
+    "start": 768,
+    "end": 781
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 877,
+    "end": 890
+   },
+   {
+    "label": "MISC",
+    "text": "Inkognito",
+    "start": 1087,
+    "end": 1096
+   },
+   {
+    "label": "LOC",
+    "text": "Hauslehrers",
+    "start": 1320,
+    "end": 1331
+   },
+   {
+    "label": "MISC",
+    "text": "Liste der Beamten",
+    "start": 1809,
+    "end": 1826
+   },
+   {
+    "label": "LOC",
+    "text": "Zimmerkommandanten",
+    "start": 2503,
+    "end": 2521
+   },
+   {
+    "label": "LOC",
+    "text": "Trebitschs",
+    "start": 2645,
+    "end": 2655
+   },
+   {
+    "label": "MISC",
+    "text": "Detektiv Klitsche",
+    "start": 2681,
+    "end": 2698
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2733,
+    "end": 2740
+   },
+   {
+    "label": "MISC",
+    "text": "Unter den Linden",
+    "start": 2985,
+    "end": 3001
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorff",
+    "start": 3059,
+    "end": 3069
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 3118,
+    "end": 3126
+   },
+   {
+    "label": "MISC",
+    "text": "Kriege",
+    "start": 3379,
+    "end": 3385
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3497,
+    "end": 3504
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3735,
+    "end": 3742
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorff",
+    "start": 3807,
+    "end": 3817
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 3823,
+    "end": 3830
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3953,
+    "end": 3960
+   },
+   {
+    "label": "MISC",
+    "text": "Lieber Freund!",
+    "start": 4050,
+    "end": 4064
+   },
+   {
+    "label": "MISC",
+    "text": "Gott für Freiheit und Vaterland",
+    "start": 4131,
+    "end": 4162
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorff",
+    "start": 4168,
+    "end": 4178
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4181,
+    "end": 4188
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4780,
+    "end": 4787
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorff",
+    "start": 4882,
+    "end": 4892
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohses",
+    "start": 4897,
+    "end": 4911
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 4954,
+    "end": 4963
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4999,
+    "end": 5006
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorff",
+    "start": 5147,
+    "end": 5157
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 5161,
+    "end": 5167
+   },
+   {
+    "label": "MISC",
+    "text": "Mein lieber Freund!",
+    "start": 5180,
+    "end": 5199
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5294,
+    "end": 5301
+   },
+   {
+    "label": "MISC",
+    "text": "Germania",
+    "start": 5321,
+    "end": 5329
+   },
+   {
+    "label": "PER",
+    "text": "Spitz",
+    "start": 5364,
+    "end": 5369
+   },
+   {
+    "label": "PER",
+    "text": "Rassenprobleme",
+    "start": 5389,
+    "end": 5403
+   },
+   {
+    "label": "PER",
+    "text": "Wilhelm Tiedemann",
+    "start": 5411,
+    "end": 5428
+   },
+   {
+    "label": "MISC",
+    "text": "Bunde deutscher Rechtshörer",
+    "start": 5444,
+    "end": 5471
+   },
+   {
+    "label": "PER",
+    "text": "Tiedemann",
+    "start": 5499,
+    "end": 5508
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5551,
+    "end": 5558
+   },
+   {
+    "label": "PER",
+    "text": "Tiedemann",
+    "start": 5574,
+    "end": 5583
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5599,
+    "end": 5606
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorff",
+    "start": 5622,
+    "end": 5632
+   },
+   {
+    "label": "MISC",
+    "text": "Zeit",
+    "start": 5684,
+    "end": 5688
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5718,
+    "end": 5725
+   },
+   {
+    "label": "PER",
+    "text": "Tiedemanns",
+    "start": 5935,
+    "end": 5945
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 5978,
+    "end": 5986
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorff",
+    "start": 6241,
+    "end": 6251
+   },
+   {
+    "label": "PER",
+    "text": "Klitsche",
+    "start": 6440,
+    "end": 6448
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6513,
+    "end": 6520
+   },
+   {
+    "label": "LOC",
+    "text": "Kasernenhof",
+    "start": 6627,
+    "end": 6638
+   },
+   {
+    "label": "PER",
+    "text": "Klitsche",
+    "start": 6782,
+    "end": 6790
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6846,
+    "end": 6853
+   },
+   {
+    "label": "LOC",
+    "text": "Straßenbahnen",
+    "start": 7171,
+    "end": 7184
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 7251,
+    "end": 7258
+   },
+   {
+    "label": "LOC",
+    "text": "Schnapsbuden",
+    "start": 7338,
+    "end": 7350
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdamer Platz",
+    "start": 7394,
+    "end": 7409
+   },
+   {
+    "label": "ORG",
+    "text": "Klitsche",
+    "start": 7594,
+    "end": 7602
+   },
+   {
+    "label": "PER",
+    "text": "Heinrich",
+    "start": 7628,
+    "end": 7636
+   }
+  ],
+  "5": [
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 61,
+    "end": 68
+   },
+   {
+    "label": "PER",
+    "text": "Friedrich Trattner",
+    "start": 74,
+    "end": 92
+   },
+   {
+    "label": "LOC",
+    "text": "Hamburg",
+    "start": 113,
+    "end": 120
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 315,
+    "end": 322
+   },
+   {
+    "label": "PER",
+    "text": "Trattner",
+    "start": 425,
+    "end": 433
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 707,
+    "end": 714
+   },
+   {
+    "label": "PER",
+    "text": "Friedrich Trattner",
+    "start": 724,
+    "end": 742
+   },
+   {
+    "label": "ORG",
+    "text": "Militär",
+    "start": 867,
+    "end": 874
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1063,
+    "end": 1070
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 1083,
+    "end": 1088
+   },
+   {
+    "label": "MISC",
+    "text": "Neue Testament",
+    "start": 1155,
+    "end": 1169
+   },
+   {
+    "label": "MISC",
+    "text": "Jude",
+    "start": 1215,
+    "end": 1219
+   },
+   {
+    "label": "PER",
+    "text": "Goldscheider",
+    "start": 1221,
+    "end": 1233
+   },
+   {
+    "label": "LOC",
+    "text": "Irrenhäusern",
+    "start": 1275,
+    "end": 1287
+   },
+   {
+    "label": "PER",
+    "text": "Klaften",
+    "start": 1501,
+    "end": 1508
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1607,
+    "end": 1614
+   },
+   {
+    "label": "PER",
+    "text": "Klaftens",
+    "start": 1646,
+    "end": 1654
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1656,
+    "end": 1663
+   },
+   {
+    "label": "MISC",
+    "text": "Tag der großen Revolution",
+    "start": 1710,
+    "end": 1735
+   },
+   {
+    "label": "MISC",
+    "text": "sozialistische",
+    "start": 1768,
+    "end": 1782
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1813,
+    "end": 1820
+   },
+   {
+    "label": "PER",
+    "text": "Klaften",
+    "start": 1910,
+    "end": 1917
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1931,
+    "end": 1938
+   },
+   {
+    "label": "MISC",
+    "text": "Schaufellippen",
+    "start": 2194,
+    "end": 2208
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2401,
+    "end": 2408
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2515,
+    "end": 2522
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 2630,
+    "end": 2636
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 2656,
+    "end": 2662
+   },
+   {
+    "label": "PER",
+    "text": "Ekrasit",
+    "start": 2669,
+    "end": 2676
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Begeisterung",
+    "start": 2882,
+    "end": 2902
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2904,
+    "end": 2911
+   },
+   {
+    "label": "PER",
+    "text": "Tausend",
+    "start": 2937,
+    "end": 2944
+   },
+   {
+    "label": "PER",
+    "text": "Vaterlandslose",
+    "start": 3468,
+    "end": 3482
+   },
+   {
+    "label": "MISC",
+    "text": "Oh",
+    "start": 3522,
+    "end": 3524
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 3612,
+    "end": 3625
+   },
+   {
+    "label": "PER",
+    "text": "Detektiv Klitsche Erniedrigte",
+    "start": 3655,
+    "end": 3684
+   },
+   {
+    "label": "PER",
+    "text": "Mißbrauchte",
+    "start": 3698,
+    "end": 3709
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 3819,
+    "end": 3825
+   },
+   {
+    "label": "LOC",
+    "text": "tiefschattenden",
+    "start": 3935,
+    "end": 3950
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 3979,
+    "end": 3985
+   },
+   {
+    "label": "LOC",
+    "text": "Hosentaschen",
+    "start": 4142,
+    "end": 4154
+   },
+   {
+    "label": "ORG",
+    "text": "Reichstag",
+    "start": 4317,
+    "end": 4326
+   },
+   {
+    "label": "LOC",
+    "text": "Kaiser-Wilhelm-Gedächtniskirche",
+    "start": 4366,
+    "end": 4397
+   },
+   {
+    "label": "PER",
+    "text": "Goldscheider",
+    "start": 4399,
+    "end": 4411
+   },
+   {
+    "label": "PER",
+    "text": "Goldscheider",
+    "start": 4670,
+    "end": 4682
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4684,
+    "end": 4691
+   },
+   {
+    "label": "LOC",
+    "text": "Tiergarten",
+    "start": 4777,
+    "end": 4787
+   },
+   {
+    "label": "LOC",
+    "text": "Trebitsch",
+    "start": 4791,
+    "end": 4800
+   },
+   {
+    "label": "PER",
+    "text": "Trebitschs",
+    "start": 4964,
+    "end": 4974
+   },
+   {
+    "label": "PER",
+    "text": "Spitzel",
+    "start": 5091,
+    "end": 5098
+   },
+   {
+    "label": "MISC",
+    "text": "kommunistische",
+    "start": 5128,
+    "end": 5142
+   },
+   {
+    "label": "PER",
+    "text": "Trattner",
+    "start": 5268,
+    "end": 5276
+   },
+   {
+    "label": "MISC",
+    "text": "log",
+    "start": 5341,
+    "end": 5344
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 5501,
+    "end": 5510
+   },
+   {
+    "label": "MISC",
+    "text": "Attentat – und hoffentlich",
+    "start": 5619,
+    "end": 5645
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5718,
+    "end": 5725
+   },
+   {
+    "label": "PER",
+    "text": "Klaften",
+    "start": 5736,
+    "end": 5743
+   },
+   {
+    "label": "LOC",
+    "text": "Siegessäule",
+    "start": 5775,
+    "end": 5786
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 5846,
+    "end": 5852
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 5886,
+    "end": 5892
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5894,
+    "end": 5901
+   },
+   {
+    "label": "PER",
+    "text": "Goldscheider",
+    "start": 5906,
+    "end": 5918
+   },
+   {
+    "label": "LOC",
+    "text": "Siegessäule",
+    "start": 5930,
+    "end": 5941
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 5943,
+    "end": 5949
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5954,
+    "end": 5961
+   },
+   {
+    "label": "PER",
+    "text": "Goldscheider",
+    "start": 6010,
+    "end": 6022
+   },
+   {
+    "label": "PER",
+    "text": "Goldscheider",
+    "start": 6097,
+    "end": 6109
+   },
+   {
+    "label": "MISC",
+    "text": "Lunten",
+    "start": 6114,
+    "end": 6120
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6144,
+    "end": 6151
+   },
+   {
+    "label": "LOC",
+    "text": "Siegessäule",
+    "start": 6248,
+    "end": 6259
+   },
+   {
+    "label": "LOC",
+    "text": "Ekrasit",
+    "start": 6266,
+    "end": 6273
+   },
+   {
+    "label": "PER",
+    "text": "Goldscheider",
+    "start": 6285,
+    "end": 6297
+   },
+   {
+    "label": "LOC",
+    "text": "Klaftens",
+    "start": 6308,
+    "end": 6316
+   },
+   {
+    "label": "MISC",
+    "text": "Kommissärs",
+    "start": 6475,
+    "end": 6485
+   },
+   {
+    "label": "PER",
+    "text": "Trattner",
+    "start": 6492,
+    "end": 6500
+   },
+   {
+    "label": "PER",
+    "text": "Trattner",
+    "start": 6514,
+    "end": 6522
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6624,
+    "end": 6631
+   }
+  ],
+  "6": [
+   {
+    "label": "MISC",
+    "text": "Kommunistischer",
+    "start": 49,
+    "end": 64
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 129,
+    "end": 142
+   },
+   {
+    "label": "MISC",
+    "text": "Bunde deutscher Rechtshörer",
+    "start": 188,
+    "end": 215
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 220,
+    "end": 227
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 631,
+    "end": 638
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 758,
+    "end": 765
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 788,
+    "end": 797
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 930,
+    "end": 937
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1003,
+    "end": 1010
+   },
+   {
+    "label": "PER",
+    "text": "Klitsche",
+    "start": 1033,
+    "end": 1041
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1440,
+    "end": 1447
+   },
+   {
+    "label": "PER",
+    "text": "Klitsche",
+    "start": 1506,
+    "end": 1514
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1779,
+    "end": 1786
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2357,
+    "end": 2364
+   },
+   {
+    "label": "PER",
+    "text": "Klaften",
+    "start": 3233,
+    "end": 3240
+   },
+   {
+    "label": "MISC",
+    "text": "Detektiv Klitsche",
+    "start": 3655,
+    "end": 3672
+   },
+   {
+    "label": "MISC",
+    "text": "kommunistischen",
+    "start": 3729,
+    "end": 3744
+   },
+   {
+    "label": "ORG",
+    "text": "Kommende",
+    "start": 4011,
+    "end": 4019
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 4322,
+    "end": 4331
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 4407,
+    "end": 4412
+   },
+   {
+    "label": "LOC",
+    "text": "Russen",
+    "start": 4428,
+    "end": 4434
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Phantasie",
+    "start": 4482,
+    "end": 4500
+   },
+   {
+    "label": "LOC",
+    "text": "Las",
+    "start": 4855,
+    "end": 4858
+   },
+   {
+    "label": "MISC",
+    "text": "Germania",
+    "start": 5120,
+    "end": 5128
+   },
+   {
+    "label": "PER",
+    "text": "Tiedemann",
+    "start": 5145,
+    "end": 5154
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 5375,
+    "end": 5388
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 5562,
+    "end": 5569
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 5704,
+    "end": 5709
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5860,
+    "end": 5867
+   },
+   {
+    "label": "MISC",
+    "text": "Efrussischen Hause",
+    "start": 5879,
+    "end": 5897
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 6027,
+    "end": 6032
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 6055,
+    "end": 6060
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 6223,
+    "end": 6228
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6452,
+    "end": 6459
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 6482,
+    "end": 6487
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 6606,
+    "end": 6611
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6681,
+    "end": 6688
+   },
+   {
+    "label": "MISC",
+    "text": "Detektiv Klitsche",
+    "start": 6980,
+    "end": 6997
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 7010,
+    "end": 7019
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohses",
+    "start": 7424,
+    "end": 7438
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 7533,
+    "end": 7540
+   },
+   {
+    "label": "ORG",
+    "text": "Bismarck-Bundes",
+    "start": 7600,
+    "end": 7615
+   },
+   {
+    "label": "ORG",
+    "text": "Jugendbund",
+    "start": 7818,
+    "end": 7828
+   },
+   {
+    "label": "ORG",
+    "text": "Detektivs Klitsche",
+    "start": 8041,
+    "end": 8059
+   },
+   {
+    "label": "PER",
+    "text": "Klitsche",
+    "start": 8100,
+    "end": 8108
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 8201,
+    "end": 8208
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8210,
+    "end": 8217
+   },
+   {
+    "label": "ORG",
+    "text": "Klitsche",
+    "start": 8271,
+    "end": 8279
+   },
+   {
+    "label": "PER",
+    "text": "Klitsche",
+    "start": 8287,
+    "end": 8295
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8357,
+    "end": 8364
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 8433,
+    "end": 8442
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 8486,
+    "end": 8495
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8557,
+    "end": 8564
+   },
+   {
+    "label": "PER",
+    "text": "Klitsche",
+    "start": 8588,
+    "end": 8596
+   },
+   {
+    "label": "ORG",
+    "text": "Klitsche",
+    "start": 8710,
+    "end": 8718
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 8731,
+    "end": 8738
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8824,
+    "end": 8831
+   },
+   {
+    "label": "MISC",
+    "text": "Klitsches",
+    "start": 8849,
+    "end": 8858
+   },
+   {
+    "label": "PER",
+    "text": "Verkehrte Klitsche",
+    "start": 8888,
+    "end": 8906
+   },
+   {
+    "label": "MISC",
+    "text": "kommunistischen",
+    "start": 8917,
+    "end": 8932
+   },
+   {
+    "label": "MISC",
+    "text": "Mußte",
+    "start": 9000,
+    "end": 9005
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 9111,
+    "end": 9118
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 9151,
+    "end": 9160
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 9198,
+    "end": 9207
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 9325,
+    "end": 9333
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 9418,
+    "end": 9427
+   },
+   {
+    "label": "PER",
+    "text": "Prinz Heinrich",
+    "start": 9519,
+    "end": 9533
+   },
+   {
+    "label": "PER",
+    "text": "Ach",
+    "start": 9709,
+    "end": 9712
+   },
+   {
+    "label": "PER",
+    "text": "Theo!",
+    "start": 9714,
+    "end": 9719
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 9925,
+    "end": 9932
+   },
+   {
+    "label": "LOC",
+    "text": "Königsberg",
+    "start": 9995,
+    "end": 10005
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 10041,
+    "end": 10048
+   },
+   {
+    "label": "LOC",
+    "text": "Königsberg",
+    "start": 10130,
+    "end": 10140
+   },
+   {
+    "label": "PER",
+    "text": "Heinz Tovote",
+    "start": 10197,
+    "end": 10209
+   },
+   {
+    "label": "ORG",
+    "text": "Ruderklub »Deutsche Treue",
+    "start": 10245,
+    "end": 10270
+   },
+   {
+    "label": "LOC",
+    "text": "Bootstaufen",
+    "start": 10416,
+    "end": 10427
+   },
+   {
+    "label": "PER",
+    "text": "Jungfrau",
+    "start": 10449,
+    "end": 10457
+   },
+   {
+    "label": "ORG",
+    "text": "Linken",
+    "start": 10518,
+    "end": 10524
+   },
+   {
+    "label": "MISC",
+    "text": "Bordrand",
+    "start": 10610,
+    "end": 10618
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 10735,
+    "end": 10745
+   },
+   {
+    "label": "ORG",
+    "text": "Burschenschaft »Rhenania",
+    "start": 10759,
+    "end": 10783
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 10797,
+    "end": 10804
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 10831,
+    "end": 10838
+   },
+   {
+    "label": "LOC",
+    "text": "Stadt",
+    "start": 10913,
+    "end": 10918
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 11053,
+    "end": 11060
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 11187,
+    "end": 11194
+   },
+   {
+    "label": "MISC",
+    "text": "S II",
+    "start": 11219,
+    "end": 11223
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 11227,
+    "end": 11234
+   },
+   {
+    "label": "ORG",
+    "text": "Klitsche",
+    "start": 11252,
+    "end": 11260
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 11354,
+    "end": 11360
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 11380,
+    "end": 11387
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 11393,
+    "end": 11399
+   },
+   {
+    "label": "ORG",
+    "text": "Schuckert-Werken",
+    "start": 11498,
+    "end": 11514
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 11563,
+    "end": 11570
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 11610,
+    "end": 11617
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 11721,
+    "end": 11728
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 11867,
+    "end": 11874
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 11925,
+    "end": 11932
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 12013,
+    "end": 12020
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 12123,
+    "end": 12130
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 12217,
+    "end": 12224
+   },
+   {
+    "label": "ORG",
+    "text": "Kommunisten",
+    "start": 12316,
+    "end": 12327
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 12376,
+    "end": 12383
+   },
+   {
+    "label": "PER",
+    "text": "Detektiv Klitsche",
+    "start": 12462,
+    "end": 12479
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 12486,
+    "end": 12493
+   },
+   {
+    "label": "PER",
+    "text": "Günthers",
+    "start": 12567,
+    "end": 12575
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 12596,
+    "end": 12603
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 12626,
+    "end": 12633
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 12696,
+    "end": 12703
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 12752,
+    "end": 12759
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 12764,
+    "end": 12771
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 12803,
+    "end": 12810
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 12878,
+    "end": 12885
+   },
+   {
+    "label": "PER",
+    "text": "Kluge",
+    "start": 12891,
+    "end": 12896
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 12963,
+    "end": 12972
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 12998,
+    "end": 13005
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 13047,
+    "end": 13054
+   },
+   {
+    "label": "PER",
+    "text": "Hastig",
+    "start": 13068,
+    "end": 13074
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 13086,
+    "end": 13095
+   },
+   {
+    "label": "PER",
+    "text": "Günthers",
+    "start": 13110,
+    "end": 13118
+   },
+   {
+    "label": "ORG",
+    "text": "Klitsche",
+    "start": 13264,
+    "end": 13272
+   },
+   {
+    "label": "MISC",
+    "text": "S II",
+    "start": 13315,
+    "end": 13319
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 13359,
+    "end": 13368
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 13398,
+    "end": 13405
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 13411,
+    "end": 13418
+   },
+   {
+    "label": "MISC",
+    "text": "Die Arbeiter mit Waffen",
+    "start": 13511,
+    "end": 13534
+   },
+   {
+    "label": "PER",
+    "text": "Und Günther",
+    "start": 13545,
+    "end": 13556
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 13866,
+    "end": 13873
+   },
+   {
+    "label": "PER",
+    "text": "Klitsche",
+    "start": 14006,
+    "end": 14014
+   },
+   {
+    "label": "MISC",
+    "text": "Trutzlied",
+    "start": 14039,
+    "end": 14048
+   },
+   {
+    "label": "MISC",
+    "text": "Der Verräter",
+    "start": 14050,
+    "end": 14062
+   },
+   {
+    "label": "LOC",
+    "text": "Judenbrut",
+    "start": 14100,
+    "end": 14109
+   },
+   {
+    "label": "LOC",
+    "text": "Deutschland",
+    "start": 14111,
+    "end": 14122
+   }
+  ],
+  "7": [
+   {
+    "label": "LOC",
+    "text": "Weißensee",
+    "start": 29,
+    "end": 38
+   },
+   {
+    "label": "PER",
+    "text": "Wachtl",
+    "start": 82,
+    "end": 88
+   },
+   {
+    "label": "ORG",
+    "text": "Klitsche",
+    "start": 139,
+    "end": 147
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 149,
+    "end": 156
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 161,
+    "end": 168
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 179,
+    "end": 186
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 483,
+    "end": 490
+   },
+   {
+    "label": "LOC",
+    "text": "Ach!",
+    "start": 530,
+    "end": 534
+   },
+   {
+    "label": "PER",
+    "text": "Theodor fiebert",
+    "start": 559,
+    "end": 574
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 749,
+    "end": 756
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 848,
+    "end": 855
+   },
+   {
+    "label": "PER",
+    "text": "Schleierstoff",
+    "start": 1117,
+    "end": 1130
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1230,
+    "end": 1237
+   },
+   {
+    "label": "ORG",
+    "text": "Klitsche",
+    "start": 1355,
+    "end": 1363
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1398,
+    "end": 1405
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 1453,
+    "end": 1460
+   },
+   {
+    "label": "PER",
+    "text": "Günthers",
+    "start": 1706,
+    "end": 1714
+   },
+   {
+    "label": "LOC",
+    "text": "Beilpicke",
+    "start": 1759,
+    "end": 1768
+   },
+   {
+    "label": "ORG",
+    "text": "Klitsche",
+    "start": 2079,
+    "end": 2087
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 2109,
+    "end": 2116
+   },
+   {
+    "label": "LOC",
+    "text": "Beilpicke",
+    "start": 2122,
+    "end": 2131
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 2277,
+    "end": 2284
+   },
+   {
+    "label": "PER",
+    "text": "Klitsche",
+    "start": 2286,
+    "end": 2294
+   },
+   {
+    "label": "LOC",
+    "text": "Beilpicke",
+    "start": 2321,
+    "end": 2330
+   },
+   {
+    "label": "PER",
+    "text": "Günthers",
+    "start": 2424,
+    "end": 2432
+   },
+   {
+    "label": "LOC",
+    "text": "Niederfallen",
+    "start": 2570,
+    "end": 2582
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2664,
+    "end": 2671
+   },
+   {
+    "label": "LOC",
+    "text": "grellgelbem Rot",
+    "start": 2954,
+    "end": 2969
+   },
+   {
+    "label": "PER",
+    "text": "Purpurne",
+    "start": 3017,
+    "end": 3025
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Innerm",
+    "start": 3212,
+    "end": 3227
+   },
+   {
+    "label": "LOC",
+    "text": "Beilpicke",
+    "start": 3600,
+    "end": 3609
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3717,
+    "end": 3724
+   },
+   {
+    "label": "LOC",
+    "text": "Beilpicke",
+    "start": 3774,
+    "end": 3783
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4055,
+    "end": 4062
+   }
+  ],
+  "8": [
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 5,
+    "end": 12
+   },
+   {
+    "label": "PER",
+    "text": "Günther Klitsche",
+    "start": 38,
+    "end": 54
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 89,
+    "end": 102
+   },
+   {
+    "label": "MISC",
+    "text": "S II",
+    "start": 183,
+    "end": 187
+   },
+   {
+    "label": "PER",
+    "text": "Frei",
+    "start": 354,
+    "end": 358
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohses",
+    "start": 372,
+    "end": 386
+   },
+   {
+    "label": "PER",
+    "text": "Heiß",
+    "start": 441,
+    "end": 445
+   },
+   {
+    "label": "ORG",
+    "text": "Unverläßliche Spione",
+    "start": 569,
+    "end": 589
+   },
+   {
+    "label": "LOC",
+    "text": "Trebitschs",
+    "start": 691,
+    "end": 701
+   },
+   {
+    "label": "ORG",
+    "text": "Major Pauli",
+    "start": 784,
+    "end": 795
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 988,
+    "end": 995
+   },
+   {
+    "label": "LOC",
+    "text": "Preußen",
+    "start": 1062,
+    "end": 1069
+   },
+   {
+    "label": "LOC",
+    "text": "Bayern",
+    "start": 1084,
+    "end": 1090
+   },
+   {
+    "label": "PER",
+    "text": "Major Seyfarth",
+    "start": 1107,
+    "end": 1121
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorff",
+    "start": 1154,
+    "end": 1164
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorff",
+    "start": 1224,
+    "end": 1234
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1502,
+    "end": 1509
+   },
+   {
+    "label": "PER",
+    "text": "Wanderredner Schley",
+    "start": 2157,
+    "end": 2176
+   },
+   {
+    "label": "MISC",
+    "text": "Artist Conti",
+    "start": 2300,
+    "end": 2312
+   },
+   {
+    "label": "LOC",
+    "text": "Triest",
+    "start": 2317,
+    "end": 2323
+   },
+   {
+    "label": "MISC",
+    "text": "jüdische",
+    "start": 2352,
+    "end": 2360
+   },
+   {
+    "label": "PER",
+    "text": "Baum",
+    "start": 2369,
+    "end": 2373
+   },
+   {
+    "label": "LOC",
+    "text": "Elsässer",
+    "start": 2420,
+    "end": 2428
+   },
+   {
+    "label": "MISC",
+    "text": "französischer",
+    "start": 2439,
+    "end": 2452
+   },
+   {
+    "label": "PER",
+    "text": "Klatko",
+    "start": 2460,
+    "end": 2466
+   },
+   {
+    "label": "LOC",
+    "text": "Invalider",
+    "start": 2486,
+    "end": 2495
+   },
+   {
+    "label": "LOC",
+    "text": "Koblenz",
+    "start": 2649,
+    "end": 2656
+   },
+   {
+    "label": "LOC",
+    "text": "Straßenbettler",
+    "start": 2658,
+    "end": 2672
+   },
+   {
+    "label": "LOC",
+    "text": "Rheinstädten",
+    "start": 2681,
+    "end": 2693
+   },
+   {
+    "label": "MISC",
+    "text": "ungarische",
+    "start": 2695,
+    "end": 2705
+   },
+   {
+    "label": "LOC",
+    "text": "Budapest",
+    "start": 2775,
+    "end": 2783
+   },
+   {
+    "label": "MISC",
+    "text": "Witzige",
+    "start": 2990,
+    "end": 2997
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3026,
+    "end": 3033
+   },
+   {
+    "label": "MISC",
+    "text": "Revolvergriff",
+    "start": 3242,
+    "end": 3255
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Pfiff",
+    "start": 3822,
+    "end": 3836
+   },
+   {
+    "label": "PER",
+    "text": "Feiglinge",
+    "start": 4057,
+    "end": 4066
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 4417,
+    "end": 4426
+   },
+   {
+    "label": "ORG",
+    "text": "Abgeordneter",
+    "start": 4919,
+    "end": 4931
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 5026,
+    "end": 5039
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 5421,
+    "end": 5426
+   },
+   {
+    "label": "MISC",
+    "text": "katholische",
+    "start": 5527,
+    "end": 5538
+   },
+   {
+    "label": "PER",
+    "text": "Lambrecht",
+    "start": 5554,
+    "end": 5563
+   },
+   {
+    "label": "MISC",
+    "text": "Talmud",
+    "start": 5708,
+    "end": 5714
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 5732,
+    "end": 5740
+   },
+   {
+    "label": "PER",
+    "text": "Lambrecht",
+    "start": 5870,
+    "end": 5879
+   },
+   {
+    "label": "PER",
+    "text": "Theodor »Jud!",
+    "start": 5887,
+    "end": 5900
+   },
+   {
+    "label": "PER",
+    "text": "Lambrecht",
+    "start": 5995,
+    "end": 6004
+   },
+   {
+    "label": "PER",
+    "text": "Franziska",
+    "start": 6430,
+    "end": 6439
+   },
+   {
+    "label": "ORG",
+    "text": "Kommunistischen Partei",
+    "start": 6500,
+    "end": 6522
+   },
+   {
+    "label": "PER",
+    "text": "Janitschke",
+    "start": 6669,
+    "end": 6679
+   },
+   {
+    "label": "MISC",
+    "text": "Spitzel Bräune",
+    "start": 6781,
+    "end": 6795
+   },
+   {
+    "label": "LOC",
+    "text": "Frankfurt an der Oder",
+    "start": 6818,
+    "end": 6839
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6896,
+    "end": 6903
+   },
+   {
+    "label": "PER",
+    "text": "Franziska",
+    "start": 6921,
+    "end": 6930
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 6989,
+    "end": 6998
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 7009,
+    "end": 7018
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 7029,
+    "end": 7036
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 7120,
+    "end": 7127
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 7327,
+    "end": 7334
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 7450,
+    "end": 7463
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 7493,
+    "end": 7506
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 7508,
+    "end": 7515
+   },
+   {
+    "label": "ORG",
+    "text": "Major Pauli",
+    "start": 7604,
+    "end": 7615
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 7639,
+    "end": 7646
+   },
+   {
+    "label": "ORG",
+    "text": "Major Pauli",
+    "start": 7669,
+    "end": 7680
+   },
+   {
+    "label": "PER",
+    "text": "Groß",
+    "start": 7704,
+    "end": 7708
+   },
+   {
+    "label": "LOC",
+    "text": "Efrussis",
+    "start": 7723,
+    "end": 7731
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 7762,
+    "end": 7775
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 7892,
+    "end": 7899
+   },
+   {
+    "label": "MISC",
+    "text": "Judenblut",
+    "start": 7913,
+    "end": 7922
+   },
+   {
+    "label": "ORG",
+    "text": "Major Pauli",
+    "start": 7944,
+    "end": 7955
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 8263,
+    "end": 8270
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8353,
+    "end": 8360
+   },
+   {
+    "label": "LOC",
+    "text": "Papiermesser",
+    "start": 8468,
+    "end": 8480
+   },
+   {
+    "label": "PER",
+    "text": "Elfenbeinfläche",
+    "start": 8499,
+    "end": 8514
+   }
+  ],
+  "9": [
+   {
+    "label": "MISC",
+    "text": "Bruder des toten Klitsche",
+    "start": 17,
+    "end": 42
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 62,
+    "end": 72
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 431,
+    "end": 438
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 605,
+    "end": 612
+   },
+   {
+    "label": "MISC",
+    "text": "Klitsches",
+    "start": 768,
+    "end": 777
+   },
+   {
+    "label": "PER",
+    "text": "Günthers",
+    "start": 786,
+    "end": 794
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 800,
+    "end": 807
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1090,
+    "end": 1097
+   },
+   {
+    "label": "LOC",
+    "text": "Kaiser-Wilhelm-Diele",
+    "start": 1191,
+    "end": 1211
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Humor",
+    "start": 1543,
+    "end": 1557
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1559,
+    "end": 1566
+   },
+   {
+    "label": "PER",
+    "text": "rittlings",
+    "start": 1874,
+    "end": 1883
+   },
+   {
+    "label": "LOC",
+    "text": "Saale",
+    "start": 2012,
+    "end": 2017
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2126,
+    "end": 2133
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2479,
+    "end": 2486
+   },
+   {
+    "label": "LOC",
+    "text": "Gipfeln",
+    "start": 2637,
+    "end": 2644
+   },
+   {
+    "label": "PER",
+    "text": "Theodor müde",
+    "start": 2680,
+    "end": 2692
+   },
+   {
+    "label": "LOC",
+    "text": "Gipfeln",
+    "start": 2719,
+    "end": 2726
+   },
+   {
+    "label": "PER",
+    "text": "Hilper",
+    "start": 2982,
+    "end": 2988
+   },
+   {
+    "label": "ORG",
+    "text": "Reichstags",
+    "start": 3018,
+    "end": 3028
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3275,
+    "end": 3282
+   },
+   {
+    "label": "PER",
+    "text": "Seyfarth",
+    "start": 3414,
+    "end": 3422
+   },
+   {
+    "label": "ORG",
+    "text": "Marinekapitän",
+    "start": 3435,
+    "end": 3448
+   },
+   {
+    "label": "PER",
+    "text": "Hartmut",
+    "start": 3449,
+    "end": 3456
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3459,
+    "end": 3466
+   },
+   {
+    "label": "MISC",
+    "text": "jüdischer",
+    "start": 3519,
+    "end": 3528
+   },
+   {
+    "label": "MISC",
+    "text": "sozialistischer",
+    "start": 3533,
+    "end": 3548
+   },
+   {
+    "label": "MISC",
+    "text": "französischen",
+    "start": 3697,
+    "end": 3710
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 4208,
+    "end": 4215
+   },
+   {
+    "label": "PER",
+    "text": "Hartmut",
+    "start": 4233,
+    "end": 4240
+   },
+   {
+    "label": "LOC",
+    "text": "S",
+    "start": 4443,
+    "end": 4444
+   },
+   {
+    "label": "PER",
+    "text": "Seyfarth",
+    "start": 4453,
+    "end": 4461
+   },
+   {
+    "label": "LOC",
+    "text": "Rügen",
+    "start": 4472,
+    "end": 4477
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4505,
+    "end": 4512
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 4518,
+    "end": 4525
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4527,
+    "end": 4534
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4551,
+    "end": 4558
+   },
+   {
+    "label": "PER",
+    "text": "Seyfarth",
+    "start": 4575,
+    "end": 4583
+   },
+   {
+    "label": "PER",
+    "text": "Hartmut",
+    "start": 4598,
+    "end": 4605
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4798,
+    "end": 4805
+   },
+   {
+    "label": "LOC",
+    "text": "S",
+    "start": 4877,
+    "end": 4878
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4900,
+    "end": 4907
+   },
+   {
+    "label": "LOC",
+    "text": "S",
+    "start": 4934,
+    "end": 4935
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 5025,
+    "end": 5038
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 5055,
+    "end": 5064
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 5076,
+    "end": 5085
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5163,
+    "end": 5170
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 5190,
+    "end": 5199
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5216,
+    "end": 5223
+   },
+   {
+    "label": "MISC",
+    "text": "Oh",
+    "start": 5281,
+    "end": 5283
+   },
+   {
+    "label": "PER",
+    "text": "Jude Trebitsch",
+    "start": 5328,
+    "end": 5342
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5344,
+    "end": 5351
+   },
+   {
+    "label": "LOC",
+    "text": "Leipzig",
+    "start": 5424,
+    "end": 5431
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 5472,
+    "end": 5480
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 5559,
+    "end": 5566
+   },
+   {
+    "label": "LOC",
+    "text": "Lukscha",
+    "start": 5699,
+    "end": 5706
+   },
+   {
+    "label": "LOC",
+    "text": "Pommern",
+    "start": 5710,
+    "end": 5717
+   }
+  ],
+  "10": [
+   {
+    "label": "MISC",
+    "text": "Trebitsch...",
+    "start": 55,
+    "end": 67
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 76,
+    "end": 89
+   },
+   {
+    "label": "PER",
+    "text": "Und Trebitsch",
+    "start": 111,
+    "end": 124
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 205,
+    "end": 212
+   },
+   {
+    "label": "LOC",
+    "text": "Lukscha",
+    "start": 233,
+    "end": 240
+   },
+   {
+    "label": "LOC",
+    "text": "Pommern",
+    "start": 244,
+    "end": 251
+   },
+   {
+    "label": "PER",
+    "text": "Köckwitz",
+    "start": 296,
+    "end": 304
+   },
+   {
+    "label": "PER",
+    "text": "Friedrich",
+    "start": 399,
+    "end": 408
+   },
+   {
+    "label": "PER",
+    "text": "Kurt",
+    "start": 410,
+    "end": 414
+   },
+   {
+    "label": "PER",
+    "text": "Wilhelm",
+    "start": 416,
+    "end": 423
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 568,
+    "end": 575
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 617,
+    "end": 625
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 871,
+    "end": 878
+   },
+   {
+    "label": "PER",
+    "text": "Sohn",
+    "start": 1264,
+    "end": 1268
+   },
+   {
+    "label": "PER",
+    "text": "Köckwitz",
+    "start": 1340,
+    "end": 1348
+   },
+   {
+    "label": "PER",
+    "text": "Kurt",
+    "start": 1716,
+    "end": 1720
+   },
+   {
+    "label": "MISC",
+    "text": "Köckwitz-Anekdoten",
+    "start": 1794,
+    "end": 1812
+   },
+   {
+    "label": "MISC",
+    "text": "Jedes Jahr",
+    "start": 1814,
+    "end": 1824
+   },
+   {
+    "label": "PER",
+    "text": "Roßbach-Leute",
+    "start": 1868,
+    "end": 1881
+   },
+   {
+    "label": "MISC",
+    "text": "Sommerarbeit",
+    "start": 1889,
+    "end": 1901
+   },
+   {
+    "label": "PER",
+    "text": "Köckwitz",
+    "start": 1935,
+    "end": 1943
+   },
+   {
+    "label": "PER",
+    "text": "Köckwitz",
+    "start": 2088,
+    "end": 2096
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2410,
+    "end": 2417
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2453,
+    "end": 2460
+   },
+   {
+    "label": "PER",
+    "text": "Schimpfte",
+    "start": 2462,
+    "end": 2471
+   },
+   {
+    "label": "MISC",
+    "text": "Polacken",
+    "start": 2500,
+    "end": 2508
+   },
+   {
+    "label": "MISC",
+    "text": "deutschen",
+    "start": 2523,
+    "end": 2532
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 2541,
+    "end": 2546
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 2597,
+    "end": 2602
+   },
+   {
+    "label": "ORG",
+    "text": "Niederknallen",
+    "start": 2641,
+    "end": 2654
+   },
+   {
+    "label": "ORG",
+    "text": "Niederknallen",
+    "start": 2656,
+    "end": 2669
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Leuten",
+    "start": 2739,
+    "end": 2754
+   },
+   {
+    "label": "PER",
+    "text": "Taglöhne",
+    "start": 2797,
+    "end": 2805
+   },
+   {
+    "label": "PER",
+    "text": "Ohrfeigte",
+    "start": 3052,
+    "end": 3061
+   },
+   {
+    "label": "PER",
+    "text": "Wilhelm",
+    "start": 3080,
+    "end": 3087
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3322,
+    "end": 3329
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3407,
+    "end": 3414
+   },
+   {
+    "label": "ORG",
+    "text": "Kirche",
+    "start": 3515,
+    "end": 3521
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3618,
+    "end": 3625
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 3730,
+    "end": 3743
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 3791,
+    "end": 3804
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 3809,
+    "end": 3815
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 3823,
+    "end": 3830
+   },
+   {
+    "label": "ORG",
+    "text": "Kam",
+    "start": 3904,
+    "end": 3907
+   },
+   {
+    "label": "MISC",
+    "text": "Hundert Mann",
+    "start": 3938,
+    "end": 3950
+   },
+   {
+    "label": "ORG",
+    "text": "Arsenal",
+    "start": 3985,
+    "end": 3992
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 4003,
+    "end": 4016
+   },
+   {
+    "label": "MISC",
+    "text": "Der Verräter",
+    "start": 4056,
+    "end": 4068
+   },
+   {
+    "label": "LOC",
+    "text": "Judenbrut",
+    "start": 4106,
+    "end": 4115
+   },
+   {
+    "label": "LOC",
+    "text": "Deutschland",
+    "start": 4117,
+    "end": 4128
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 4317,
+    "end": 4325
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4504,
+    "end": 4511
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4745,
+    "end": 4752
+   },
+   {
+    "label": "MISC",
+    "text": "Die Sterbenden",
+    "start": 5039,
+    "end": 5053
+   },
+   {
+    "label": "MISC",
+    "text": "Dreißig",
+    "start": 5491,
+    "end": 5498
+   },
+   {
+    "label": "PER",
+    "text": "Blutgerinnsel",
+    "start": 5534,
+    "end": 5547
+   },
+   {
+    "label": "MISC",
+    "text": "Gendarmerie",
+    "start": 5612,
+    "end": 5623
+   },
+   {
+    "label": "LOC",
+    "text": "Kinderkinn",
+    "start": 5702,
+    "end": 5712
+   },
+   {
+    "label": "MISC",
+    "text": "Blutiger Aufstand der Landarbeiter",
+    "start": 5811,
+    "end": 5845
+   },
+   {
+    "label": "ORG",
+    "text": "Technischen Nothilfe!",
+    "start": 5866,
+    "end": 5887
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 5927,
+    "end": 5940
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 5959,
+    "end": 5972
+   },
+   {
+    "label": "MISC",
+    "text": "Aufstand",
+    "start": 6038,
+    "end": 6046
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 6065,
+    "end": 6078
+   },
+   {
+    "label": "MISC",
+    "text": "Der Sonntag",
+    "start": 6080,
+    "end": 6091
+   },
+   {
+    "label": "PER",
+    "text": "Sammeltag",
+    "start": 6096,
+    "end": 6105
+   },
+   {
+    "label": "PER",
+    "text": "Weißgekleidete",
+    "start": 6135,
+    "end": 6149
+   },
+   {
+    "label": "LOC",
+    "text": "Berlins",
+    "start": 6207,
+    "end": 6214
+   }
+  ],
+  "11": [
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 0,
+    "end": 7
+   },
+   {
+    "label": "MISC",
+    "text": "Tages",
+    "start": 542,
+    "end": 547
+   },
+   {
+    "label": "LOC",
+    "text": "Kaiser-Wilhelm-Diele",
+    "start": 691,
+    "end": 711
+   },
+   {
+    "label": "MISC",
+    "text": "deutschen",
+    "start": 880,
+    "end": 889
+   },
+   {
+    "label": "MISC",
+    "text": "Polacken",
+    "start": 922,
+    "end": 930
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Hörner",
+    "start": 962,
+    "end": 976
+   },
+   {
+    "label": "LOC",
+    "text": "sterbebangen",
+    "start": 1026,
+    "end": 1038
+   },
+   {
+    "label": "MISC",
+    "text": "Krieg",
+    "start": 1061,
+    "end": 1066
+   },
+   {
+    "label": "LOC",
+    "text": "Erde",
+    "start": 1114,
+    "end": 1118
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1402,
+    "end": 1409
+   },
+   {
+    "label": "LOC",
+    "text": "Freiherrn",
+    "start": 1436,
+    "end": 1445
+   },
+   {
+    "label": "MISC",
+    "text": "deutschen",
+    "start": 1473,
+    "end": 1482
+   },
+   {
+    "label": "MISC",
+    "text": "Zeit der Untergang",
+    "start": 1512,
+    "end": 1530
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1582,
+    "end": 1589
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2068,
+    "end": 2075
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2156,
+    "end": 2163
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 2294,
+    "end": 2300
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2362,
+    "end": 2369
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 2749,
+    "end": 2762
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Abschied",
+    "start": 2843,
+    "end": 2859
+   },
+   {
+    "label": "LOC",
+    "text": "Bahnhof",
+    "start": 3204,
+    "end": 3211
+   },
+   {
+    "label": "LOC",
+    "text": "breiten Landstraße",
+    "start": 3232,
+    "end": 3250
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3252,
+    "end": 3259
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 3284,
+    "end": 3290
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3400,
+    "end": 3407
+   }
+  ],
+  "12": [
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 15,
+    "end": 24
+   },
+   {
+    "label": "PER",
+    "text": "Theodor!",
+    "start": 91,
+    "end": 99
+   },
+   {
+    "label": "ORG",
+    "text": "Vergaß",
+    "start": 206,
+    "end": 212
+   },
+   {
+    "label": "LOC",
+    "text": "Leipzig",
+    "start": 319,
+    "end": 326
+   },
+   {
+    "label": "PER",
+    "text": "Pfeifer",
+    "start": 333,
+    "end": 340
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 359,
+    "end": 367
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 375,
+    "end": 384
+   },
+   {
+    "label": "PER",
+    "text": "Theodor verschmerzte",
+    "start": 404,
+    "end": 424
+   },
+   {
+    "label": "PER",
+    "text": "Marinelli",
+    "start": 473,
+    "end": 482
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 489,
+    "end": 496
+   },
+   {
+    "label": "PER",
+    "text": "Hartmut",
+    "start": 518,
+    "end": 525
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 545,
+    "end": 554
+   },
+   {
+    "label": "MISC",
+    "text": "nationalsozialistischen",
+    "start": 696,
+    "end": 719
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 819,
+    "end": 826
+   },
+   {
+    "label": "PER",
+    "text": "Schleier",
+    "start": 842,
+    "end": 850
+   },
+   {
+    "label": "ORG",
+    "text": "Partei",
+    "start": 947,
+    "end": 953
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 992,
+    "end": 999
+   },
+   {
+    "label": "PER",
+    "text": "Aßen",
+    "start": 1196,
+    "end": 1200
+   },
+   {
+    "label": "LOC",
+    "text": "Mündern",
+    "start": 1234,
+    "end": 1241
+   },
+   {
+    "label": "ORG",
+    "text": "Viertausend Füße",
+    "start": 1383,
+    "end": 1399
+   },
+   {
+    "label": "PER",
+    "text": "Kellner",
+    "start": 1412,
+    "end": 1419
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1482,
+    "end": 1489
+   },
+   {
+    "label": "MISC",
+    "text": "Werbebüros",
+    "start": 1608,
+    "end": 1618
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 1707,
+    "end": 1715
+   },
+   {
+    "label": "PER",
+    "text": "Hitler",
+    "start": 1847,
+    "end": 1853
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 1859,
+    "end": 1872
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 1934,
+    "end": 1942
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 2369,
+    "end": 2382
+   },
+   {
+    "label": "PER",
+    "text": "Seyfarth",
+    "start": 2390,
+    "end": 2398
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2427,
+    "end": 2434
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2476,
+    "end": 2483
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2493,
+    "end": 2500
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2537,
+    "end": 2544
+   },
+   {
+    "label": "MISC",
+    "text": "Verwegene",
+    "start": 2610,
+    "end": 2619
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohses",
+    "start": 2642,
+    "end": 2656
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2658,
+    "end": 2665
+   },
+   {
+    "label": "PER",
+    "text": "Seyfarth",
+    "start": 2756,
+    "end": 2764
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 2832,
+    "end": 2845
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 2877,
+    "end": 2887
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2952,
+    "end": 2959
+   },
+   {
+    "label": "ORG",
+    "text": "Militär",
+    "start": 3034,
+    "end": 3041
+   },
+   {
+    "label": "PER",
+    "text": "Gage",
+    "start": 3116,
+    "end": 3120
+   },
+   {
+    "label": "PER",
+    "text": "Daheim",
+    "start": 3148,
+    "end": 3154
+   },
+   {
+    "label": "ORG",
+    "text": "Spiegel",
+    "start": 3169,
+    "end": 3176
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 3406,
+    "end": 3416
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdam",
+    "start": 3646,
+    "end": 3653
+   },
+   {
+    "label": "MISC",
+    "text": "Achselstücken",
+    "start": 3823,
+    "end": 3836
+   },
+   {
+    "label": "PER",
+    "text": "Stillgestanden",
+    "start": 4368,
+    "end": 4382
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 4458,
+    "end": 4467
+   },
+   {
+    "label": "LOC",
+    "text": "Rügen",
+    "start": 4881,
+    "end": 4886
+   },
+   {
+    "label": "PER",
+    "text": "Schütz",
+    "start": 5336,
+    "end": 5342
+   },
+   {
+    "label": "PER",
+    "text": "Sohn",
+    "start": 5344,
+    "end": 5348
+   },
+   {
+    "label": "PER",
+    "text": "Lombard",
+    "start": 5539,
+    "end": 5546
+   },
+   {
+    "label": "PER",
+    "text": "Schütz",
+    "start": 5557,
+    "end": 5563
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5589,
+    "end": 5596
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5598,
+    "end": 5605
+   }
+  ],
+  "13": [
+   {
+    "label": "LOC",
+    "text": "Tiergarten",
+    "start": 133,
+    "end": 143
+   },
+   {
+    "label": "LOC",
+    "text": "Rasengrün",
+    "start": 163,
+    "end": 172
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 261,
+    "end": 268
+   },
+   {
+    "label": "PER",
+    "text": "Mächtiger",
+    "start": 293,
+    "end": 302
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 316,
+    "end": 323
+   },
+   {
+    "label": "PER",
+    "text": "Nie",
+    "start": 325,
+    "end": 328
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 461,
+    "end": 474
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 619,
+    "end": 626
+   },
+   {
+    "label": "ORG",
+    "text": "Militär",
+    "start": 790,
+    "end": 797
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 856,
+    "end": 865
+   },
+   {
+    "label": "MISC",
+    "text": "Dritten",
+    "start": 987,
+    "end": 994
+   },
+   {
+    "label": "LOC",
+    "text": "Stadtbahn",
+    "start": 1027,
+    "end": 1036
+   },
+   {
+    "label": "PER",
+    "text": "Limonade",
+    "start": 1189,
+    "end": 1197
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1245,
+    "end": 1252
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 1464,
+    "end": 1471
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 1494,
+    "end": 1507
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1525,
+    "end": 1532
+   },
+   {
+    "label": "MISC",
+    "text": "Zeit",
+    "start": 2092,
+    "end": 2096
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 2105,
+    "end": 2114
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdam",
+    "start": 2309,
+    "end": 2316
+   },
+   {
+    "label": "LOC",
+    "text": "Maschinengewehrkompanie",
+    "start": 2393,
+    "end": 2416
+   },
+   {
+    "label": "PER",
+    "text": "Major von Lübbe",
+    "start": 2930,
+    "end": 2945
+   },
+   {
+    "label": "MISC",
+    "text": "Luftkrieges",
+    "start": 2987,
+    "end": 2998
+   },
+   {
+    "label": "MISC",
+    "text": "Major Lübbe",
+    "start": 3043,
+    "end": 3054
+   },
+   {
+    "label": "MISC",
+    "text": "Kreuzzeitung",
+    "start": 3101,
+    "end": 3113
+   },
+   {
+    "label": "PER",
+    "text": "Zeppelin",
+    "start": 3361,
+    "end": 3369
+   },
+   {
+    "label": "PER",
+    "text": "Zeppelin",
+    "start": 3397,
+    "end": 3405
+   },
+   {
+    "label": "MISC",
+    "text": "Luftkrieg",
+    "start": 3466,
+    "end": 3475
+   },
+   {
+    "label": "MISC",
+    "text": "Zeit",
+    "start": 3579,
+    "end": 3583
+   },
+   {
+    "label": "PER",
+    "text": "Zeppelin",
+    "start": 3750,
+    "end": 3758
+   },
+   {
+    "label": "ORG",
+    "text": "Zeit des Grafen",
+    "start": 3778,
+    "end": 3793
+   },
+   {
+    "label": "MISC",
+    "text": "deutschen",
+    "start": 3845,
+    "end": 3854
+   },
+   {
+    "label": "PER",
+    "text": "harrenden",
+    "start": 3881,
+    "end": 3890
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorff",
+    "start": 4062,
+    "end": 4072
+   },
+   {
+    "label": "PER",
+    "text": "Kalt",
+    "start": 4636,
+    "end": 4640
+   },
+   {
+    "label": "MISC",
+    "text": "Schenken",
+    "start": 4724,
+    "end": 4732
+   },
+   {
+    "label": "PER",
+    "text": "Polizeihelme",
+    "start": 4878,
+    "end": 4890
+   },
+   {
+    "label": "PER",
+    "text": "Verhaltene",
+    "start": 4976,
+    "end": 4986
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5054,
+    "end": 5061
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5095,
+    "end": 5102
+   },
+   {
+    "label": "PER",
+    "text": "Bismarck-Bund",
+    "start": 5301,
+    "end": 5314
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5359,
+    "end": 5366
+   },
+   {
+    "label": "MISC",
+    "text": "Kriege",
+    "start": 5636,
+    "end": 5642
+   },
+   {
+    "label": "PER",
+    "text": "Blind",
+    "start": 5816,
+    "end": 5821
+   },
+   {
+    "label": "MISC",
+    "text": "Von Blut!",
+    "start": 5839,
+    "end": 5848
+   },
+   {
+    "label": "PER",
+    "text": "Rostflecke",
+    "start": 5861,
+    "end": 5871
+   },
+   {
+    "label": "LOC",
+    "text": "Blutflecke",
+    "start": 5878,
+    "end": 5888
+   },
+   {
+    "label": "MISC",
+    "text": "Oktobersonne",
+    "start": 6019,
+    "end": 6031
+   },
+   {
+    "label": "MISC",
+    "text": "Frieden",
+    "start": 6139,
+    "end": 6146
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorffs Helmspitze",
+    "start": 6239,
+    "end": 6261
+   },
+   {
+    "label": "MISC",
+    "text": "Sonnenglanz",
+    "start": 6273,
+    "end": 6284
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6894,
+    "end": 6901
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6954,
+    "end": 6961
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6998,
+    "end": 7005
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorff",
+    "start": 7051,
+    "end": 7061
+   }
+  ],
+  "14": [
+   {
+    "label": "LOC",
+    "text": "Geheimbefehle",
+    "start": 0,
+    "end": 13
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 60,
+    "end": 67
+   },
+   {
+    "label": "PER",
+    "text": "Heldenträume",
+    "start": 628,
+    "end": 640
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 699,
+    "end": 706
+   },
+   {
+    "label": "ORG",
+    "text": "Klitsche",
+    "start": 711,
+    "end": 719
+   },
+   {
+    "label": "MISC",
+    "text": "Mißbrauchtes",
+    "start": 798,
+    "end": 810
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 837,
+    "end": 844
+   },
+   {
+    "label": "PER",
+    "text": "bedachtsamer",
+    "start": 1235,
+    "end": 1247
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 1370,
+    "end": 1377
+   },
+   {
+    "label": "MISC",
+    "text": "Ein Jahr",
+    "start": 1482,
+    "end": 1490
+   },
+   {
+    "label": "MISC",
+    "text": "Tages",
+    "start": 1637,
+    "end": 1642
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdam",
+    "start": 1799,
+    "end": 1806
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 1811,
+    "end": 1817
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 1857,
+    "end": 1866
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 1916,
+    "end": 1925
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2226,
+    "end": 2233
+   },
+   {
+    "label": "PER",
+    "text": "Theodor der alte",
+    "start": 2523,
+    "end": 2539
+   },
+   {
+    "label": "PER",
+    "text": "Verrauscht",
+    "start": 2622,
+    "end": 2632
+   },
+   {
+    "label": "LOC",
+    "text": "Goldscheiders",
+    "start": 2998,
+    "end": 3011
+   },
+   {
+    "label": "MISC",
+    "text": "Neues Testament",
+    "start": 3054,
+    "end": 3069
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3138,
+    "end": 3145
+   },
+   {
+    "label": "MISC",
+    "text": "Sozialismus",
+    "start": 3391,
+    "end": 3402
+   },
+   {
+    "label": "PER",
+    "text": "Drüben",
+    "start": 3467,
+    "end": 3473
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3637,
+    "end": 3644
+   },
+   {
+    "label": "MISC",
+    "text": "Zeit",
+    "start": 3657,
+    "end": 3661
+   },
+   {
+    "label": "LOC",
+    "text": "Flammender",
+    "start": 3910,
+    "end": 3920
+   },
+   {
+    "label": "LOC",
+    "text": "Sachsen",
+    "start": 4012,
+    "end": 4019
+   }
+  ],
+  "15": [
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 57,
+    "end": 64
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 96,
+    "end": 109
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 145,
+    "end": 154
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 162,
+    "end": 169
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 220,
+    "end": 227
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 229,
+    "end": 242
+   },
+   {
+    "label": "MISC",
+    "text": "Jude",
+    "start": 248,
+    "end": 252
+   },
+   {
+    "label": "LOC",
+    "text": "Lodz",
+    "start": 257,
+    "end": 261
+   },
+   {
+    "label": "LOC",
+    "text": "Stirnrand",
+    "start": 456,
+    "end": 465
+   },
+   {
+    "label": "LOC",
+    "text": "Talkesseln",
+    "start": 541,
+    "end": 551
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 840,
+    "end": 853
+   },
+   {
+    "label": "LOC",
+    "text": "Deutschland",
+    "start": 959,
+    "end": 970
+   },
+   {
+    "label": "ORG",
+    "text": "Armee",
+    "start": 1041,
+    "end": 1046
+   },
+   {
+    "label": "PER",
+    "text": "verständnisvollem Auge Benjamin",
+    "start": 1123,
+    "end": 1154
+   },
+   {
+    "label": "PER",
+    "text": "Untersuchungshäftlingen",
+    "start": 1398,
+    "end": 1421
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 1500,
+    "end": 1513
+   },
+   {
+    "label": "LOC",
+    "text": "Europa",
+    "start": 1524,
+    "end": 1530
+   },
+   {
+    "label": "MISC",
+    "text": "Christentum",
+    "start": 1532,
+    "end": 1543
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 1545,
+    "end": 1550
+   },
+   {
+    "label": "MISC",
+    "text": "europäische",
+    "start": 1772,
+    "end": 1783
+   },
+   {
+    "label": "MISC",
+    "text": "französischen",
+    "start": 2001,
+    "end": 2014
+   },
+   {
+    "label": "PER",
+    "text": "Gelogenes",
+    "start": 2042,
+    "end": 2051
+   },
+   {
+    "label": "PER",
+    "text": "Klitsche",
+    "start": 2404,
+    "end": 2412
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2536,
+    "end": 2543
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 2633,
+    "end": 2642
+   },
+   {
+    "label": "LOC",
+    "text": "Europa",
+    "start": 2955,
+    "end": 2961
+   },
+   {
+    "label": "MISC",
+    "text": "Freude am Blut",
+    "start": 3058,
+    "end": 3072
+   },
+   {
+    "label": "LOC",
+    "text": "Lodz",
+    "start": 3421,
+    "end": 3425
+   },
+   {
+    "label": "MISC",
+    "text": "jüdischen",
+    "start": 3444,
+    "end": 3453
+   },
+   {
+    "label": "PER",
+    "text": "Benjamins",
+    "start": 3483,
+    "end": 3492
+   },
+   {
+    "label": "PER",
+    "text": "Niemals",
+    "start": 3661,
+    "end": 3668
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 3673,
+    "end": 3681
+   },
+   {
+    "label": "PER",
+    "text": "Niemals",
+    "start": 3700,
+    "end": 3707
+   },
+   {
+    "label": "LOC",
+    "text": "Lodz",
+    "start": 3724,
+    "end": 3728
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 3767,
+    "end": 3780
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3811,
+    "end": 3818
+   },
+   {
+    "label": "MISC",
+    "text": "Judentum",
+    "start": 3910,
+    "end": 3918
+   },
+   {
+    "label": "PER",
+    "text": "Benjamins",
+    "start": 3919,
+    "end": 3928
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3981,
+    "end": 3988
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 3989,
+    "end": 3994
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4033,
+    "end": 4037
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4076,
+    "end": 4083
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 4137,
+    "end": 4145
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 4208,
+    "end": 4221
+   },
+   {
+    "label": "PER",
+    "text": "Trattner",
+    "start": 4258,
+    "end": 4266
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 4305,
+    "end": 4313
+   },
+   {
+    "label": "PER",
+    "text": "Klaften",
+    "start": 4315,
+    "end": 4322
+   },
+   {
+    "label": "PER",
+    "text": "Affäre Klaften",
+    "start": 4378,
+    "end": 4392
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4399,
+    "end": 4406
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4478,
+    "end": 4482
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 4484,
+    "end": 4490
+   },
+   {
+    "label": "PER",
+    "text": "Goldscheider",
+    "start": 4546,
+    "end": 4558
+   },
+   {
+    "label": "PER",
+    "text": "Klaften",
+    "start": 4579,
+    "end": 4586
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 4624,
+    "end": 4632
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 4719,
+    "end": 4732
+   },
+   {
+    "label": "LOC",
+    "text": "Las",
+    "start": 4745,
+    "end": 4748
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4806,
+    "end": 4810
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4817,
+    "end": 4824
+   }
+  ],
+  "16": [
+   {
+    "label": "LOC",
+    "text": "Potsdamer Platz",
+    "start": 40,
+    "end": 55
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 184,
+    "end": 197
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 199,
+    "end": 206
+   },
+   {
+    "label": "PER",
+    "text": "Lärm",
+    "start": 494,
+    "end": 498
+   },
+   {
+    "label": "MISC",
+    "text": "Nebentischen",
+    "start": 515,
+    "end": 527
+   },
+   {
+    "label": "LOC",
+    "text": "Geheimnissen",
+    "start": 1139,
+    "end": 1151
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdam",
+    "start": 1194,
+    "end": 1201
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 1249,
+    "end": 1262
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1271,
+    "end": 1278
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdamer",
+    "start": 1311,
+    "end": 1320
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 1388,
+    "end": 1396
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1409,
+    "end": 1416
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 1475,
+    "end": 1488
+   },
+   {
+    "label": "LOC",
+    "text": "Deutschland",
+    "start": 1584,
+    "end": 1595
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 1692,
+    "end": 1705
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1824,
+    "end": 1831
+   },
+   {
+    "label": "PER",
+    "text": "raschelndes Laub",
+    "start": 1844,
+    "end": 1860
+   },
+   {
+    "label": "PER",
+    "text": "Herrn v. Köckwitz",
+    "start": 1961,
+    "end": 1978
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 2003,
+    "end": 2016
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2025,
+    "end": 2032
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 2094,
+    "end": 2103
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 2204,
+    "end": 2214
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 2247,
+    "end": 2257
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 2294,
+    "end": 2307
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 2430,
+    "end": 2434
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 2465,
+    "end": 2478
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2515,
+    "end": 2522
+   },
+   {
+    "label": "PER",
+    "text": "Ahnte",
+    "start": 2538,
+    "end": 2543
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 2667,
+    "end": 2672
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 2776,
+    "end": 2781
+   },
+   {
+    "label": "MISC",
+    "text": "sozialen",
+    "start": 3017,
+    "end": 3025
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3198,
+    "end": 3205
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 3323,
+    "end": 3330
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 3387,
+    "end": 3394
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 3552,
+    "end": 3560
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3598,
+    "end": 3605
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 3690,
+    "end": 3697
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 3703,
+    "end": 3710
+   },
+   {
+    "label": "LOC",
+    "text": "Lippen",
+    "start": 3871,
+    "end": 3877
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 3962,
+    "end": 3970
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 3982,
+    "end": 3995
+   },
+   {
+    "label": "PER",
+    "text": "dein Waffengefährte",
+    "start": 4040,
+    "end": 4059
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4061,
+    "end": 4068
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 4188,
+    "end": 4201
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 4211,
+    "end": 4224
+   }
+  ],
+  "17": [
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 21,
+    "end": 34
+   },
+   {
+    "label": "MISC",
+    "text": "Berliner",
+    "start": 47,
+    "end": 55
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdamer",
+    "start": 68,
+    "end": 77
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 109,
+    "end": 116
+   },
+   {
+    "label": "PER",
+    "text": "Bismarck-Bund",
+    "start": 127,
+    "end": 140
+   },
+   {
+    "label": "PER",
+    "text": "Marinellis",
+    "start": 154,
+    "end": 164
+   },
+   {
+    "label": "LOC",
+    "text": "Leipzig",
+    "start": 226,
+    "end": 233
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 239,
+    "end": 246
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 260,
+    "end": 268
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 318,
+    "end": 325
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 365,
+    "end": 372
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 381,
+    "end": 388
+   },
+   {
+    "label": "MISC",
+    "text": "Deserteur Conti",
+    "start": 475,
+    "end": 490
+   },
+   {
+    "label": "LOC",
+    "text": "Triest",
+    "start": 495,
+    "end": 501
+   },
+   {
+    "label": "LOC",
+    "text": "Fritsche",
+    "start": 521,
+    "end": 529
+   },
+   {
+    "label": "LOC",
+    "text": "Breslau",
+    "start": 534,
+    "end": 541
+   },
+   {
+    "label": "LOC",
+    "text": "Polizeiwachtmeister Glawacki",
+    "start": 557,
+    "end": 585
+   },
+   {
+    "label": "LOC",
+    "text": "Schleswig-Holstein",
+    "start": 612,
+    "end": 630
+   },
+   {
+    "label": "PER",
+    "text": "Sah",
+    "start": 678,
+    "end": 681
+   },
+   {
+    "label": "PER",
+    "text": "dürre",
+    "start": 982,
+    "end": 987
+   },
+   {
+    "label": "ORG",
+    "text": "Jodoform",
+    "start": 1201,
+    "end": 1209
+   },
+   {
+    "label": "PER",
+    "text": "Sah",
+    "start": 1247,
+    "end": 1250
+   },
+   {
+    "label": "LOC",
+    "text": "Rocktaschen",
+    "start": 2380,
+    "end": 2391
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 2754,
+    "end": 2767
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 2814,
+    "end": 2819
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 2828,
+    "end": 2841
+   },
+   {
+    "label": "MISC",
+    "text": "deutsche",
+    "start": 2856,
+    "end": 2864
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 2959,
+    "end": 2972
+   },
+   {
+    "label": "LOC",
+    "text": "Europa",
+    "start": 2999,
+    "end": 3005
+   },
+   {
+    "label": "LOC",
+    "text": "Europa",
+    "start": 3109,
+    "end": 3115
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 3185,
+    "end": 3198
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 3202,
+    "end": 3211
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohses",
+    "start": 3229,
+    "end": 3243
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3320,
+    "end": 3327
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 3342,
+    "end": 3355
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 3361,
+    "end": 3370
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 3404,
+    "end": 3409
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 3468,
+    "end": 3478
+   },
+   {
+    "label": "MISC",
+    "text": "Bismarck-Bundes",
+    "start": 3492,
+    "end": 3507
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 3509,
+    "end": 3522
+   }
+  ],
+  "18": [
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 26,
+    "end": 39
+   },
+   {
+    "label": "PER",
+    "text": "Haß",
+    "start": 171,
+    "end": 174
+   },
+   {
+    "label": "LOC",
+    "text": "Europas",
+    "start": 211,
+    "end": 218
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 406,
+    "end": 414
+   },
+   {
+    "label": "LOC",
+    "text": "weiterschleppen",
+    "start": 875,
+    "end": 890
+   },
+   {
+    "label": "LOC",
+    "text": "Sturmtrupps",
+    "start": 2116,
+    "end": 2127
+   },
+   {
+    "label": "MISC",
+    "text": "Richter",
+    "start": 2129,
+    "end": 2136
+   },
+   {
+    "label": "MISC",
+    "text": "Listige Juden",
+    "start": 2218,
+    "end": 2231
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 2251,
+    "end": 2256
+   },
+   {
+    "label": "PER",
+    "text": "Knüppel",
+    "start": 2320,
+    "end": 2327
+   },
+   {
+    "label": "ORG",
+    "text": "Katholiken",
+    "start": 2329,
+    "end": 2339
+   },
+   {
+    "label": "PER",
+    "text": "Droschkengäule",
+    "start": 2482,
+    "end": 2496
+   },
+   {
+    "label": "PER",
+    "text": "Greuel",
+    "start": 2670,
+    "end": 2676
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 2842,
+    "end": 2850
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 3332,
+    "end": 3345
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 3469,
+    "end": 3477
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Theodor",
+    "start": 3580,
+    "end": 3596
+   },
+   {
+    "label": "LOC",
+    "text": "Europäer",
+    "start": 3611,
+    "end": 3619
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3621,
+    "end": 3628
+   },
+   {
+    "label": "PER",
+    "text": "Hochmütigen",
+    "start": 3781,
+    "end": 3792
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 3833,
+    "end": 3846
+   },
+   {
+    "label": "MISC",
+    "text": "europäische",
+    "start": 3859,
+    "end": 3870
+   },
+   {
+    "label": "LOC",
+    "text": "Europa",
+    "start": 3982,
+    "end": 3988
+   }
+  ],
+  "19": [
+   {
+    "label": "PER",
+    "text": "Marinelli",
+    "start": 41,
+    "end": 50
+   },
+   {
+    "label": "LOC",
+    "text": "bereitgehaltenem Auto",
+    "start": 71,
+    "end": 92
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 98,
+    "end": 104
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdam",
+    "start": 119,
+    "end": 126
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 163,
+    "end": 176
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 204,
+    "end": 211
+   },
+   {
+    "label": "PER",
+    "text": "Marinelli",
+    "start": 227,
+    "end": 236
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 321,
+    "end": 334
+   },
+   {
+    "label": "PER",
+    "text": "Marinelli",
+    "start": 348,
+    "end": 357
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 372,
+    "end": 379
+   },
+   {
+    "label": "MISC",
+    "text": "Russen Rastschuk",
+    "start": 388,
+    "end": 404
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 431,
+    "end": 438
+   },
+   {
+    "label": "PER",
+    "text": "Rastschuk",
+    "start": 455,
+    "end": 464
+   },
+   {
+    "label": "MISC",
+    "text": "Likör",
+    "start": 466,
+    "end": 471
+   },
+   {
+    "label": "PER",
+    "text": "Rastschuk",
+    "start": 485,
+    "end": 494
+   },
+   {
+    "label": "PER",
+    "text": "Rastschuk",
+    "start": 715,
+    "end": 724
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 726,
+    "end": 739
+   },
+   {
+    "label": "PER",
+    "text": "Marinellis",
+    "start": 757,
+    "end": 767
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 827,
+    "end": 834
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 878,
+    "end": 886
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 924,
+    "end": 931
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 997,
+    "end": 1002
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 1012,
+    "end": 1020
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1026,
+    "end": 1033
+   },
+   {
+    "label": "PER",
+    "text": "Rastschuk",
+    "start": 1070,
+    "end": 1079
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 1166,
+    "end": 1170
+   },
+   {
+    "label": "PER",
+    "text": "Rastschuk",
+    "start": 1181,
+    "end": 1190
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1204,
+    "end": 1211
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1281,
+    "end": 1288
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 1298,
+    "end": 1311
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 1341,
+    "end": 1349
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 1376,
+    "end": 1389
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 1529,
+    "end": 1542
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 1692,
+    "end": 1705
+   },
+   {
+    "label": "LOC",
+    "text": "Geheimbefehle",
+    "start": 1802,
+    "end": 1815
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 1842,
+    "end": 1855
+   },
+   {
+    "label": "MISC",
+    "text": "Münchner",
+    "start": 1868,
+    "end": 1876
+   },
+   {
+    "label": "PER",
+    "text": "Alfred",
+    "start": 1924,
+    "end": 1930
+   },
+   {
+    "label": "MISC",
+    "text": "Zweiten Paul",
+    "start": 1939,
+    "end": 1951
+   },
+   {
+    "label": "MISC",
+    "text": "Berliner",
+    "start": 1987,
+    "end": 1995
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 2013,
+    "end": 2023
+   },
+   {
+    "label": "MISC",
+    "text": "Unser alter Freund",
+    "start": 2040,
+    "end": 2058
+   },
+   {
+    "label": "PER",
+    "text": "Viktoria",
+    "start": 2072,
+    "end": 2080
+   },
+   {
+    "label": "MISC",
+    "text": "Reichswehrminister",
+    "start": 2109,
+    "end": 2127
+   },
+   {
+    "label": "PER",
+    "text": "Martin",
+    "start": 2175,
+    "end": 2181
+   },
+   {
+    "label": "PER",
+    "text": "Marinelli",
+    "start": 2229,
+    "end": 2238
+   },
+   {
+    "label": "PER",
+    "text": "Bismarck-Bund",
+    "start": 2243,
+    "end": 2256
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2273,
+    "end": 2280
+   },
+   {
+    "label": "ORG",
+    "text": "Universität",
+    "start": 2341,
+    "end": 2352
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 2388,
+    "end": 2392
+   },
+   {
+    "label": "PER",
+    "text": "Rastschuk",
+    "start": 2409,
+    "end": 2418
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2434,
+    "end": 2441
+   },
+   {
+    "label": "MISC",
+    "text": "sächsische",
+    "start": 2447,
+    "end": 2457
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 2476,
+    "end": 2482
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdam",
+    "start": 2498,
+    "end": 2505
+   },
+   {
+    "label": "MISC",
+    "text": "kommunistischen",
+    "start": 2536,
+    "end": 2551
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 2565,
+    "end": 2571
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2633,
+    "end": 2640
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 2646,
+    "end": 2653
+   },
+   {
+    "label": "PER",
+    "text": "Seyfarth",
+    "start": 2671,
+    "end": 2679
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 2845,
+    "end": 2851
+   },
+   {
+    "label": "PER",
+    "text": "Seyfarth",
+    "start": 2897,
+    "end": 2905
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 2917,
+    "end": 2923
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2953,
+    "end": 2960
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 2971,
+    "end": 2984
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 2998,
+    "end": 3004
+   },
+   {
+    "label": "PER",
+    "text": "Kamm",
+    "start": 3006,
+    "end": 3010
+   },
+   {
+    "label": "LOC",
+    "text": "Tanzpalast",
+    "start": 3060,
+    "end": 3070
+   },
+   {
+    "label": "LOC",
+    "text": "Kaiser-Wilhelm-Diele",
+    "start": 3082,
+    "end": 3102
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3108,
+    "end": 3115
+   },
+   {
+    "label": "LOC",
+    "text": "Spielklubs",
+    "start": 3290,
+    "end": 3300
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3510,
+    "end": 3517
+   },
+   {
+    "label": "PER",
+    "text": "Kamm",
+    "start": 3519,
+    "end": 3523
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 3528,
+    "end": 3536
+   },
+   {
+    "label": "PER",
+    "text": "Kamm",
+    "start": 3593,
+    "end": 3597
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 3645,
+    "end": 3653
+   },
+   {
+    "label": "LOC",
+    "text": "Schnellzugs",
+    "start": 3718,
+    "end": 3729
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 3781,
+    "end": 3785
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 3821,
+    "end": 3825
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 3882,
+    "end": 3895
+   },
+   {
+    "label": "LOC",
+    "text": "Stadt",
+    "start": 3986,
+    "end": 3991
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4045,
+    "end": 4052
+   },
+   {
+    "label": "PER",
+    "text": "Kamm",
+    "start": 4150,
+    "end": 4154
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4244,
+    "end": 4248
+   },
+   {
+    "label": "MISC",
+    "text": "Aufmarschplan",
+    "start": 4262,
+    "end": 4275
+   },
+   {
+    "label": "MISC",
+    "text": "sächsischen",
+    "start": 4280,
+    "end": 4291
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4315,
+    "end": 4319
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4324,
+    "end": 4331
+   },
+   {
+    "label": "PER",
+    "text": "Seyfarth",
+    "start": 4401,
+    "end": 4409
+   },
+   {
+    "label": "PER",
+    "text": "Paul",
+    "start": 4427,
+    "end": 4431
+   },
+   {
+    "label": "PER",
+    "text": "Kamm",
+    "start": 4446,
+    "end": 4450
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4464,
+    "end": 4468
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 4633,
+    "end": 4646
+   },
+   {
+    "label": "PER",
+    "text": "Rastschuk",
+    "start": 4655,
+    "end": 4664
+   },
+   {
+    "label": "MISC",
+    "text": "Aufmarschplan",
+    "start": 4682,
+    "end": 4695
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4705,
+    "end": 4709
+   },
+   {
+    "label": "PER",
+    "text": "Kamm",
+    "start": 4716,
+    "end": 4720
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 4777,
+    "end": 4790
+   }
+  ],
+  "20": [
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 47,
+    "end": 56
+   },
+   {
+    "label": "PER",
+    "text": "Artur",
+    "start": 69,
+    "end": 74
+   },
+   {
+    "label": "LOC",
+    "text": "New York",
+    "start": 83,
+    "end": 91
+   },
+   {
+    "label": "MISC",
+    "text": "deutsches",
+    "start": 231,
+    "end": 240
+   },
+   {
+    "label": "MISC",
+    "text": "Dollars",
+    "start": 251,
+    "end": 258
+   },
+   {
+    "label": "LOC",
+    "text": "Österreich",
+    "start": 299,
+    "end": 309
+   },
+   {
+    "label": "PER",
+    "text": "Artur",
+    "start": 396,
+    "end": 401
+   },
+   {
+    "label": "ORG",
+    "text": "amerikanischen Armee",
+    "start": 472,
+    "end": 492
+   },
+   {
+    "label": "ORG",
+    "text": "Militär",
+    "start": 540,
+    "end": 547
+   },
+   {
+    "label": "LOC",
+    "text": "Assentkommission",
+    "start": 592,
+    "end": 608
+   },
+   {
+    "label": "ORG",
+    "text": "Onkel Trebitschs",
+    "start": 644,
+    "end": 660
+   },
+   {
+    "label": "LOC",
+    "text": "Europa",
+    "start": 715,
+    "end": 721
+   },
+   {
+    "label": "LOC",
+    "text": "Trewith",
+    "start": 731,
+    "end": 738
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 863,
+    "end": 872
+   },
+   {
+    "label": "LOC",
+    "text": "Amerika",
+    "start": 891,
+    "end": 898
+   },
+   {
+    "label": "LOC",
+    "text": "Europa",
+    "start": 931,
+    "end": 937
+   },
+   {
+    "label": "LOC",
+    "text": "New York",
+    "start": 1031,
+    "end": 1039
+   },
+   {
+    "label": "MISC",
+    "text": "amerikanischen",
+    "start": 1053,
+    "end": 1067
+   },
+   {
+    "label": "PER",
+    "text": "Artur Trewith",
+    "start": 1188,
+    "end": 1201
+   },
+   {
+    "label": "MISC",
+    "text": "Der Bruder Adolf",
+    "start": 1393,
+    "end": 1409
+   },
+   {
+    "label": "LOC",
+    "text": "Europa",
+    "start": 1470,
+    "end": 1476
+   },
+   {
+    "label": "PER",
+    "text": "Trewith",
+    "start": 1571,
+    "end": 1578
+   },
+   {
+    "label": "PER",
+    "text": "Dr. Trebitsch",
+    "start": 1616,
+    "end": 1629
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 1658,
+    "end": 1665
+   },
+   {
+    "label": "ORG",
+    "text": "Major Pauli",
+    "start": 1683,
+    "end": 1694
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 1767,
+    "end": 1776
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 1856,
+    "end": 1863
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 1967,
+    "end": 1976
+   },
+   {
+    "label": "ORG",
+    "text": "Deutschen Zeitung",
+    "start": 2025,
+    "end": 2042
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 2140,
+    "end": 2149
+   },
+   {
+    "label": "PER",
+    "text": "Trewith",
+    "start": 2315,
+    "end": 2322
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 2355,
+    "end": 2364
+   },
+   {
+    "label": "PER",
+    "text": "Paula",
+    "start": 2398,
+    "end": 2403
+   },
+   {
+    "label": "LOC",
+    "text": "Amt für Landesverteidigung",
+    "start": 2408,
+    "end": 2434
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 2475,
+    "end": 2484
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 2504,
+    "end": 2513
+   },
+   {
+    "label": "PER",
+    "text": "Paula",
+    "start": 2788,
+    "end": 2793
+   },
+   {
+    "label": "LOC",
+    "text": "Amerikaner",
+    "start": 2908,
+    "end": 2918
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2949,
+    "end": 2956
+   },
+   {
+    "label": "PER",
+    "text": "Trebitschs",
+    "start": 2978,
+    "end": 2988
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3008,
+    "end": 3015
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 3041,
+    "end": 3054
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 3056,
+    "end": 3060
+   },
+   {
+    "label": "LOC",
+    "text": "Alte Kleider",
+    "start": 3214,
+    "end": 3226
+   },
+   {
+    "label": "ORG",
+    "text": "Major Pauli",
+    "start": 3269,
+    "end": 3280
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 3308,
+    "end": 3317
+   },
+   {
+    "label": "ORG",
+    "text": "Deutschen Zeitung",
+    "start": 3367,
+    "end": 3384
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 3417,
+    "end": 3426
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 3461,
+    "end": 3465
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 3514,
+    "end": 3519
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 3528,
+    "end": 3536
+   },
+   {
+    "label": "MISC",
+    "text": "Hamburger",
+    "start": 3577,
+    "end": 3586
+   },
+   {
+    "label": "PER",
+    "text": "Dr. Trebitsch",
+    "start": 3594,
+    "end": 3607
+   },
+   {
+    "label": "LOC",
+    "text": "Deutschland",
+    "start": 3627,
+    "end": 3638
+   },
+   {
+    "label": "LOC",
+    "text": "Trewith",
+    "start": 3652,
+    "end": 3659
+   },
+   {
+    "label": "MISC",
+    "text": "Dr. Trebitsch",
+    "start": 3988,
+    "end": 4001
+   }
+  ],
+  "21": [
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 13,
+    "end": 21
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 40,
+    "end": 44
+   },
+   {
+    "label": "PER",
+    "text": "Brandler",
+    "start": 62,
+    "end": 70
+   },
+   {
+    "label": "PER",
+    "text": "Neumann",
+    "start": 86,
+    "end": 93
+   },
+   {
+    "label": "PER",
+    "text": "Angelli",
+    "start": 115,
+    "end": 122
+   },
+   {
+    "label": "PER",
+    "text": "Bertuch",
+    "start": 148,
+    "end": 155
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 172,
+    "end": 176
+   },
+   {
+    "label": "MISC",
+    "text": "jüdische",
+    "start": 217,
+    "end": 225
+   },
+   {
+    "label": "PER",
+    "text": "Ehrhardt",
+    "start": 372,
+    "end": 380
+   },
+   {
+    "label": "PER",
+    "text": "Noskes",
+    "start": 423,
+    "end": 429
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorffs",
+    "start": 460,
+    "end": 471
+   },
+   {
+    "label": "PER",
+    "text": "Hindenburgs",
+    "start": 508,
+    "end": 519
+   },
+   {
+    "label": "PER",
+    "text": "Krupp",
+    "start": 537,
+    "end": 542
+   },
+   {
+    "label": "PER",
+    "text": "Stinnes",
+    "start": 560,
+    "end": 567
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 604,
+    "end": 617
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 643,
+    "end": 656
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 711,
+    "end": 724
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 726,
+    "end": 730
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 1069,
+    "end": 1082
+   },
+   {
+    "label": "PER",
+    "text": "Und Benjamin",
+    "start": 1211,
+    "end": 1223
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 1245,
+    "end": 1249
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1265,
+    "end": 1272
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 1420,
+    "end": 1433
+   },
+   {
+    "label": "MISC",
+    "text": "Reichstag vor der Demolierung",
+    "start": 1488,
+    "end": 1517
+   },
+   {
+    "label": "ORG",
+    "text": "Spartakus",
+    "start": 1524,
+    "end": 1533
+   },
+   {
+    "label": "MISC",
+    "text": "jüdischen",
+    "start": 1590,
+    "end": 1599
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1659,
+    "end": 1666
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 1703,
+    "end": 1716
+   },
+   {
+    "label": "MISC",
+    "text": "Obersten Wangentaschen",
+    "start": 1876,
+    "end": 1898
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1945,
+    "end": 1952
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 2028,
+    "end": 2041
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2060,
+    "end": 2064
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 2109,
+    "end": 2122
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2200,
+    "end": 2207
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2254,
+    "end": 2258
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2288,
+    "end": 2292
+   },
+   {
+    "label": "MISC",
+    "text": "Unterwegs",
+    "start": 2325,
+    "end": 2334
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 2354,
+    "end": 2367
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2395,
+    "end": 2399
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 2434,
+    "end": 2447
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2478,
+    "end": 2485
+   },
+   {
+    "label": "LOC",
+    "text": "Trebitschs",
+    "start": 2506,
+    "end": 2516
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2604,
+    "end": 2611
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 2615,
+    "end": 2621
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohses",
+    "start": 2695,
+    "end": 2709
+   },
+   {
+    "label": "MISC",
+    "text": "jüdischen",
+    "start": 2744,
+    "end": 2753
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2794,
+    "end": 2798
+   },
+   {
+    "label": "ORG",
+    "text": "Bund landwirtschaftlicher Eleven",
+    "start": 2933,
+    "end": 2965
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 3026,
+    "end": 3039
+   }
+  ],
+  "22": [
+   {
+    "label": "MISC",
+    "text": "Die Nacht vor dem 2. November",
+    "start": 0,
+    "end": 29
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 41,
+    "end": 48
+   },
+   {
+    "label": "MISC",
+    "text": "Die Wacht am Rhein",
+    "start": 296,
+    "end": 314
+   },
+   {
+    "label": "MISC",
+    "text": "Sektkübel",
+    "start": 535,
+    "end": 544
+   },
+   {
+    "label": "MISC",
+    "text": "Der Morgen",
+    "start": 546,
+    "end": 556
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 584,
+    "end": 591
+   },
+   {
+    "label": "LOC",
+    "text": "Stadt",
+    "start": 661,
+    "end": 666
+   },
+   {
+    "label": "LOC",
+    "text": "Stadt",
+    "start": 706,
+    "end": 711
+   },
+   {
+    "label": "LOC",
+    "text": "Charlottenburg",
+    "start": 829,
+    "end": 843
+   },
+   {
+    "label": "LOC",
+    "text": "Stadt",
+    "start": 913,
+    "end": 918
+   },
+   {
+    "label": "PER",
+    "text": "Glasstaub",
+    "start": 1501,
+    "end": 1510
+   },
+   {
+    "label": "MISC",
+    "text": "Tages",
+    "start": 2282,
+    "end": 2287
+   },
+   {
+    "label": "PER",
+    "text": "Knüppel",
+    "start": 2779,
+    "end": 2786
+   },
+   {
+    "label": "PER",
+    "text": "Polizeikommissare",
+    "start": 2926,
+    "end": 2943
+   },
+   {
+    "label": "PER",
+    "text": "Autohupe",
+    "start": 4453,
+    "end": 4461
+   },
+   {
+    "label": "ORG",
+    "text": "Universität",
+    "start": 4732,
+    "end": 4743
+   },
+   {
+    "label": "PER",
+    "text": "Marinelli",
+    "start": 4750,
+    "end": 4759
+   },
+   {
+    "label": "LOC",
+    "text": "Lastautomobilen",
+    "start": 5243,
+    "end": 5258
+   },
+   {
+    "label": "MISC",
+    "text": "Tausend Hände",
+    "start": 5697,
+    "end": 5710
+   },
+   {
+    "label": "LOC",
+    "text": "Hausfluren",
+    "start": 6056,
+    "end": 6066
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6109,
+    "end": 6116
+   },
+   {
+    "label": "LOC",
+    "text": "Alexanderplatz",
+    "start": 6127,
+    "end": 6141
+   },
+   {
+    "label": "LOC",
+    "text": "Sturm",
+    "start": 6288,
+    "end": 6293
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6319,
+    "end": 6326
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6794,
+    "end": 6801
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 7296,
+    "end": 7303
+   },
+   {
+    "label": "LOC",
+    "text": "Judenviertel",
+    "start": 7337,
+    "end": 7349
+   },
+   {
+    "label": "MISC",
+    "text": "Jüdin",
+    "start": 7430,
+    "end": 7435
+   },
+   {
+    "label": "MISC",
+    "text": "Füße Kraft",
+    "start": 7597,
+    "end": 7607
+   },
+   {
+    "label": "ORG",
+    "text": "Pferdekot",
+    "start": 7808,
+    "end": 7817
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Knie",
+    "start": 7960,
+    "end": 7973
+   },
+   {
+    "label": "PER",
+    "text": "Theodor schlenkert",
+    "start": 8001,
+    "end": 8019
+   },
+   {
+    "label": "LOC",
+    "text": "Blutbach",
+    "start": 8062,
+    "end": 8070
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 8200,
+    "end": 8205
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8247,
+    "end": 8254
+   },
+   {
+    "label": "PER",
+    "text": "Günthers",
+    "start": 8349,
+    "end": 8357
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8359,
+    "end": 8366
+   },
+   {
+    "label": "PER",
+    "text": "Blut",
+    "start": 8437,
+    "end": 8441
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8564,
+    "end": 8571
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8648,
+    "end": 8655
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 8884,
+    "end": 8891
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 8902,
+    "end": 8909
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 9108,
+    "end": 9115
+   },
+   {
+    "label": "MISC",
+    "text": "Die Toten",
+    "start": 9622,
+    "end": 9631
+   }
+  ],
+  "23": [
+   {
+    "label": "ORG",
+    "text": "Demokratischen Partei",
+    "start": 188,
+    "end": 209
+   },
+   {
+    "label": "MISC",
+    "text": "Bismarck-Bundes",
+    "start": 279,
+    "end": 294
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 330,
+    "end": 337
+   },
+   {
+    "label": "PER",
+    "text": "Vereiteln",
+    "start": 380,
+    "end": 389
+   },
+   {
+    "label": "PER",
+    "text": "Spitzel",
+    "start": 442,
+    "end": 449
+   },
+   {
+    "label": "MISC",
+    "text": "Polizeibericht",
+    "start": 517,
+    "end": 531
+   },
+   {
+    "label": "PER",
+    "text": "Spitzel",
+    "start": 574,
+    "end": 581
+   },
+   {
+    "label": "PER",
+    "text": "Spitzel",
+    "start": 892,
+    "end": 899
+   },
+   {
+    "label": "LOC",
+    "text": "Lastautos",
+    "start": 966,
+    "end": 975
+   },
+   {
+    "label": "LOC",
+    "text": "Deutschlands",
+    "start": 1078,
+    "end": 1090
+   },
+   {
+    "label": "LOC",
+    "text": "Flugzeugplatz",
+    "start": 1116,
+    "end": 1129
+   },
+   {
+    "label": "MISC",
+    "text": "Gendarmen",
+    "start": 1161,
+    "end": 1170
+   },
+   {
+    "label": "MISC",
+    "text": "Jude",
+    "start": 1599,
+    "end": 1603
+   },
+   {
+    "label": "MISC",
+    "text": "Jude",
+    "start": 1759,
+    "end": 1763
+   },
+   {
+    "label": "MISC",
+    "text": "amerikanisches",
+    "start": 1793,
+    "end": 1807
+   },
+   {
+    "label": "MISC",
+    "text": "Bürgerliga",
+    "start": 1874,
+    "end": 1884
+   },
+   {
+    "label": "MISC",
+    "text": "Deutsche Prinzen",
+    "start": 1933,
+    "end": 1949
+   },
+   {
+    "label": "ORG",
+    "text": "Alte Generale schepperten",
+    "start": 1997,
+    "end": 2022
+   },
+   {
+    "label": "ORG",
+    "text": "Nationalen Bürgerliga",
+    "start": 2112,
+    "end": 2133
+   },
+   {
+    "label": "MISC",
+    "text": "Sozialistische",
+    "start": 2491,
+    "end": 2505
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 2661,
+    "end": 2674
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2703,
+    "end": 2707
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 2735,
+    "end": 2748
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohses",
+    "start": 2825,
+    "end": 2839
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 2866,
+    "end": 2879
+   },
+   {
+    "label": "PER",
+    "text": "Reiche",
+    "start": 2937,
+    "end": 2943
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 2998,
+    "end": 3005
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 3236,
+    "end": 3243
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3423,
+    "end": 3430
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 3575,
+    "end": 3588
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3590,
+    "end": 3597
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 3610,
+    "end": 3617
+   },
+   {
+    "label": "PER",
+    "text": "Schlieffen",
+    "start": 3653,
+    "end": 3663
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdam",
+    "start": 3695,
+    "end": 3702
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3738,
+    "end": 3745
+   },
+   {
+    "label": "PER",
+    "text": "Fräulein v. Schlieffen",
+    "start": 3816,
+    "end": 3838
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3937,
+    "end": 3944
+   },
+   {
+    "label": "LOC",
+    "text": "Sofia",
+    "start": 4102,
+    "end": 4107
+   },
+   {
+    "label": "LOC",
+    "text": "Republik",
+    "start": 4297,
+    "end": 4305
+   },
+   {
+    "label": "PER",
+    "text": "Nie",
+    "start": 4440,
+    "end": 4443
+   },
+   {
+    "label": "PER",
+    "text": "Schlieffen",
+    "start": 4458,
+    "end": 4468
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 4864,
+    "end": 4877
+   },
+   {
+    "label": "PER",
+    "text": "Elsa v. Schlieffen",
+    "start": 5114,
+    "end": 5132
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 5269,
+    "end": 5282
+   },
+   {
+    "label": "MISC",
+    "text": "Zeit",
+    "start": 5319,
+    "end": 5323
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 5342,
+    "end": 5352
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 5386,
+    "end": 5393
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 5443,
+    "end": 5453
+   },
+   {
+    "label": "PER",
+    "text": "Trebitschs",
+    "start": 5488,
+    "end": 5498
+   },
+   {
+    "label": "MISC",
+    "text": "Tages",
+    "start": 5586,
+    "end": 5591
+   },
+   {
+    "label": "MISC",
+    "text": "Ach!",
+    "start": 5593,
+    "end": 5597
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 5718,
+    "end": 5731
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 5830,
+    "end": 5838
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5962,
+    "end": 5969
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6000,
+    "end": 6007
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 6117,
+    "end": 6125
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 6355,
+    "end": 6362
+   },
+   {
+    "label": "MISC",
+    "text": "Weisen von Zion",
+    "start": 6407,
+    "end": 6422
+   },
+   {
+    "label": "LOC",
+    "text": "Europa",
+    "start": 6514,
+    "end": 6520
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Kapital",
+    "start": 6646,
+    "end": 6662
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 6675,
+    "end": 6688
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 6799,
+    "end": 6807
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6826,
+    "end": 6833
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 6865,
+    "end": 6873
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 6938,
+    "end": 6951
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 6979,
+    "end": 6986
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 7000,
+    "end": 7007
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 7019,
+    "end": 7026
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 7035,
+    "end": 7045
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 7197,
+    "end": 7210
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 7212,
+    "end": 7219
+   },
+   {
+    "label": "ORG",
+    "text": "Reichswehr",
+    "start": 7235,
+    "end": 7245
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 7321,
+    "end": 7328
+   }
+  ],
+  "24": [
+   {
+    "label": "PER",
+    "text": "Fräulein v. Schlieffen",
+    "start": 39,
+    "end": 61
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 111,
+    "end": 119
+   },
+   {
+    "label": "PER",
+    "text": "Unerschöpflich",
+    "start": 125,
+    "end": 139
+   },
+   {
+    "label": "PER",
+    "text": "Benjamins",
+    "start": 149,
+    "end": 158
+   },
+   {
+    "label": "PER",
+    "text": "Schlieffen",
+    "start": 179,
+    "end": 189
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 384,
+    "end": 391
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdam",
+    "start": 397,
+    "end": 404
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 468,
+    "end": 475
+   },
+   {
+    "label": "PER",
+    "text": "Schlieffen",
+    "start": 598,
+    "end": 608
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 610,
+    "end": 618
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 689,
+    "end": 696
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 785,
+    "end": 792
+   },
+   {
+    "label": "ORG",
+    "text": "Ministerium für Inneres",
+    "start": 1011,
+    "end": 1034
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1049,
+    "end": 1056
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1161,
+    "end": 1168
+   },
+   {
+    "label": "PER",
+    "text": "Niemals",
+    "start": 1388,
+    "end": 1395
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1495,
+    "end": 1502
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 1545,
+    "end": 1558
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1615,
+    "end": 1622
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 1777,
+    "end": 1781
+   },
+   {
+    "label": "PER",
+    "text": "Tannen",
+    "start": 1832,
+    "end": 1838
+   },
+   {
+    "label": "PER",
+    "text": "Tannen",
+    "start": 1863,
+    "end": 1869
+   },
+   {
+    "label": "PER",
+    "text": "Tannen",
+    "start": 2018,
+    "end": 2024
+   },
+   {
+    "label": "ORG",
+    "text": "Staatssekretariat für öffentliche Sicherheit",
+    "start": 2067,
+    "end": 2111
+   },
+   {
+    "label": "MISC",
+    "text": "Ministerium des Innern",
+    "start": 2182,
+    "end": 2204
+   },
+   {
+    "label": "ORG",
+    "text": "Staatssekretariat",
+    "start": 2213,
+    "end": 2230
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2263,
+    "end": 2267
+   },
+   {
+    "label": "PER",
+    "text": "Hilper",
+    "start": 2350,
+    "end": 2356
+   },
+   {
+    "label": "MISC",
+    "text": "westfälischer",
+    "start": 2398,
+    "end": 2411
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2489,
+    "end": 2493
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2513,
+    "end": 2517
+   },
+   {
+    "label": "PER",
+    "text": "Bruhns",
+    "start": 2537,
+    "end": 2543
+   },
+   {
+    "label": "MISC",
+    "text": "Und ob!... Er",
+    "start": 2724,
+    "end": 2737
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2780,
+    "end": 2784
+   },
+   {
+    "label": "PER",
+    "text": "Saturn",
+    "start": 2821,
+    "end": 2827
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 3006,
+    "end": 3010
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 3099,
+    "end": 3104
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 3128,
+    "end": 3132
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 3173,
+    "end": 3178
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 3313,
+    "end": 3317
+   },
+   {
+    "label": "ORG",
+    "text": "Reich",
+    "start": 3320,
+    "end": 3325
+   },
+   {
+    "label": "MISC",
+    "text": "Gescheiter Junge!",
+    "start": 3459,
+    "end": 3476
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 3484,
+    "end": 3488
+   },
+   {
+    "label": "PER",
+    "text": "Bruhns",
+    "start": 3575,
+    "end": 3581
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 3587,
+    "end": 3591
+   }
+  ],
+  "25": [
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 19,
+    "end": 32
+   },
+   {
+    "label": "ORG",
+    "text": "Kirche",
+    "start": 102,
+    "end": 108
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 294,
+    "end": 301
+   },
+   {
+    "label": "LOC",
+    "text": "Paradeuniformen",
+    "start": 335,
+    "end": 350
+   },
+   {
+    "label": "LOC",
+    "text": "Potsdamer",
+    "start": 392,
+    "end": 401
+   },
+   {
+    "label": "ORG",
+    "text": "Kirche",
+    "start": 436,
+    "end": 442
+   },
+   {
+    "label": "PER",
+    "text": "Major Lübbe",
+    "start": 506,
+    "end": 517
+   },
+   {
+    "label": "PER",
+    "text": "Zeppelin",
+    "start": 556,
+    "end": 564
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 616,
+    "end": 620
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 629,
+    "end": 636
+   },
+   {
+    "label": "ORG",
+    "text": "Dankrede",
+    "start": 641,
+    "end": 649
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 845,
+    "end": 858
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 903,
+    "end": 911
+   },
+   {
+    "label": "MISC",
+    "text": "europäische",
+    "start": 937,
+    "end": 948
+   },
+   {
+    "label": "LOC",
+    "text": "Majorswitwe Strubbe",
+    "start": 983,
+    "end": 1002
+   },
+   {
+    "label": "LOC",
+    "text": "Kattowitz",
+    "start": 1020,
+    "end": 1029
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 1074,
+    "end": 1082
+   },
+   {
+    "label": "PER",
+    "text": "Benjamins",
+    "start": 1096,
+    "end": 1105
+   },
+   {
+    "label": "LOC",
+    "text": "Lodz",
+    "start": 1161,
+    "end": 1165
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 1312,
+    "end": 1317
+   },
+   {
+    "label": "LOC",
+    "text": "Lodz",
+    "start": 1321,
+    "end": 1325
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 1463,
+    "end": 1468
+   },
+   {
+    "label": "MISC",
+    "text": "europäische",
+    "start": 1552,
+    "end": 1563
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1862,
+    "end": 1869
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 1951,
+    "end": 1959
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 1978,
+    "end": 1983
+   },
+   {
+    "label": "PER",
+    "text": "Und Benjamin",
+    "start": 2028,
+    "end": 2040
+   },
+   {
+    "label": "MISC",
+    "text": "Major Lübbe",
+    "start": 2071,
+    "end": 2082
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2114,
+    "end": 2118
+   },
+   {
+    "label": "PER",
+    "text": "Hilper",
+    "start": 2159,
+    "end": 2165
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 2200,
+    "end": 2207
+   },
+   {
+    "label": "PER",
+    "text": "Major Lübbe",
+    "start": 2221,
+    "end": 2232
+   },
+   {
+    "label": "PER",
+    "text": "Ludendorffs",
+    "start": 2281,
+    "end": 2292
+   },
+   {
+    "label": "MISC",
+    "text": "europäische",
+    "start": 2347,
+    "end": 2358
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 2373,
+    "end": 2381
+   },
+   {
+    "label": "LOC",
+    "text": "Europäer",
+    "start": 2444,
+    "end": 2452
+   },
+   {
+    "label": "PER",
+    "text": "Lohse",
+    "start": 3052,
+    "end": 3057
+   },
+   {
+    "label": "PER",
+    "text": "Schlieffen",
+    "start": 3163,
+    "end": 3173
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3259,
+    "end": 3266
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3271,
+    "end": 3278
+   },
+   {
+    "label": "PER",
+    "text": "Schlieffen",
+    "start": 3310,
+    "end": 3320
+   },
+   {
+    "label": "LOC",
+    "text": "Haarknotens",
+    "start": 3491,
+    "end": 3502
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3542,
+    "end": 3549
+   },
+   {
+    "label": "PER",
+    "text": "Gleichgültiges",
+    "start": 3623,
+    "end": 3637
+   },
+   {
+    "label": "MISC",
+    "text": "Elsa",
+    "start": 3652,
+    "end": 3656
+   },
+   {
+    "label": "PER",
+    "text": "Schön",
+    "start": 3705,
+    "end": 3710
+   },
+   {
+    "label": "PER",
+    "text": "Efrussi",
+    "start": 3760,
+    "end": 3767
+   },
+   {
+    "label": "MISC",
+    "text": "Elsa",
+    "start": 3852,
+    "end": 3856
+   },
+   {
+    "label": "MISC",
+    "text": "Jüdin",
+    "start": 3864,
+    "end": 3869
+   },
+   {
+    "label": "PER",
+    "text": "Schlieffen",
+    "start": 3957,
+    "end": 3967
+   },
+   {
+    "label": "PER",
+    "text": "Seinetwegen",
+    "start": 3978,
+    "end": 3989
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 4197,
+    "end": 4205
+   },
+   {
+    "label": "MISC",
+    "text": "Elsa",
+    "start": 4467,
+    "end": 4471
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 4609,
+    "end": 4613
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 4758,
+    "end": 4771
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4838,
+    "end": 4842
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 4863,
+    "end": 4871
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 4891,
+    "end": 4895
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 4909,
+    "end": 4917
+   }
+  ],
+  "26": [
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 0,
+    "end": 13
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 76,
+    "end": 83
+   },
+   {
+    "label": "LOC",
+    "text": "München",
+    "start": 471,
+    "end": 478
+   },
+   {
+    "label": "PER",
+    "text": "Seyfarth",
+    "start": 512,
+    "end": 520
+   },
+   {
+    "label": "PER",
+    "text": "Fahr",
+    "start": 532,
+    "end": 536
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 551,
+    "end": 555
+   },
+   {
+    "label": "MISC",
+    "text": "Elsa",
+    "start": 678,
+    "end": 682
+   },
+   {
+    "label": "ORG",
+    "text": "Kirche",
+    "start": 847,
+    "end": 853
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 978,
+    "end": 983
+   },
+   {
+    "label": "LOC",
+    "text": "Stadtbahn",
+    "start": 1049,
+    "end": 1058
+   },
+   {
+    "label": "LOC",
+    "text": "Berlin",
+    "start": 1115,
+    "end": 1121
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 1202,
+    "end": 1210
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1228,
+    "end": 1235
+   },
+   {
+    "label": "PER",
+    "text": "Klaften",
+    "start": 1336,
+    "end": 1343
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1378,
+    "end": 1385
+   },
+   {
+    "label": "PER",
+    "text": "Trattner",
+    "start": 1425,
+    "end": 1433
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 1469,
+    "end": 1473
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1525,
+    "end": 1532
+   },
+   {
+    "label": "MISC",
+    "text": "Elsa",
+    "start": 1702,
+    "end": 1706
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1743,
+    "end": 1750
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 1762,
+    "end": 1771
+   },
+   {
+    "label": "MISC",
+    "text": "Jude",
+    "start": 1815,
+    "end": 1819
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1821,
+    "end": 1828
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Warnungen",
+    "start": 1875,
+    "end": 1893
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1926,
+    "end": 1933
+   },
+   {
+    "label": "PER",
+    "text": "Klaften",
+    "start": 1950,
+    "end": 1957
+   },
+   {
+    "label": "MISC",
+    "text": "kommunistischen",
+    "start": 1983,
+    "end": 1998
+   },
+   {
+    "label": "ORG",
+    "text": "Polizeispitzel",
+    "start": 2019,
+    "end": 2033
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 2034,
+    "end": 2040
+   },
+   {
+    "label": "LOC",
+    "text": "Siegessäule",
+    "start": 2098,
+    "end": 2109
+   },
+   {
+    "label": "LOC",
+    "text": "Berlins",
+    "start": 2153,
+    "end": 2160
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 2259,
+    "end": 2263
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2294,
+    "end": 2301
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 2340,
+    "end": 2344
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2346,
+    "end": 2353
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2478,
+    "end": 2485
+   },
+   {
+    "label": "LOC",
+    "text": "Pommern",
+    "start": 2510,
+    "end": 2517
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 2597,
+    "end": 2601
+   },
+   {
+    "label": "PER",
+    "text": "Theodor von Viktoria",
+    "start": 2617,
+    "end": 2637
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 2737,
+    "end": 2741
+   },
+   {
+    "label": "MISC",
+    "text": "Mein liebes Kind",
+    "start": 2815,
+    "end": 2831
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2840,
+    "end": 2847
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 2913,
+    "end": 2917
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2954,
+    "end": 2961
+   }
+  ],
+  "27": [
+   {
+    "label": "PER",
+    "text": "Theodor zu Hilper",
+    "start": 23,
+    "end": 40
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 83,
+    "end": 87
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 111,
+    "end": 118
+   },
+   {
+    "label": "LOC",
+    "text": "Sicherheitswesens",
+    "start": 149,
+    "end": 166
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 229,
+    "end": 236
+   },
+   {
+    "label": "MISC",
+    "text": "beeidet",
+    "start": 315,
+    "end": 322
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 531,
+    "end": 538
+   },
+   {
+    "label": "ORG",
+    "text": "Kommunisten",
+    "start": 711,
+    "end": 722
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 747,
+    "end": 754
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 847,
+    "end": 854
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 987,
+    "end": 994
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 1016,
+    "end": 1020
+   },
+   {
+    "label": "PER",
+    "text": "Rahel Lipschitz",
+    "start": 1061,
+    "end": 1076
+   },
+   {
+    "label": "LOC",
+    "text": "Verhaften",
+    "start": 1078,
+    "end": 1087
+   },
+   {
+    "label": "MISC",
+    "text": "sozialistischen",
+    "start": 1138,
+    "end": 1153
+   },
+   {
+    "label": "LOC",
+    "text": "England",
+    "start": 1212,
+    "end": 1219
+   },
+   {
+    "label": "LOC",
+    "text": "Bahnhof",
+    "start": 1224,
+    "end": 1231
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1243,
+    "end": 1250
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 1379,
+    "end": 1383
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 1402,
+    "end": 1406
+   },
+   {
+    "label": "LOC",
+    "text": "Unterirdische Wühler",
+    "start": 1605,
+    "end": 1625
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 2011,
+    "end": 2019
+   },
+   {
+    "label": "PER",
+    "text": "Schwieg",
+    "start": 2067,
+    "end": 2074
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2146,
+    "end": 2153
+   },
+   {
+    "label": "PER",
+    "text": "Sperrte",
+    "start": 2398,
+    "end": 2405
+   },
+   {
+    "label": "MISC",
+    "text": "Barackendächer",
+    "start": 2641,
+    "end": 2655
+   },
+   {
+    "label": "LOC",
+    "text": "Erde",
+    "start": 2754,
+    "end": 2758
+   },
+   {
+    "label": "LOC",
+    "text": "Barackenbewohnern",
+    "start": 2885,
+    "end": 2902
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 3108,
+    "end": 3121
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 3144,
+    "end": 3157
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 3360,
+    "end": 3368
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 3568,
+    "end": 3574
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3578,
+    "end": 3585
+   },
+   {
+    "label": "MISC",
+    "text": "Zeit bei Klaften",
+    "start": 3626,
+    "end": 3642
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 3648,
+    "end": 3654
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3674,
+    "end": 3681
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 3745,
+    "end": 3751
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3780,
+    "end": 3787
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3825,
+    "end": 3832
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 4016,
+    "end": 4022
+   },
+   {
+    "label": "LOC",
+    "text": "Moabit",
+    "start": 4062,
+    "end": 4068
+   },
+   {
+    "label": "PER",
+    "text": "Thimme",
+    "start": 4168,
+    "end": 4174
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4308,
+    "end": 4315
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 4493,
+    "end": 4506
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 4675,
+    "end": 4688
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 4712,
+    "end": 4720
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4755,
+    "end": 4762
+   }
+  ],
+  "28": [
+   {
+    "label": "ORG",
+    "text": "Hemden",
+    "start": 267,
+    "end": 273
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 379,
+    "end": 383
+   },
+   {
+    "label": "PER",
+    "text": "Fiel",
+    "start": 456,
+    "end": 460
+   },
+   {
+    "label": "PER",
+    "text": "Ergriff",
+    "start": 506,
+    "end": 513
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 647,
+    "end": 651
+   },
+   {
+    "label": "MISC",
+    "text": "Elsa",
+    "start": 745,
+    "end": 749
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 810,
+    "end": 814
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 823,
+    "end": 830
+   },
+   {
+    "label": "MISC",
+    "text": "Elsa",
+    "start": 870,
+    "end": 874
+   },
+   {
+    "label": "PER",
+    "text": "Benjamins",
+    "start": 894,
+    "end": 903
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 963,
+    "end": 967
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 1050,
+    "end": 1063
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 1085,
+    "end": 1093
+   },
+   {
+    "label": "PER",
+    "text": "Schlieffen",
+    "start": 1200,
+    "end": 1210
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1372,
+    "end": 1379
+   },
+   {
+    "label": "LOC",
+    "text": "Saale",
+    "start": 1531,
+    "end": 1536
+   },
+   {
+    "label": "PER",
+    "text": "achtungsvolles",
+    "start": 1570,
+    "end": 1584
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 2043,
+    "end": 2048
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 2128,
+    "end": 2137
+   },
+   {
+    "label": "PER",
+    "text": "Seyfarth",
+    "start": 2175,
+    "end": 2183
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 2215,
+    "end": 2219
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 2246,
+    "end": 2250
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 2304,
+    "end": 2309
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2315,
+    "end": 2322
+   },
+   {
+    "label": "PER",
+    "text": "Trebitsch",
+    "start": 2361,
+    "end": 2370
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 2397,
+    "end": 2410
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 2423,
+    "end": 2430
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 2465,
+    "end": 2469
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 2517,
+    "end": 2530
+   },
+   {
+    "label": "MISC",
+    "text": "jüdischen",
+    "start": 2560,
+    "end": 2569
+   },
+   {
+    "label": "PER",
+    "text": "Pisk",
+    "start": 2583,
+    "end": 2587
+   },
+   {
+    "label": "LOC",
+    "text": "Deutschland",
+    "start": 2840,
+    "end": 2851
+   },
+   {
+    "label": "ORG",
+    "text": "Gefielen",
+    "start": 2853,
+    "end": 2861
+   },
+   {
+    "label": "PER",
+    "text": "Wanderten",
+    "start": 2909,
+    "end": 2918
+   },
+   {
+    "label": "LOC",
+    "text": "Frankreich",
+    "start": 2939,
+    "end": 2949
+   },
+   {
+    "label": "LOC",
+    "text": "Rußland",
+    "start": 2951,
+    "end": 2958
+   },
+   {
+    "label": "LOC",
+    "text": "Palästina",
+    "start": 2960,
+    "end": 2969
+   },
+   {
+    "label": "LOC",
+    "text": "Deutschland",
+    "start": 3036,
+    "end": 3047
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3109,
+    "end": 3116
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Blutiggeschlagene",
+    "start": 3373,
+    "end": 3398
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3440,
+    "end": 3447
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3701,
+    "end": 3708
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3918,
+    "end": 3925
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 3952,
+    "end": 3965
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 4164,
+    "end": 4171
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4447,
+    "end": 4451
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4453,
+    "end": 4457
+   },
+   {
+    "label": "PER",
+    "text": "Günthers",
+    "start": 4493,
+    "end": 4501
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4522,
+    "end": 4526
+   },
+   {
+    "label": "PER",
+    "text": "Benjamins",
+    "start": 4683,
+    "end": 4692
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4768,
+    "end": 4772
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 4832,
+    "end": 4839
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 4858,
+    "end": 4862
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 4904,
+    "end": 4912
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 4922,
+    "end": 4929
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5037,
+    "end": 5044
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 5133,
+    "end": 5137
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 5333,
+    "end": 5346
+   },
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 5390,
+    "end": 5398
+   },
+   {
+    "label": "MISC",
+    "text": "Elsa",
+    "start": 5430,
+    "end": 5434
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 5490,
+    "end": 5497
+   }
+  ],
+  "29": [
+   {
+    "label": "PER",
+    "text": "Theodors",
+    "start": 74,
+    "end": 82
+   },
+   {
+    "label": "LOC",
+    "text": "Theodors",
+    "start": 181,
+    "end": 189
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Haus",
+    "start": 208,
+    "end": 221
+   },
+   {
+    "label": "LOC",
+    "text": "Amt",
+    "start": 316,
+    "end": 319
+   },
+   {
+    "label": "PER",
+    "text": "Theodors Auto",
+    "start": 523,
+    "end": 536
+   },
+   {
+    "label": "PER",
+    "text": "Lauerte",
+    "start": 545,
+    "end": 552
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 595,
+    "end": 602
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 677,
+    "end": 684
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 918,
+    "end": 925
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1041,
+    "end": 1048
+   },
+   {
+    "label": "PER",
+    "text": "Günther",
+    "start": 1139,
+    "end": 1146
+   },
+   {
+    "label": "ORG",
+    "text": "Klitsche",
+    "start": 1161,
+    "end": 1169
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 1286,
+    "end": 1294
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 1296,
+    "end": 1304
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 1517,
+    "end": 1524
+   },
+   {
+    "label": "MISC",
+    "text": "Sachsen",
+    "start": 1741,
+    "end": 1748
+   },
+   {
+    "label": "LOC",
+    "text": "Stadt",
+    "start": 2267,
+    "end": 2272
+   },
+   {
+    "label": "MISC",
+    "text": "jüdischen Emigranten",
+    "start": 2352,
+    "end": 2372
+   },
+   {
+    "label": "PER",
+    "text": "Winters",
+    "start": 2500,
+    "end": 2507
+   },
+   {
+    "label": "LOC",
+    "text": "Nieder",
+    "start": 2739,
+    "end": 2745
+   },
+   {
+    "label": "LOC",
+    "text": "Deutschland",
+    "start": 3081,
+    "end": 3092
+   },
+   {
+    "label": "ORG",
+    "text": "Nationalen Bürgerliga",
+    "start": 3167,
+    "end": 3188
+   },
+   {
+    "label": "LOC",
+    "text": "Seitenwegen",
+    "start": 3784,
+    "end": 3795
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 3945,
+    "end": 3952
+   },
+   {
+    "label": "LOC",
+    "text": "Nachbarstaaten",
+    "start": 4038,
+    "end": 4052
+   },
+   {
+    "label": "PER",
+    "text": "Knüppel",
+    "start": 4152,
+    "end": 4159
+   },
+   {
+    "label": "PER",
+    "text": "Wanderredner",
+    "start": 4237,
+    "end": 4249
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 4251,
+    "end": 4264
+   },
+   {
+    "label": "ORG",
+    "text": "Nationale Bürgerliga",
+    "start": 4317,
+    "end": 4337
+   },
+   {
+    "label": "MISC",
+    "text": "dir aufschaun!",
+    "start": 4795,
+    "end": 4809
+   },
+   {
+    "label": "MISC",
+    "text": "Elsa",
+    "start": 4817,
+    "end": 4821
+   },
+   {
+    "label": "LOC",
+    "text": "Reiches",
+    "start": 4966,
+    "end": 4973
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 5254,
+    "end": 5267
+   },
+   {
+    "label": "ORG",
+    "text": "Die Welt",
+    "start": 5314,
+    "end": 5322
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 5331,
+    "end": 5344
+   },
+   {
+    "label": "MISC",
+    "text": "amerikanischen",
+    "start": 5360,
+    "end": 5374
+   },
+   {
+    "label": "PER",
+    "text": "Theodor Lohse",
+    "start": 5442,
+    "end": 5455
+   }
+  ],
+  "30": [
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 11,
+    "end": 18
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 51,
+    "end": 64
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 88,
+    "end": 92
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 123,
+    "end": 130
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 172,
+    "end": 180
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 182,
+    "end": 189
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 248,
+    "end": 255
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 275,
+    "end": 283
+   },
+   {
+    "label": "MISC",
+    "text": "Aufmarschpläne",
+    "start": 331,
+    "end": 345
+   },
+   {
+    "label": "PER",
+    "text": "Klitsche",
+    "start": 381,
+    "end": 389
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 420,
+    "end": 433
+   },
+   {
+    "label": "PER",
+    "text": "Und Theodor",
+    "start": 435,
+    "end": 446
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 456,
+    "end": 464
+   },
+   {
+    "label": "PER",
+    "text": "Lenz",
+    "start": 514,
+    "end": 518
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 534,
+    "end": 541
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 586,
+    "end": 594
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 632,
+    "end": 639
+   },
+   {
+    "label": "PER",
+    "text": "Elsa",
+    "start": 813,
+    "end": 817
+   },
+   {
+    "label": "PER",
+    "text": "Theodor",
+    "start": 886,
+    "end": 893
+   },
+   {
+    "label": "PER",
+    "text": "Benjamins",
+    "start": 923,
+    "end": 932
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin Lenz",
+    "start": 934,
+    "end": 947
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 1073,
+    "end": 1081
+   },
+   {
+    "label": "MISC",
+    "text": "Und Lazar",
+    "start": 1107,
+    "end": 1116
+   },
+   {
+    "label": "PER",
+    "text": "Lazar",
+    "start": 1175,
+    "end": 1180
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 1198,
+    "end": 1206
+   },
+   {
+    "label": "PER",
+    "text": "Paß",
+    "start": 1237,
+    "end": 1240
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 1417,
+    "end": 1422
+   },
+   {
+    "label": "LOC",
+    "text": "Lodz",
+    "start": 1427,
+    "end": 1431
+   },
+   {
+    "label": "MISC",
+    "text": "Juden",
+    "start": 1497,
+    "end": 1502
+   },
+   {
+    "label": "PER",
+    "text": "Lazar",
+    "start": 1571,
+    "end": 1576
+   },
+   {
+    "label": "PER",
+    "text": "Lazar",
+    "start": 1717,
+    "end": 1722
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 1894,
+    "end": 1902
+   },
+   {
+    "label": "PER",
+    "text": "Lazar",
+    "start": 1988,
+    "end": 1993
+   },
+   {
+    "label": "LOC",
+    "text": "Europa",
+    "start": 2000,
+    "end": 2006
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 2015,
+    "end": 2023
+   },
+   {
+    "label": "PER",
+    "text": "Lazar",
+    "start": 2058,
+    "end": 2063
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 2073,
+    "end": 2081
+   },
+   {
+    "label": "LOC",
+    "text": "Paris",
+    "start": 2259,
+    "end": 2264
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 2290,
+    "end": 2298
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 2335,
+    "end": 2343
+   },
+   {
+    "label": "PER",
+    "text": "Benjamin",
+    "start": 2357,
+    "end": 2365
+   },
+   {
+    "label": "LOC",
+    "text": "Halle",
+    "start": 2418,
+    "end": 2423
+   },
+   {
+    "label": "LOC",
+    "text": "Leer",
+    "start": 2425,
+    "end": 2429
+   }
+  ]
+ }
+}

@@ -1,63 +1,295 @@
 {
-  "site": { "title": "litmap demo — Demoville", "defaultWork": "tour-a", "defaultLang": "en" },
-
+  "site": {
+    "title": "Mapping Roth",
+    "defaultWork": "spinnennetz",
+    "defaultLang": "de",
+    "impressum": "<h2>Impressum &amp; Lizenz</h2><p>Angaben gemäß § 5 DDG:</p><p><strong>Jürgen Hermes</strong><br>Department of Digital Humanities<br>Universität zu Köln<br>50923 Köln<br><a href='https://dh.phil-fak.uni-koeln.de/mitarbeiterinnen/wissenschaftliche-mitarbeiterinnen/dr-juergen-hermes' target='_blank' rel='noopener'>Profilseite</a><br>Kontakt: <a href='mailto:&#104;&#101;&#114;&#109;&#101;&#115;&#106;&#64;&#117;&#110;&#105;&#45;&#107;&#111;&#101;&#108;&#110;&#46;&#100;&#101;'>&#104;&#101;&#114;&#109;&#101;&#115;&#106;&#64;&#117;&#110;&#105;&#45;&#107;&#111;&#101;&#108;&#110;&#46;&#100;&#101;</a></p><h3>Lizenzen</h3><ul><li><strong>Code</strong> (Karten-Engine &amp; Pipeline): MIT (litmap).</li><li><strong>Geodaten</strong>: eigener Datensatz, CC&nbsp;BY-NC&nbsp;4.0.</li><li><strong>Quelltext</strong>: Joseph Roth, <em>Das Spinnennetz</em> (Erstdruck 1923 in der Wiener <em>Arbeiter-Zeitung</em>). Gemeinfrei in der EU (Roth †&nbsp;1939) und in den USA (veröffentlicht 1923). Zitate und Kontext-Links nach Projekt Gutenberg-DE.</li><li>Basemap © <a href='https://www.openstreetmap.org/copyright' target='_blank' rel='noopener'>OpenStreetMap</a>-Mitwirkende © <a href='https://carto.com/attributions' target='_blank' rel='noopener'>CARTO</a>.</li></ul><p>Ein nicht-kommerzielles akademisches Projekt.</p>"
+  },
   "basemap": {
-    "url": "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+    "url": "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png?key=cb1_31vx_1_7d7b3a1568c74f8ad721dfd5",
     "maxZoom": 19,
     "attribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>"
   },
-
-  "view": { "center": [50.9385, 6.9605], "zoom": 14, "regionBBox": [50.90, 6.90, 50.98, 7.02] },
-
-  "ui": {
-    "en": { "showAll": "Show all", "hideAll": "Hide all", "route": "Route", "page": "p.",
-            "exp": "experimental", "toggleLayer": "toggle layer",
-            "expNote": "Experimental · a demo work in progress." },
-    "de": { "showAll": "Alle zeigen", "hideAll": "Alle aus", "route": "Route", "page": "S.",
-            "exp": "experimentell", "toggleLayer": "Ebene ein/aus",
-            "expNote": "Experimentell · Demo in Arbeit." }
+  "view": {
+    "center": [
+      52.515,
+      13.39
+    ],
+    "zoom": 12,
+    "regionBBox": [
+      52.36,
+      12.98,
+      52.6,
+      13.5
+    ]
   },
-
+  "ui": {
+    "de": {
+      "showAll": "Alle zeigen",
+      "hideAll": "Alle aus",
+      "route": "Route",
+      "page": "S.",
+      "exp": "experimentell",
+      "toggleLayer": "Ebene ein/aus",
+      "expNote": "Experimentell · erste Fassung; Verortungen unbenannter Innenräume sind hypothetisch.",
+      "persons": "Personen",
+      "layers": "Kapitel & Ebenen"
+    }
+  },
   "works": {
-    "tour-a": {
-      "label": { "en": "Tour A", "de": "Tour A" },
-      "data": "data/tour-a.geojson",
-      "experimental": false,
+    "spinnennetz": {
+      "label": {
+        "de": "Das Spinnennetz"
+      },
+      "data": [
+        "data/spinnennetz.geojson"
+      ],
+      "annotations": "data/spinnennetz-annotations.json",
+      "regionBBox": [
+        52.47,
+        13.25,
+        52.56,
+        13.47
+      ],
+      "experimental": true,
       "numberedGroups": false,
       "groupPrefix": null,
+      "sourceText": {
+        "url": "https://projekt-gutenberg.org/authors/joseph-roth/books/das-spinnennetz/chapter/{n}/",
+        "anchor": "",
+        "offset": 1,
+        "label": {
+          "de": "im Kontext (Gutenberg)"
+        }
+      },
       "tagline": {
-        "en": "A short demo walk through Demoville — points, a route, and characters.",
-        "de": "Ein kurzer Demo-Rundgang durch Demoville — Punkte, eine Route und Figuren."
+        "de": "Theodor Lohses Aufstieg im Netz der Geheimbünde – Berlin, Potsdam und die Provinz in Joseph Roths erstem Roman (1923)."
       },
       "credit": {
-        "en": "Demo dataset (fictional)",
-        "de": "Demo-Datensatz (fiktiv)"
+        "de": "Eigener Datensatz zu Joseph Roth, »Das Spinnennetz« (1923, gemeinfrei)"
+      },
+      "confidence": {
+        "label": {
+          "de": "Sicherheit der Verortung"
+        },
+        "levels": {
+          "high": {
+            "de": "gesichert"
+          },
+          "medium": {
+            "de": "straßengenau"
+          },
+          "low": {
+            "de": "hypothetisch"
+          }
+        }
       },
       "groups": [
-        { "key": "Old Town",  "de": "Altstadt",   "color": "#b5651d" },
-        { "key": "Riverside", "de": "Flussufer",  "color": "#2980b9" },
-        { "key": "Park",      "de": "Park",       "color": "#2c7a3f" }
-      ]
-    },
-
-    "tour-b": {
-      "label": { "en": "Tour B", "de": "Tour B" },
-      "data": "data/tour-b.geojson",
-      "experimental": true,
-      "numberedGroups": true,
-      "groupPrefix": { "en": "Stop", "de": "Station" },
-      "tagline": {
-        "en": "A numbered demo tour — shows the group prefix, time chips and quotes.",
-        "de": "Eine nummerierte Demo-Tour — zeigt Präfix, Uhrzeit-Chips und Zitate."
-      },
-      "credit": {
-        "en": "Demo dataset (fictional)",
-        "de": "Demo-Datensatz (fiktiv)"
-      },
-      "groups": [
-        { "key": "Stage One",   "de": "Etappe eins", "color": "#c0392b" },
-        { "key": "Stage Two",   "de": "Etappe zwei", "color": "#8e44ad" },
-        { "key": "Stage Three", "de": "Etappe drei", "color": "#1b5e20" }
+        {
+          "id": "grp-chapter-01",
+          "key": "Chapter 1",
+          "de": "Kapitel I",
+          "color": "#b5651d"
+        },
+        {
+          "id": "grp-chapter-02",
+          "key": "Chapter 2",
+          "de": "Kapitel II",
+          "color": "#1f6f6f",
+          "badge": "März"
+        },
+        {
+          "id": "grp-chapter-03",
+          "key": "Chapter 3",
+          "de": "Kapitel III",
+          "color": "#8e44ad",
+          "badge": "April"
+        },
+        {
+          "id": "grp-chapter-04",
+          "key": "Chapter 4",
+          "de": "Kapitel IV",
+          "color": "#2c7a3f",
+          "badge": "Frühling"
+        },
+        {
+          "id": "grp-chapter-05",
+          "key": "Chapter 5",
+          "de": "Kapitel V",
+          "color": "#c0392b"
+        },
+        {
+          "id": "grp-chapter-06",
+          "key": "Chapter 6",
+          "de": "Kapitel VI",
+          "color": "#16735b"
+        },
+        {
+          "id": "grp-chapter-07",
+          "key": "Chapter 7",
+          "de": "Kapitel VII",
+          "color": "#a67c00",
+          "badge": "April"
+        },
+        {
+          "id": "grp-chapter-08",
+          "key": "Chapter 8",
+          "de": "Kapitel VIII",
+          "color": "#2980b9"
+        },
+        {
+          "id": "grp-chapter-09",
+          "key": "Chapter 9",
+          "de": "Kapitel IX",
+          "color": "#7d5a2b",
+          "badge": "Sommer"
+        },
+        {
+          "id": "grp-chapter-10",
+          "key": "Chapter 10",
+          "de": "Kapitel X",
+          "color": "#6b8e23",
+          "badge": "Sommer"
+        },
+        {
+          "id": "grp-chapter-11",
+          "key": "Chapter 11",
+          "de": "Kapitel XI",
+          "color": "#9b1d4f"
+        },
+        {
+          "id": "grp-chapter-12",
+          "key": "Chapter 12",
+          "de": "Kapitel XII",
+          "color": "#33691e"
+        },
+        {
+          "id": "grp-chapter-13",
+          "key": "Chapter 13",
+          "de": "Kapitel XIII",
+          "color": "#1565a0",
+          "badge": "Oktober"
+        },
+        {
+          "id": "grp-chapter-14",
+          "key": "Chapter 14",
+          "de": "Kapitel XIV",
+          "color": "#7b3f00",
+          "badge": "Mitte Oktober"
+        },
+        {
+          "id": "grp-chapter-15",
+          "key": "Chapter 15",
+          "de": "Kapitel XV",
+          "color": "#34495e"
+        },
+        {
+          "id": "grp-chapter-16",
+          "key": "Chapter 16",
+          "de": "Kapitel XVI",
+          "color": "#6a5acd",
+          "badge": "Herbst"
+        },
+        {
+          "id": "grp-chapter-17",
+          "key": "Chapter 17",
+          "de": "Kapitel XVII",
+          "color": "#e07b16"
+        },
+        {
+          "id": "grp-chapter-18",
+          "key": "Chapter 18",
+          "de": "Kapitel XVIII",
+          "color": "#5d6d7e"
+        },
+        {
+          "id": "grp-chapter-19",
+          "key": "Chapter 19",
+          "de": "Kapitel XIX",
+          "color": "#7e1620",
+          "badge": "20.–21. Oktober"
+        },
+        {
+          "id": "grp-chapter-20",
+          "key": "Chapter 20",
+          "de": "Kapitel XX",
+          "color": "#4e342e",
+          "badge": "Ende Oktober"
+        },
+        {
+          "id": "grp-chapter-21",
+          "key": "Chapter 21",
+          "de": "Kapitel XXI",
+          "color": "#8a8178"
+        },
+        {
+          "id": "grp-chapter-22",
+          "key": "Chapter 22",
+          "de": "Kapitel XXII",
+          "color": "#4f7c9e",
+          "badge": "1./2. November"
+        },
+        {
+          "id": "grp-chapter-23",
+          "key": "Chapter 23",
+          "de": "Kapitel XXIII",
+          "color": "#557b83",
+          "badge": "November"
+        },
+        {
+          "id": "grp-chapter-24",
+          "key": "Chapter 24",
+          "de": "Kapitel XXIV",
+          "color": "#9c6b30",
+          "badge": "erster Schnee"
+        },
+        {
+          "id": "grp-chapter-25",
+          "key": "Chapter 25",
+          "de": "Kapitel XXV",
+          "color": "#2e7d32",
+          "badge": "Jänner"
+        },
+        {
+          "id": "grp-chapter-26",
+          "key": "Chapter 26",
+          "de": "Kapitel XXVI",
+          "color": "#ad1457"
+        },
+        {
+          "id": "grp-chapter-27",
+          "key": "Chapter 27",
+          "de": "Kapitel XXVII",
+          "color": "#00695c",
+          "badge": "Winter"
+        },
+        {
+          "id": "grp-chapter-28",
+          "key": "Chapter 28",
+          "de": "Kapitel XXVIII",
+          "color": "#5d4037"
+        },
+        {
+          "id": "grp-chapter-29",
+          "key": "Chapter 29",
+          "de": "Kapitel XXIX",
+          "color": "#283593",
+          "badge": "Vorfrühling"
+        },
+        {
+          "id": "grp-chapter-30",
+          "key": "Chapter 30",
+          "de": "Kapitel XXX",
+          "color": "#827717",
+          "badge": "März"
+        },
+        {
+          "id": "grp-mentioned",
+          "key": "Mentioned",
+          "de": "Nur erwähnte Orte",
+          "color": "#8a8178",
+          "hidden": true
+        }
       ]
     }
   }

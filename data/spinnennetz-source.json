@@ -1,0 +1,1182 @@
+{
+  "_comment": "Hand-curated source for Das Spinnennetz (Joseph Roth, 1923). Edit places/routes/persons, then run: python3 pipeline/geocode_source.py data/spinnennetz-source.json data/spinnennetz.geojson  — then text/code/verify_places.py. Groups are config keys ('Chapter n' = Kapitel n; 'Mentioned' = only mentioned, hidden by default). quote = the verbatim sentence, srcText = the verbatim fragment used for the Gutenberg-DE deep link.",
+  "work": "Das Spinnennetz",
+  "metadata": {
+    "license": "CC BY-NC 4.0",
+    "note": "Original dataset by J. Hermes for Joseph Roth, »Das Spinnennetz« (1923; public domain). Quotations verbatim from Projekt Gutenberg-DE. Coordinates via OpenStreetMap/Nominatim, routes via BRouter — © OpenStreetMap contributors, ODbL. First version: placements of unnamed interiors are hypothetical (confidence low)."
+  },
+  "places": [
+    {
+      "id": "loc-wohnung-lohse-moabit",
+      "group": "Chapter 1",
+      "name": "Wohnung der Familie Lohse, Moabit",
+      "geocode": "Moabit, Berlin",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-lohse-familie"
+      ],
+      "gloss": "Drei Zimmer in Moabit, in denen Theodor bei Mutter und Schwestern geduldet lebt. Der Text nennt nur den Stadtteil.",
+      "quote": "Theodors Familie bewohnte drei Zimmer in Moabit, und das schönste enthielt zwei wackelige Schränke, als Prunkstück die Kredenz und als einzigen Schmuck jenen silbernen Aufsatz, den Theodor aus dem Schlosse von Amiens gerettet und auf dem Grunde des Koffers geborgen hatte, noch knapp vor der Ankunft des gestrengen Majors Krause, der solche Dinge nicht geschehen ließ.",
+      "srcText": "Theodors Familie bewohnte drei Zimmer in Moabit",
+      "lat": 52.530102,
+      "lon": 13.342542
+    },
+    {
+      "id": "loc-villa-efrussi",
+      "group": [
+        "Chapter 1",
+        "Chapter 3",
+        "Chapter 8",
+        "Chapter 23"
+      ],
+      "name": "Villa des Juweliers Efrussi",
+      "geocode": "Tiergartenstraße, Berlin",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-efrussi",
+        "per-efrussi-frau"
+      ],
+      "gloss": "Das Haus, in dem Theodor Hauslehrer ist und auf das er später als gefeierter Gast zurückkehrt. Die Lage nennt der Text nicht; Kapitel XIII spricht von „weißschimmernden Villen im Tiergarten“. Hypothetisch ins Tiergartenviertel gesetzt.",
+      "quote": "Durch ein graues, silbern schimmerndes Gitter von der gemeinen Straße getrennt war das Haus Efrussis und von grünem, weitem Rasen umgeben.",
+      "srcText": "von der gemeinen Straße getrennt war das Haus Efrussis",
+      "fictional": true,
+      "lat": 52.510714,
+      "lon": 13.368629
+    },
+    {
+      "id": "loc-brandenburger-tor",
+      "group": "Chapter 2",
+      "name": "Brandenburger Tor",
+      "geocode": "Brandenburger Tor, Berlin",
+      "confidence": "high",
+      "character": [
+        "per-lohse-theodor"
+      ],
+      "gloss": "Ort von Theodors Tagtraum vom siegreichen Einzug an der Spitze seiner Kompanie.",
+      "quote": "Sooft er durch das Brandenburger Tor ging, träumte er den alten, verlorenen Traum vom siegreichen Einzug auf schneeweißem Roß, als berittener Hauptmann an der Spitze seiner Kompanie, von Tausenden Frauen beachtet, vielleicht von manchen geküßt, von Fahnen umflattert und Jubel umbraust.",
+      "srcText": "Sooft er durch das Brandenburger Tor ging",
+      "lat": 52.51627,
+      "lon": 13.377703
+    },
+    {
+      "id": "loc-haus-prinz-heinrich",
+      "group": [
+        "Chapter 2",
+        "Chapter 6"
+      ],
+      "name": "Haus des Prinzen Heinrich",
+      "geocode": "Haus der Kulturen der Welt, Berlin",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-prinz-heinrich",
+        "per-trebitsch"
+      ],
+      "gloss": "Hier verbringt Theodor die Nacht mit dem Prinzen und erbittet am Morgen die Sekretärsstelle. Lage nicht genannt; Theodor geht von hier durch den Tiergarten, daher hypothetisch an dessen Nordrand gesetzt.",
+      "quote": "Er erwachte in einem halbdunklen Zimmer, und sein erster Blick traf ein großes Ölporträt des Prinzen an der Wand.",
+      "srcText": "Er erwachte in einem halbdunklen Zimmer",
+      "fictional": true,
+      "lat": 52.518788,
+      "lon": 13.364836
+    },
+    {
+      "id": "loc-tiergarten",
+      "group": [
+        "Chapter 2",
+        "Chapter 5",
+        "Chapter 13"
+      ],
+      "name": "Tiergarten",
+      "geocode": "Großer Tiergarten, Berlin",
+      "confidence": "high",
+      "character": [
+        "per-lohse-theodor"
+      ],
+      "gloss": "Theodors Weg am Morgen nach der Nacht beim Prinzen; später sein nächtlicher Lauf zu Trebitsch (Kap. V).",
+      "quote": "Und Theodor verläßt das Haus und geht durch den märzfrischen Tiergarten und saugt die Bläue des Himmels ein und das erste Zwitschern der Vögel und weiß, daß er bergaufwärts geht, obwohl die Straße eben ist.",
+      "srcText": "geht durch den märzfrischen Tiergarten",
+      "lat": 52.516303,
+      "lon": 13.361818
+    },
+    {
+      "id": "loc-dresdner-bank",
+      "group": "Chapter 3",
+      "name": "Dresdner Bank",
+      "geocode": "Behrenstraße 37, Berlin",
+      "confidence": "medium",
+      "character": [
+        "per-lohse-theodor"
+      ],
+      "gloss": "Theodor löst den ersten Scheck der Organisation ein. Angenommen ist die Zentrale in der Behrenstraße.",
+      "quote": "Ein paar Tage später bekam er den ersten Befehl: bei Efrussi zu kündigen, zugleich mit dem ersten, von Heinrich Meyer unterzeichneten Scheck über einen phantastisch hohen Betrag, bei der Dresdener Bank zu beheben.",
+      "srcText": "bei der Dresdener Bank zu beheben",
+      "lat": 52.515791,
+      "lon": 13.394067
+    },
+    {
+      "id": "loc-wohnung-trebitsch",
+      "group": [
+        "Chapter 3",
+        "Chapter 5",
+        "Chapter 12",
+        "Chapter 20"
+      ],
+      "name": "Büro und Wohnung des Dr. Trebitsch",
+      "geocode": "Händelallee, Berlin",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-trebitsch",
+        "per-klitsche"
+      ],
+      "gloss": "Ort von Theodors Eid und späteren Berichten; in Kapitel XX verlassen aufgefunden. Theodor erreicht das Haus nachts durch den Tiergarten; Lage hypothetisch.",
+      "quote": "Seit jenem Vormittag im Büro des Dr. Trebitsch träumte er von brennenden Kerzen, gelben, im Licht eines vollen Tages.",
+      "srcText": "Seit jenem Vormittag im Büro des Dr. Trebitsch",
+      "fictional": true,
+      "lat": 52.515481,
+      "lon": 13.340672
+    },
+    {
+      "id": "loc-photograph-unter-den-linden",
+      "group": "Chapter 4",
+      "name": "Photographenatelier Unter den Linden",
+      "geocode": "Unter den Linden 40, Berlin",
+      "confidence": "medium",
+      "character": [
+        "per-lohse-theodor",
+        "per-ludendorff"
+      ],
+      "gloss": "Vor dem Bild Ludendorffs fasst Theodor den Plan, dem General zu schreiben. Nur die Straße ist genannt.",
+      "quote": "Vor einem Schaukasten eines Photographenateliers Unter den Linden blieb er stehen.",
+      "srcText": "Vor einem Schaukasten eines Photographenateliers Unter den Linden blieb er stehen",
+      "lat": 52.517162,
+      "lon": 13.386311
+    },
+    {
+      "id": "loc-potsdamer-platz",
+      "group": "Chapter 4",
+      "name": "Potsdamer Platz",
+      "geocode": "Potsdamer Platz, Berlin",
+      "confidence": "high",
+      "character": [
+        "per-lohse-theodor"
+      ],
+      "gloss": "Theodor verbraucht den Rest seines ersten Geldes.",
+      "quote": "Er trank in Schnapsbuden zweiten Ranges und schlief mit Mädchen vom Potsdamer Platz, weil sein Geld zur Neige ging.",
+      "srcText": "schlief mit Mädchen vom Potsdamer Platz",
+      "lat": 52.509801,
+      "lon": 13.37559
+    },
+    {
+      "id": "loc-siegessaeule-koenigsplatz",
+      "group": [
+        "Chapter 5",
+        "Chapter 26"
+      ],
+      "name": "Siegessäule (Standort bis 1939, Königsplatz)",
+      "geocode": "Platz der Republik, Berlin",
+      "confidence": "medium",
+      "character": [
+        "per-lohse-theodor",
+        "per-thimme",
+        "per-goldscheider"
+      ],
+      "gloss": "Ziel des Sprengstoffanschlags, den Theodor als „Genosse Trattner“ mitplant und an die Polizei verrät. 1923 stand die Siegessäule noch auf dem Königsplatz vor dem Reichstag, heute Platz der Republik; der Marker steht dort, nicht am Großen Stern.",
+      "quote": "Rechts hinter dem Gitter um die Siegessäule liege Ekrasit.",
+      "srcText": "Rechts hinter dem Gitter um die Siegessäule liege Ekrasit",
+      "lat": 52.518675,
+      "lon": 13.373125
+    },
+    {
+      "id": "loc-koenigsberg-bootstaufe",
+      "group": "Chapter 6",
+      "name": "Bootstaufe in Königsberg",
+      "geocode": "Oberteich, Kaliningrad",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-prinz-heinrich",
+        "per-guenther"
+      ],
+      "gloss": "Mit dem Prinzen zur Bootstaufe des Ruderklubs; Theodor trifft Günther wieder. Welcher See gemeint ist, bleibt offen; gesetzt an den Oberteich.",
+      "quote": "Sie standen am nächsten Tag, es war ein Sonntag, am Seeufer, und es regnete, wie gewöhnlich bei Bootstaufen.",
+      "srcText": "Sie standen am nächsten Tag, es war ein Sonntag, am Seeufer",
+      "lat": 54.728365,
+      "lon": 20.519339
+    },
+    {
+      "id": "loc-weissensee-wald",
+      "group": "Chapter 7",
+      "name": "Wald bei Weißensee",
+      "geocode": "Weißer See, Berlin",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-klitsche",
+        "per-guenther"
+      ],
+      "gloss": "Bei einer Geländeübung erschlägt Klitsche Günther, Theodor danach Klitsche. Die Waldstelle ist nicht bestimmbar.",
+      "quote": "Es war eine Freiturnübung in Weißensee angesagt, unter dem Kommando des Leutnants Wachtl.",
+      "srcText": "Es war eine Freiturnübung in Weißensee angesagt",
+      "lat": 52.554076,
+      "lon": 13.463426
+    },
+    {
+      "id": "loc-muenchen-stelle-s",
+      "group": [
+        "Chapter 8",
+        "Chapter 3",
+        "Chapter 12"
+      ],
+      "name": "München, Sitz der Stelle S II",
+      "geocode": "München",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-seyfarth",
+        "per-hartmut"
+      ],
+      "gloss": "Zentrale der Geheimorganisation; in Kapitel XII besucht Theodor hier auch nationalsozialistische Versammlungen.",
+      "quote": "Er fuhr nach München, er lernte seine Vorgesetzten kennen, einen General, der nie nach Preußen reiste und in Bayern unter dem Namen Major Seyfarth wohnte.",
+      "srcText": "Er fuhr nach München, er lernte seine Vorgesetzten kennen",
+      "lat": 48.137108,
+      "lon": 11.575382
+    },
+    {
+      "id": "loc-leipzig-gefangenenbefreiung",
+      "group": [
+        "Chapter 9",
+        "Chapter 12"
+      ],
+      "name": "Leipzig, geplante Gefangenenbefreiung",
+      "geocode": "Leipzig",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor"
+      ],
+      "gloss": "Theodor will einen Aufseher für die Befreiung eines Untersuchungsgefangenen gewinnen; Trebitsch kommt ihm zuvor.",
+      "quote": "Er fuhr nach Leipzig.",
+      "srcText": "Er fuhr nach Leipzig",
+      "lat": 51.340632,
+      "lon": 12.374733
+    },
+    {
+      "id": "loc-gut-lukscha",
+      "group": [
+        "Chapter 10",
+        "Chapter 11"
+      ],
+      "name": "Gut Lukscha in Pommern",
+      "geocode": "Słupsk",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-koeckwitz"
+      ],
+      "gloss": "Fiktives Gut des Freiherrn v. Köckwitz. Theodors Trupp schießt in die streikenden Landarbeiter, dreißig bleiben liegen. Der Marker steht nur stellvertretend in Hinterpommern.",
+      "quote": "Auf dem Gut Lukscha in Pommern streikten die Landarbeiter.",
+      "srcText": "Auf dem Gut Lukscha in Pommern streikten die Landarbeiter",
+      "fictional": true,
+      "lat": 54.464933,
+      "lon": 17.028073
+    },
+    {
+      "id": "loc-hotel-kaiserhof",
+      "group": "Chapter 11",
+      "name": "Hotel Kaiserhof",
+      "geocode": "Zietenplatz, Berlin",
+      "confidence": "medium",
+      "character": [
+        "per-lohse-theodor",
+        "per-koeckwitz",
+        "per-freiherr-staatsanwalt"
+      ],
+      "gloss": "Nach dem halbstündigen Prozess gegen einen Landarbeiter trinken Staatsanwalt, Freiherr und Theodor hier Wein. Das Hotel am Wilhelmplatz besteht nicht mehr.",
+      "quote": "Der Staatsanwalt saß am Abend mit Theodor Lohse und dem Freiherrn im »Kaiserhof« bei einer Flasche Wein.",
+      "srcText": "Der Staatsanwalt saß am Abend mit Theodor Lohse",
+      "lat": 52.511718,
+      "lon": 13.385224
+    },
+    {
+      "id": "loc-kaserne-potsdam",
+      "group": [
+        "Chapter 12",
+        "Chapter 13",
+        "Chapter 14",
+        "Chapter 17",
+        "Chapter 19"
+      ],
+      "name": "Kaserne in Potsdam",
+      "geocode": "Potsdam",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-marinelli",
+        "per-lenz-benjamin"
+      ],
+      "gloss": "Theodor tritt in die Reichswehr ein, schult seine Kompanie politisch und versteckt den befreiten Marinelli in Uniform (Kap. XIX). Welche Kaserne gemeint ist, bleibt offen.",
+      "quote": "Potsdam war seine Garnison.",
+      "srcText": "Potsdam war seine Garnison",
+      "lat": 52.400931,
+      "lon": 13.05914
+    },
+    {
+      "id": "loc-exerzierplatz-potsdam",
+      "group": "Chapter 13",
+      "name": "Paradeplatz mit Gedenktafel, Potsdam",
+      "geocode": "Bornstedter Feld, Potsdam",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-ludendorff"
+      ],
+      "gloss": "Enthüllung einer Gedenktafel an einem Oktobersonntag; Ludendorff spricht mit Theodor. Der Ort ist nicht genannt; gesetzt auf den Potsdamer Exerzierplatz Bornstedter Feld.",
+      "quote": "Ludendorffs Helmspitze schwamm im Sonnenglanz.",
+      "srcText": "Ludendorffs Helmspitze schwamm im Sonnenglanz",
+      "time": "Sonntag im Oktober",
+      "lat": 52.420771,
+      "lon": 13.041415
+    },
+    {
+      "id": "loc-lodz-barbierstube",
+      "group": [
+        "Chapter 15",
+        "Chapter 25",
+        "Chapter 30"
+      ],
+      "name": "Barbierstube des alten Lenz in Lodz",
+      "geocode": "Łódź",
+      "confidence": "low",
+      "character": [
+        "per-lenz-benjamin",
+        "per-lenz-lazar"
+      ],
+      "gloss": "Herkunftsort von Benjamin Lenz, in den Erinnerungen der Hochzeitsszene (Kap. XXV) wieder aufgerufen.",
+      "quote": "Der Vater war ein alter Feldscher in Lodz mit einer kleinen jüdischen Barbierstube.",
+      "srcText": "Der Vater war ein alter Feldscher in Lodz",
+      "lat": 51.772824,
+      "lon": 19.478486
+    },
+    {
+      "id": "loc-cafe-potsdamer-platz",
+      "group": "Chapter 16",
+      "name": "Café am Potsdamer Platz",
+      "geocode": "Bellevuestraße 1, Berlin",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-lenz-benjamin"
+      ],
+      "gloss": "Erstes Treffen Theodors mit den „anderen“, Benjamin Lenz am Nebentisch. Welches Café, sagt der Text nicht.",
+      "quote": "Sie saßen, drei Männer, im Café auf dem Potsdamer Platz.",
+      "srcText": "Sie saßen, drei Männer, im Café auf dem Potsdamer Platz",
+      "lat": 52.509817,
+      "lon": 13.374343
+    },
+    {
+      "id": "loc-bahnhof-potsdam",
+      "group": "Chapter 16",
+      "name": "Weg zum Bahnhof Potsdam",
+      "geocode": "Potsdam Hauptbahnhof",
+      "confidence": "medium",
+      "character": [
+        "per-lohse-theodor",
+        "per-lenz-benjamin"
+      ],
+      "gloss": "Abendgang durch die alten Gassen Potsdams, auf dem Lenz Theodors Vertrauen gewinnt.",
+      "quote": "Es war ein wehmütiger Abend, mit violetten und gelb schimmernden Wolken, mit einem zahmen, behutsamen Abendwind, und Theodor ging, durch raschelndes Laub, die Straße, die zum Bahnhof führte, entlang und fühlte eine Rührung, wie damals in den Feldern des Herrn v.",
+      "srcText": "die Straße, die zum Bahnhof führte",
+      "lat": 52.391517,
+      "lon": 13.067224
+    },
+    {
+      "id": "loc-hamburger-hafen",
+      "group": "Chapter 20",
+      "name": "Hamburger Hafen, Abfahrt der »Deutschland«",
+      "geocode": "Landungsbrücken, Hamburg",
+      "confidence": "low",
+      "character": [
+        "per-trebitsch",
+        "per-trewith"
+      ],
+      "gloss": "Trebitsch flieht mit der Kasse und seinem Onkel nach Amerika. Die Abfahrtsstelle ist nicht genannt.",
+      "quote": "Um neun Uhr morgens fiel die Brücke im Hamburger Hafen.",
+      "srcText": "fiel die Brücke im Hamburger Hafen",
+      "lat": 53.546233,
+      "lon": 9.971144
+    },
+    {
+      "id": "loc-universitaet",
+      "group": [
+        "Chapter 22",
+        "Chapter 19"
+      ],
+      "name": "Universität Unter den Linden",
+      "geocode": "Humboldt-Universität zu Berlin",
+      "confidence": "high",
+      "character": [
+        "per-marinelli"
+      ],
+      "gloss": "Hier hält sich der Bismarck-Bund für den 2. November bereit; Marinelli führt die Bewaffneten in die Straßenschlacht.",
+      "quote": "Aus der Universität kommt Marinelli mit fünfzig jungen Leuten, die Karabiner tragen, den Studenten als Verstärkung.",
+      "srcText": "Aus der Universität kommt Marinelli mit fünfzig jungen Leuten",
+      "time": "2. November",
+      "lat": 52.51834,
+      "lon": 13.39292
+    },
+    {
+      "id": "loc-demonstration-unter-den-linden",
+      "group": "Chapter 22",
+      "name": "Arbeiterdemonstration Unter den Linden",
+      "geocode": "Unter den Linden 13, Berlin",
+      "confidence": "medium",
+      "gloss": "Beginn der Straßenkämpfe am 2. November: Arbeiterzug gegen nationale Studenten, dann Polizei und Militär.",
+      "quote": "Um neun Uhr demonstrierten Arbeiter Unter den Linden.",
+      "srcText": "Um neun Uhr demonstrierten Arbeiter Unter den Linden",
+      "time": "2. November, 9 Uhr",
+      "lat": 52.516877,
+      "lon": 13.391622
+    },
+    {
+      "id": "loc-charlottenburg-jugendgruppen",
+      "group": "Chapter 22",
+      "name": "Sammelpunkt der nationalen Jugendgruppen, Charlottenburg",
+      "geocode": "Charlottenburg, Berlin",
+      "confidence": "low",
+      "gloss": "Gegenpol zur Arbeiterdemonstration; nur der Stadtteil ist genannt.",
+      "quote": "Die nationalen Jugendgruppen in Charlottenburg.",
+      "srcText": "Die nationalen Jugendgruppen in Charlottenburg",
+      "time": "2. November",
+      "lat": 52.515747,
+      "lon": 13.309683
+    },
+    {
+      "id": "loc-alexanderplatz",
+      "group": "Chapter 22",
+      "name": "Alexanderplatz",
+      "geocode": "Alexanderplatz, Berlin",
+      "confidence": "high",
+      "character": [
+        "per-lohse-theodor"
+      ],
+      "gloss": "Theodors Kompanie wartet hier auf ihren Einsatz.",
+      "quote": "Theodor wartet am Alexanderplatz.",
+      "srcText": "Theodor wartet am Alexanderplatz",
+      "time": "2. November",
+      "lat": 52.521981,
+      "lon": 13.413636
+    },
+    {
+      "id": "loc-rotes-rathaus",
+      "group": "Chapter 22",
+      "name": "Rathaus",
+      "geocode": "Rotes Rathaus, Berlin",
+      "confidence": "high",
+      "character": [
+        "per-lohse-theodor"
+      ],
+      "gloss": "Sturm der Arbeiterwehr; Theodor greift mit seiner Kompanie an.",
+      "quote": "Um Rathaus und Polizei kämpft eine Arbeiterwehr.",
+      "srcText": "Um Rathaus und Polizei kämpft eine Arbeiterwehr",
+      "time": "2. November",
+      "lat": 52.518272,
+      "lon": 13.407831
+    },
+    {
+      "id": "loc-polizeipraesidium",
+      "group": "Chapter 22",
+      "name": "Polizeipräsidium am Alexanderplatz",
+      "geocode": "Alexa, Berlin",
+      "confidence": "medium",
+      "character": [
+        "per-lohse-theodor"
+      ],
+      "gloss": "Das Präsidium, die „Rote Burg“, stand am Südostrand des Alexanderplatzes, wo heute das Einkaufszentrum Alexa steht; das Gebäude ist abgerissen.",
+      "quote": "Ein berittener Polizist meldet ihm Sturm auf Rathaus und Polizei.",
+      "srcText": "Ein berittener Polizist meldet ihm Sturm auf Rathaus und Polizei",
+      "time": "2. November",
+      "lat": 52.519072,
+      "lon": 13.416015
+    },
+    {
+      "id": "loc-scheunenviertel",
+      "group": "Chapter 22",
+      "name": "„Judenviertel“ (Scheunenviertel)",
+      "geocode": "Almstadtstraße, Berlin",
+      "confidence": "medium",
+      "character": [
+        "per-lohse-theodor"
+      ],
+      "gloss": "Pogromszene: Plünderung, Brände, Morde; ein Arbeiter erkennt Theodor als Günthers Mörder. Gedeutet als Scheunenviertel um die Grenadierstraße (heute Almstadtstraße), wo Anfang November 1923 tatsächlich ein Pogrom stattfand.",
+      "quote": "Es brennt im Judenviertel.",
+      "srcText": "Es brennt im Judenviertel",
+      "time": "2. November",
+      "lat": 52.525751,
+      "lon": 13.409504
+    },
+    {
+      "id": "loc-barackenlager-flugplatz",
+      "group": [
+        "Chapter 23",
+        "Chapter 27"
+      ],
+      "name": "Barackenlager auf dem Flugzeugplatz",
+      "geocode": "Tempelhofer Feld, Berlin",
+      "confidence": "low",
+      "character": [
+        "per-lenz-benjamin"
+      ],
+      "gloss": "Lager für Ausgewiesene vor dem Abtransport an die Grenzen; Lenz verteilt dort Fluchtpläne (Kap. XXVII). Welcher Flugplatz gemeint ist, ist offen; Tempelhof ist eine Annahme.",
+      "quote": "Die fremde Staatsbürger waren, das heißt aus den abgetrennten Gebieten Deutschlands stammten, wurden auf den Flugzeugplatz einquartiert, in Baracken, von Gendarmen bewacht und in Transporte eingeteilt, die nach den Grenzen gingen.",
+      "srcText": "wurden auf den Flugzeugplatz einquartiert",
+      "lat": 52.474419,
+      "lon": 13.402601
+    },
+    {
+      "id": "loc-kirche-hochzeit-potsdam",
+      "group": "Chapter 25",
+      "name": "Kirche der Hochzeit, Potsdam",
+      "geocode": "Garnisonkirche, Potsdam",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-schlieffen-elsa",
+        "per-lenz-benjamin"
+      ],
+      "gloss": "Theodors Hochzeit mit Elsa v. Schlieffen in Paradeuniform. Die Kirche ist nicht genannt; die Garnisonkirche liegt für eine Offiziershochzeit nahe.",
+      "quote": "Aus den Potsdamer Fenstern sahen die Leute, vor der Kirche standen sie, trotz der Kälte.",
+      "srcText": "Aus den Potsdamer Fenstern sahen die Leute",
+      "time": "Jänner",
+      "lat": 52.395512,
+      "lon": 13.053876
+    },
+    {
+      "id": "loc-gastwirte-moabit",
+      "group": "Chapter 27",
+      "name": "Gastwirtskeller in Moabit",
+      "geocode": "Turmstraße, Berlin",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor",
+        "per-thimme"
+      ],
+      "gloss": "Thimme kennt die Keller, in denen einst Waffen lagen, und legt neue Funde aus. Nur der Stadtteil ist genannt.",
+      "quote": "Die Gastwirte in Moabit, in deren Kellern Sprengstoffe und Waffen gelegen hatten.",
+      "srcText": "Die Gastwirte in Moabit",
+      "lat": 52.526149,
+      "lon": 13.341297
+    },
+    {
+      "id": "loc-bahnhof-zug-paris",
+      "group": "Chapter 30",
+      "name": "Bahnsteig, Zug nach Paris",
+      "geocode": "Bahnhof Friedrichstraße, Berlin",
+      "confidence": "low",
+      "character": [
+        "per-lenz-benjamin",
+        "per-lenz-lazar"
+      ],
+      "gloss": "Schlussbild: Benjamin schickt seinen Bruder Lazar mit Geld und Pass fort. Der Bahnhof ist nicht genannt.",
+      "quote": "Um halb eins ging der Zug nach Paris.",
+      "srcText": "Um halb eins ging der Zug nach Paris",
+      "time": "halb eins nachts",
+      "lat": 52.520174,
+      "lon": 13.386988
+    },
+    {
+      "id": "loc-gedaechtniskirche",
+      "group": "Mentioned",
+      "name": "Kaiser-Wilhelm-Gedächtniskirche",
+      "geocode": "Kaiser-Wilhelm-Gedächtniskirche, Berlin",
+      "confidence": "high",
+      "gloss": "Eines der im Kreis um Klaften diskutierten Anschlagsziele.",
+      "ref": "Kap. V",
+      "lat": 52.504787,
+      "lon": 13.335194
+    },
+    {
+      "id": "loc-reichstag",
+      "group": "Mentioned",
+      "name": "Reichstag",
+      "geocode": "Reichstagsgebäude, Berlin",
+      "confidence": "high",
+      "gloss": "Anschlagsziel (Kap. V), Theodors Tribünenbesuch (Kap. IX) und die erfundene Rettung vor Spartakus (Kap. XXI).",
+      "ref": "Kap. IX",
+      "lat": 52.518654,
+      "lon": 13.376102
+    },
+    {
+      "id": "loc-schuckert-werke",
+      "group": "Mentioned",
+      "name": "Schuckert-Werke",
+      "geocode": "Siemensstadt, Berlin",
+      "confidence": "low",
+      "gloss": "Arbeitsstätte von Günthers Schwiegervater, Betriebsrat und Kommunist.",
+      "ref": "Kap. VI",
+      "lat": 52.539808,
+      "lon": 13.256893
+    },
+    {
+      "id": "loc-amiens",
+      "group": "Mentioned",
+      "name": "Schloss von Amiens",
+      "geocode": "Amiens",
+      "confidence": "low",
+      "gloss": "Herkunft des silbernen Tafelaufsatzes, Theodors Kriegsbeute.",
+      "ref": "Kap. I",
+      "lat": 49.894171,
+      "lon": 2.295695
+    },
+    {
+      "id": "loc-posen",
+      "group": "Mentioned",
+      "name": "Posen",
+      "geocode": "Poznań",
+      "confidence": "low",
+      "gloss": "Herkunft der „Juden aus Posen“ im Ressentiment des alten Lohse.",
+      "ref": "Kap. I",
+      "lat": 52.408266,
+      "lon": 16.93352
+    },
+    {
+      "id": "loc-triest",
+      "group": "Mentioned",
+      "name": "Triest",
+      "geocode": "Trieste",
+      "confidence": "low",
+      "gloss": "Herkunft des Deserteurs Conti.",
+      "ref": "Kap. VIII",
+      "lat": 45.649648,
+      "lon": 13.777278
+    },
+    {
+      "id": "loc-budapest",
+      "group": "Mentioned",
+      "name": "Budapest",
+      "geocode": "Budapest",
+      "confidence": "low",
+      "gloss": "Ungarische Offiziere als Gäste der Organisation.",
+      "ref": "Kap. VIII",
+      "lat": 47.481849,
+      "lon": 19.144905
+    },
+    {
+      "id": "loc-koblenz",
+      "group": "Mentioned",
+      "name": "Koblenz",
+      "geocode": "Koblenz",
+      "confidence": "low",
+      "gloss": "Prostituierte aus Koblenz unter den Gästen der Organisation.",
+      "ref": "Kap. VIII",
+      "lat": 50.353328,
+      "lon": 7.594395
+    },
+    {
+      "id": "loc-breslau",
+      "group": "Mentioned",
+      "name": "Breslau",
+      "geocode": "Wrocław",
+      "confidence": "low",
+      "gloss": "Herkunft des Vizefeldwebels Fritsche.",
+      "ref": "Kap. XVII",
+      "lat": 51.126311,
+      "lon": 16.978196
+    },
+    {
+      "id": "loc-kattowitz",
+      "group": "Mentioned",
+      "name": "Kattowitz",
+      "geocode": "Katowice",
+      "confidence": "low",
+      "gloss": "Erinnerungsort der Majorswitwe Strubbe bei der Hochzeit.",
+      "ref": "Kap. XXV",
+      "lat": 50.213732,
+      "lon": 19.005885
+    },
+    {
+      "id": "loc-new-york",
+      "group": "Mentioned",
+      "name": "New York",
+      "geocode": "New York City",
+      "confidence": "low",
+      "gloss": "Schiffskartenbüro des Onkels Trewith.",
+      "ref": "Kap. XX",
+      "lat": 40.712728,
+      "lon": -74.006015
+    },
+    {
+      "id": "loc-sofia",
+      "group": "Mentioned",
+      "name": "Sofia",
+      "geocode": "Sofia, Bulgaria",
+      "confidence": "low",
+      "gloss": "Letzter Posten des Vaters von Elsa v. Schlieffen.",
+      "ref": "Kap. XXIII",
+      "lat": 42.697703,
+      "lon": 23.321736
+    }
+  ],
+  "routes": [
+    {
+      "id": "rte-2-november-rathaus-judenviertel",
+      "group": "Chapter 22",
+      "name": "Weg: Vom Kampf am Rathaus ins „Judenviertel“",
+      "from": [
+        52.518272,
+        13.407831
+      ],
+      "to": [
+        52.525751,
+        13.409504
+      ],
+      "mode": "foot",
+      "confidence": "low",
+      "character": [
+        "per-lohse-theodor"
+      ],
+      "gloss": "Theodors Weg am 2. November vom Gefecht um Rathaus und Polizei in das brennende Viertel, aus dem er vor seinem Verfolger flieht. Der genaue Weg ist nicht beschrieben.",
+      "quote": "Rennt. Es brennt im Judenviertel.",
+      "srcText": "Rennt. Es brennt im Judenviertel",
+      "coords": [
+        [
+          13.407679,
+          52.518196
+        ],
+        [
+          13.407565,
+          52.518281
+        ],
+        [
+          13.407541,
+          52.518362
+        ],
+        [
+          13.408456,
+          52.5188
+        ],
+        [
+          13.408503,
+          52.518823
+        ],
+        [
+          13.408674,
+          52.518905
+        ],
+        [
+          13.408773,
+          52.518952
+        ],
+        [
+          13.408834,
+          52.518982
+        ],
+        [
+          13.408882,
+          52.519005
+        ],
+        [
+          13.409593,
+          52.519339
+        ],
+        [
+          13.409581,
+          52.519404
+        ],
+        [
+          13.40955,
+          52.519567
+        ],
+        [
+          13.409522,
+          52.519698
+        ],
+        [
+          13.409468,
+          52.519957
+        ],
+        [
+          13.410039,
+          52.520232
+        ],
+        [
+          13.410203,
+          52.520311
+        ],
+        [
+          13.41037,
+          52.520389
+        ],
+        [
+          13.410329,
+          52.52081
+        ],
+        [
+          13.410988,
+          52.521139
+        ],
+        [
+          13.410895,
+          52.521204
+        ],
+        [
+          13.410827,
+          52.521248
+        ],
+        [
+          13.410823,
+          52.521291
+        ],
+        [
+          13.41082,
+          52.521321
+        ],
+        [
+          13.410818,
+          52.52135
+        ],
+        [
+          13.41079,
+          52.521368
+        ],
+        [
+          13.410735,
+          52.521403
+        ],
+        [
+          13.410364,
+          52.521645
+        ],
+        [
+          13.410265,
+          52.521721
+        ],
+        [
+          13.410241,
+          52.521739
+        ],
+        [
+          13.409859,
+          52.521984
+        ],
+        [
+          13.409752,
+          52.522052
+        ],
+        [
+          13.409657,
+          52.522113
+        ],
+        [
+          13.409614,
+          52.522179
+        ],
+        [
+          13.409586,
+          52.522228
+        ],
+        [
+          13.409551,
+          52.52222
+        ],
+        [
+          13.409543,
+          52.522215
+        ],
+        [
+          13.409515,
+          52.522229
+        ],
+        [
+          13.409417,
+          52.522263
+        ],
+        [
+          13.409356,
+          52.522284
+        ],
+        [
+          13.409334,
+          52.522292
+        ],
+        [
+          13.409298,
+          52.522304
+        ],
+        [
+          13.409278,
+          52.522311
+        ],
+        [
+          13.409201,
+          52.522338
+        ],
+        [
+          13.409119,
+          52.522366
+        ],
+        [
+          13.409091,
+          52.522383
+        ],
+        [
+          13.409026,
+          52.52235
+        ],
+        [
+          13.408701,
+          52.522568
+        ],
+        [
+          13.408708,
+          52.522624
+        ],
+        [
+          13.408722,
+          52.522654
+        ],
+        [
+          13.40892,
+          52.522841
+        ],
+        [
+          13.408955,
+          52.522881
+        ],
+        [
+          13.408855,
+          52.522921
+        ],
+        [
+          13.408905,
+          52.522996
+        ],
+        [
+          13.408795,
+          52.523041
+        ],
+        [
+          13.408976,
+          52.523293
+        ],
+        [
+          13.40905,
+          52.523396
+        ],
+        [
+          13.409419,
+          52.52391
+        ],
+        [
+          13.409439,
+          52.523942
+        ],
+        [
+          13.40943,
+          52.523958
+        ],
+        [
+          13.409406,
+          52.52397
+        ],
+        [
+          13.409104,
+          52.524055
+        ],
+        [
+          13.408963,
+          52.524095
+        ],
+        [
+          13.409008,
+          52.524155
+        ],
+        [
+          13.409041,
+          52.524228
+        ],
+        [
+          13.409135,
+          52.524495
+        ],
+        [
+          13.409222,
+          52.524742
+        ],
+        [
+          13.40928,
+          52.524902
+        ],
+        [
+          13.409201,
+          52.524913
+        ],
+        [
+          13.40923,
+          52.524994
+        ],
+        [
+          13.409415,
+          52.525504
+        ],
+        [
+          13.409475,
+          52.52567
+        ],
+        [
+          13.409479,
+          52.525681
+        ],
+        [
+          13.409503,
+          52.52575
+        ]
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "id": "per-lohse-theodor",
+      "name": "Theodor Lohse",
+      "role": "Leutnant a. D., Hauslehrer, später Spitzel, Offizier und Sicherheitschef",
+      "color": "#7a1f1f"
+    },
+    {
+      "id": "per-lohse-familie",
+      "name": "Mutter und Schwestern Lohse",
+      "role": "Theodors Familie in Moabit"
+    },
+    {
+      "id": "per-efrussi",
+      "name": "Efrussi",
+      "role": "jüdischer Juwelier, Theodors Arbeitgeber"
+    },
+    {
+      "id": "per-efrussi-frau",
+      "name": "Frau Efrussi",
+      "role": "zweite Gattin des Juweliers"
+    },
+    {
+      "id": "per-trebitsch",
+      "name": "Dr. Trebitsch",
+      "role": "Agent der Geheimorganisation in Berlin"
+    },
+    {
+      "id": "per-prinz-heinrich",
+      "name": "Prinz Heinrich",
+      "role": "Regimentschef, Theodors Gönner"
+    },
+    {
+      "id": "per-klitsche",
+      "name": "Detektiv Klitsche",
+      "role": "Theodors erster Vorgesetzter in der Organisation"
+    },
+    {
+      "id": "per-klaften",
+      "name": "Maler Klaften",
+      "role": "Maler, Gastgeber eines kommunistischen Kreises"
+    },
+    {
+      "id": "per-goldscheider",
+      "name": "Goldscheider",
+      "role": "jüdischer Pazifist im Kreis um Klaften"
+    },
+    {
+      "id": "per-thimme",
+      "name": "Thimme",
+      "role": "junger Glasbläser, Polizeispitzel"
+    },
+    {
+      "id": "per-guenther",
+      "name": "Günther",
+      "role": "Student, Kriegskamerad Theodors"
+    },
+    {
+      "id": "per-pauli",
+      "name": "Major Pauli",
+      "role": "Stadtkommandantur"
+    },
+    {
+      "id": "per-seyfarth",
+      "name": "Major Seyfarth",
+      "role": "Deckname eines Generals der Stelle S in München"
+    },
+    {
+      "id": "per-hartmut",
+      "name": "Kapitän Hartmut",
+      "role": "Vorgesetzter Seyfarths in München"
+    },
+    {
+      "id": "per-koeckwitz",
+      "name": "Freiherr v. Köckwitz",
+      "role": "Gutsherr auf Lukscha in Pommern"
+    },
+    {
+      "id": "per-lenz-benjamin",
+      "name": "Benjamin Lenz",
+      "role": "Spitzel aus Lodz, Theodors Gegenspieler",
+      "color": "#1f4f7a"
+    },
+    {
+      "id": "per-lenz-lazar",
+      "name": "Lazar Lenz",
+      "role": "Benjamins Bruder, Chemiker"
+    },
+    {
+      "id": "per-rastschuk",
+      "name": "Rastschuk",
+      "role": "russischer Bankbeamter"
+    },
+    {
+      "id": "per-kamm",
+      "name": "Student Kamm",
+      "role": "Kurier aus München"
+    },
+    {
+      "id": "per-marinelli",
+      "name": "Marinelli",
+      "role": "befreiter Gefangener der Organisation"
+    },
+    {
+      "id": "per-pisk",
+      "name": "Pisk",
+      "role": "Journalist"
+    },
+    {
+      "id": "per-hilper",
+      "name": "Hilper",
+      "role": "Politiker, später Innenminister"
+    },
+    {
+      "id": "per-schlieffen-elsa",
+      "name": "Elsa v. Schlieffen",
+      "role": "Theodors Braut, später Ehefrau"
+    },
+    {
+      "id": "per-trewith",
+      "name": "Artur Trewith",
+      "role": "Trebitschs Onkel aus New York"
+    },
+    {
+      "id": "per-ludendorff",
+      "name": "General Ludendorff",
+      "role": "historische Person"
+    },
+    {
+      "id": "per-freiherr-staatsanwalt",
+      "name": "Staatsanwalt",
+      "role": "Ankläger im Landarbeiterprozess"
+    }
+  ],
+  "_open": [
+    "Wohnung des Malers Klaften (Kap. V): Lage unbekannt; jenseits des Tiergartens von Trebitsch aus.",
+    "Redaktion der »Roten Fahne« (Kap. IV): Adresse 1922/23 prüfen.",
+    "Lesesaal der »Germania« (Kap. IV, VI): Verein, Ort unbekannt.",
+    "Kaiser-Wilhelm-Diele (Kap. IX, XI, XIX): Bar, historisch nicht identifiziert.",
+    "Kasino (Kap. II), Likörstube Rastschuks (Kap. XIX, XXI), Spielklub und Tanzpalast (Kap. XIX), Nachtlokal (Kap. XXII): ohne Ortsangabe.",
+    "Haus der Tante v. Schlieffen, Potsdam (Kap. XXIII–XXIV); Lohses Amt und die Konditorei gegenüber (Kap. XXVII, XXIX); Wohnung der Eheleute Lohse (Kap. XXV–XXX).",
+    "Bahnhof, an dem Theodor am 2. November auf seine Kompanie wartet (Kap. XXII), und Abfahrt des Studenten Kamm nach München (Kap. XIX, Anhalter Bahnhof?).",
+    "Rücksprache mit dem Erstdruck in der Wiener Arbeiter-Zeitung 1923 (Forschungsprojekt Biopolitik)."
+  ]
+}
